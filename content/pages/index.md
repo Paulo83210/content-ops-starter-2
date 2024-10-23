@@ -556,7 +556,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Nos partenaires sur ces succès
+      text: Ils ont contribué à nos réussites
       color: text-dark
       styles:
         self:
