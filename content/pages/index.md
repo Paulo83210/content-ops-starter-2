@@ -460,7 +460,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Résultats concrêts
+        title: ''
         subtitle: $ 88 – $ 176
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
