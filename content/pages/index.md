@@ -330,7 +330,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Nous avons lancé un programme formation unique, co-créé avec des
           partenaires comme Coveo et Netlify. Résultat : plus de 80 employés
