@@ -579,11 +579,19 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Nous continuons sur notre lancée avec la migration de trois autres
+      sections clés :
+
+      Loterie, Bingo, Poker, et Paris sportifs. Parallèlement, nous lançons des
+
+      projets d’optimisation, y compris un suivi de performance pour mesurer
+      l'impact
+
+      des nouvelles infrastructures.
+
+
+
     actions: []
     media:
       type: VideoBlock
