@@ -417,7 +417,9 @@ sections:
             flexDirection: row
             borderWidth: 1
       - type: FeaturedItem
-        title: Une nouvelle équipe qui a reçu uniquement la formation
+        title: >-
+          avec une nouvelle équipe qui n'a reçu aucun accompagnement à part les
+          formations
         tagline: ''
         subtitle: ''
         text: ''
