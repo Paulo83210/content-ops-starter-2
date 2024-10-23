@@ -158,7 +158,7 @@ bottomSections:
           Projet 2 : Propagation des bonnes pratiques et planification d’un
           nouveau chantier
         tagline: ''
-        subtitle: Visual Editor Layer
+        subtitle: ''
         text: >+
           *   Mise en place des meilleures pratiques de planification pour une
           nouvelle équipe de Loto-Québec.
