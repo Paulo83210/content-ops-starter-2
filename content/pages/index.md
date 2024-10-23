@@ -367,7 +367,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Des équipes plus autonomes et confiantes
     items:
       - type: FeaturedItem
         title: Feature Item One
