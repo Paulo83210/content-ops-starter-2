@@ -555,6 +555,7 @@ sections:
     posts:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/coveo2.md
+      - content/pages/blog/valtech.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
