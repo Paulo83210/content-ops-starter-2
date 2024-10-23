@@ -242,6 +242,8 @@ bottomSections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: flex-start
+        padding:
+          - pt-6
 ---
 Une plateforme agile au service de Loto-Québec
 
