@@ -236,6 +236,7 @@ bottomSections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        justifyContent: center
 ---
 Une plateforme agile au service de Loto-Québec
 
