@@ -160,12 +160,13 @@ bottomSections:
         tagline: ''
         subtitle: Visual Editor Layer
         text: >+
-          Offre aux équipes digitales la liberté d’effectuer des mises à jour de
-          contenu et de sites web de manière autonome et plus rapide que
-
-          jamais, grâce à un éditeur visuel intuitif.
+          *   Mise en place des meilleures pratiques de planification pour une
+          nouvelle équipe de Loto-Québec.
 
 
+          *   Amélioration de la préparation et de la prise en charge des
+          équipes, garantissant un suivi efficace et une meilleure exécution des
+          tâches.
 
         actions: []
         colors: bg-light-fg-dark
