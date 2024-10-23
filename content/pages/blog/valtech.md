@@ -121,9 +121,7 @@ bottomSections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          Projet 1 : Mission d’optimisation de la qualité et des processus
-          d’ingénierie
+        title: Mission d’optimisation de la qualité et des processus d’ingénierie
         tagline: ''
         subtitle: ''
         text: >+
