@@ -578,7 +578,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
       Nous continuons sur notre lancée avec la migration de trois autres
       sections clés :
