@@ -29,7 +29,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Une plateforme agile au service de Loto-Québec
+      text: ''
       color: text-dark
       styles:
         self:
