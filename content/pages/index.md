@@ -214,7 +214,7 @@ sections:
         fontWeight: 400
     title:
       type: TitleBlock
-      text: Mais qu'est ce que le chantier ATE ?
+      text: Découvrir le chantier ATE
       color: text-dark
   - type: FeaturedItemsSection
     title:
