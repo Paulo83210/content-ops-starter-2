@@ -161,7 +161,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Modularité
-        tagline: Feature 2
+        tagline: La promesse du composable
         subtitle: ''
         text: >+
           Contrairement à un système monolithique, une architecture composable
