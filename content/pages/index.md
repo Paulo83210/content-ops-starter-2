@@ -573,7 +573,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: L'avenir du chantier ATE
       color: text-dark
       styles:
         self:
