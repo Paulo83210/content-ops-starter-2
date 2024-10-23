@@ -436,9 +436,7 @@ sections:
             flexDirection: row
             borderWidth: 1
       - type: FeaturedItem
-        title: >-
-          Et une migration rapide, car seulement 2 à 3 mois de travail par
-          projet!
+        title: Tout ça en seulement 2 à 3 mois de travail par projet!
         tagline: ''
         subtitle: ''
         text: ''
