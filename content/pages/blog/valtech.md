@@ -44,7 +44,7 @@ bottomSections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Co-founders ofMACH Alliance
         subtitle: ''
         text: >
           Valtech is one of the founding members of the MACH Alliance and
