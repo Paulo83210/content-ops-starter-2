@@ -489,7 +489,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Rétrospective collaborative
-        subtitle: Numbers Done
+        subtitle: avec 50 collaborateurs
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
