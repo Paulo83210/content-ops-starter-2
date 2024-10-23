@@ -153,7 +153,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/GIF.gif
           altText: Image alt text placeholder
           elementId: ''
           styles:
