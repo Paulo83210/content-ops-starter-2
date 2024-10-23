@@ -563,7 +563,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Nos partenaires
+      text: Nos partenaires sur ces succès
       color: text-dark
       styles:
         self:
