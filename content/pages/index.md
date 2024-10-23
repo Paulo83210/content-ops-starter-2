@@ -329,11 +329,7 @@ sections:
         title: Une transformation humaine et durable
         tagline: 80 personnes
         subtitle: ''
-        text: >
-          Nous avons lancé un programme formation unique, co-créé avec des
-          partenaires comme Coveo et Netlify. Résultat : plus de 80 employés
-          formés pour gérer les futures migrations de façon autonome et
-          maîtriser les nouvelles technologies.
+        text: "Le projet ATE a réussi à transformer non seulement la technologie, mais aussi l'adoption par les équipes de ces nouveaux outils grâce à une approche centrée sur l'humain, visant à leur permettre de s'approprier pleinement ces innovations.\_\n"
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
