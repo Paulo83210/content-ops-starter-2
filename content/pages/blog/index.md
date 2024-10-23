@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Partenaires
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
