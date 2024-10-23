@@ -68,6 +68,7 @@ bottomSections:
           - pb-6
           - pl-16
           - pr-16
+          - pt-6
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
