@@ -28,7 +28,7 @@ bottomSections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: La formation
+      label: MACH ALLIANCE
       color: text-primary
     colors: bg-light-fg-dark
     styles:
