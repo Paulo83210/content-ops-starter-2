@@ -1,5 +1,5 @@
 ---
-title: Contentstack
+title: Netlify
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
