@@ -81,8 +81,7 @@ bottomSections:
         title: Frontend Cloud Layer
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n\n\n\n\n"
         actions: []
         colors: bg-light-fg-dark
         styles:
