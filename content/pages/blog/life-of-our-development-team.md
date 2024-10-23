@@ -185,12 +185,6 @@ bottomSections:
       offerts par Netlify
     text: "Que ce soit la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise, ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale.\n\nPour en savoir plus, n’hésitez pas à venir nousvoir directement sur place ou visiter notre site Web! [de visiter notre site web!](https://www.netlify.com/)\n"
     actions:
-      - type: Button
-        label: Par ici
-        url: '/https://www.netlify.com/'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: Par ici
         url: '/https://www.netlify.com/'
