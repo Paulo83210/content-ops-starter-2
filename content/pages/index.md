@@ -410,13 +410,6 @@ sections:
         tagline: Hors JEL et Loteries
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
