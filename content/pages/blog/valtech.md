@@ -215,11 +215,11 @@ bottomSections:
         textAlign: center
   - type: GenericSection
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Avec une telle diversité de projets en cours et une maîtrise du
+      composable, Valtech continue de jouer un rôle clé dans l'évolution
+      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
+      dans la transformation technologique.
     actions: []
     colors: bg-light-fg-dark
     styles:
