@@ -327,7 +327,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Une transformation humaine et durable
-        tagline: 80 personnes
+        tagline: 80 personnes formés
         subtitle: ''
         text: "Le projet ATE a réussi à transformer non seulement la technologie, mais aussi l'adoption par les équipes de ces nouveaux outils grâce à une approche centrée sur l'humain, visant à leur permettre de s'approprier pleinement ces innovations.\_\n"
         actions: []
