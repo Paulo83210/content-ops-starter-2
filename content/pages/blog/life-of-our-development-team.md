@@ -29,26 +29,6 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Une plateforme agile au service de Loto-Québec
-    text: "Netlify est une solution de déploiement et d’hébergement web qui révolutionne la manière dont les sites et applications sont gérés. En facilitant l’adoption de l’architecture\_composable, Netlify permet à Loto-Québec de moderniser ses infrastructures tout en accélérant la mise en ligne de nouvelles expériences numériques, garantissant ainsi une performance continue et une innovation rapide.\n\n\n\n"
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        padding:
-          - pt-0
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Des équipes autonomes et plus performantes grâce à Netlify
       color: text-dark
     subtitle: >-
