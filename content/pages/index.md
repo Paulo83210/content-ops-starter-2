@@ -391,16 +391,7 @@ sections:
           formation et aucun accompagnement.​
         tagline: L'équipe
         subtitle: ''
-        text: >+
-          Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
-          formation et aucun accompagnement.​
-
-
-
-
-
-
-
+        text: ''
         actions: []
         colors: bg-light-fg-dark
         styles:
