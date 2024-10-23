@@ -549,6 +549,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderColor: border-neutral
+            borderWidth: 2
     actions: []
     elementId: ''
     variant: small-list
