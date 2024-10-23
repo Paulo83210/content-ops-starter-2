@@ -28,5 +28,5 @@ postFeed:
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
-  hoverEffect: move-up
+  hoverEffect: thick-underline
 ---
