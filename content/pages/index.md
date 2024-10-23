@@ -335,7 +335,7 @@ sections:
           formés pour gérer les futures migrations de façon autonome et
           maîtriser les nouvelles technologies.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
