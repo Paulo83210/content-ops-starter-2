@@ -17,7 +17,7 @@
             "altText": "Blog",
             "url": "/blog",
             "icon": "",
-            "iconPosition": "left",
+            "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         }
