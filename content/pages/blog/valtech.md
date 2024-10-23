@@ -44,7 +44,7 @@ bottomSections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Co-founders ofMACH Alliance
+        title: Co-founders of MACH Alliance
         subtitle: ''
         text: >
           Valtech is one of the founding members of the MACH Alliance and
