@@ -63,7 +63,7 @@ bottomSections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-6
+          - pt-0
       subtitle:
         textAlign: left
 ---
