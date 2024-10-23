@@ -69,5 +69,5 @@ bottomSections:
       subtitle:
         textAlign: left
 ---
-## Netlify : Un catalyseur pour la transformation numérique du chantier ATE
+# Netlify : Un catalyseur pour la transformation numérique du chantier ATE
 
