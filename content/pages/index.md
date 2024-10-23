@@ -88,6 +88,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/abstract-feature1.svg
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
