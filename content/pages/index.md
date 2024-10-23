@@ -498,9 +498,7 @@ sections:
       text: Processus et amélioration continue
       color: text-dark
     subtitle: "Rétrospective collaborative\_: Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers prioritaires pour améliorer nos méthodes de travail."
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "Analyse des \"ways of working\"\_: Implémentation de nouvelles pratiques pour fluidifier nos processus et\noptimiser l’expérience des équipes.\n\n\n\n\n\n\n\n"
     actions:
       - type: Button
         label: Get started
