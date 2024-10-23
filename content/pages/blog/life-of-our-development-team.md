@@ -212,7 +212,7 @@ bottomSections:
             borderRadius: x-large
             flexDirection: row
     actions: []
-    variant: two-col-grid
+    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:
