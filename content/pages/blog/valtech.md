@@ -126,7 +126,22 @@ bottomSections:
           d’ingénierie
         tagline: ''
         subtitle: ''
-        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n\n\n\n\n"
+        text: >+
+          *   Évaluation de la maturité engineering et organisationnelle de
+          Loto-Québec.
+
+
+          *   Mesure des écarts et définition des points d’amélioration
+          prioritaires dans une feuille de route.
+
+
+          *   Analyse des compétences des équipes et identification des besoins
+          en formation.
+
+
+          *   Préconisation de nouvelles organisations internes, avec des rôles
+          et responsabilités adaptés.
+
         actions: []
         colors: bg-light-fg-dark
         styles:
