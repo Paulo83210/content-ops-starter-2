@@ -521,7 +521,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Optimisation de processus et amélioration continue
+      label: optimisation
       color: text-primary
     colors: bg-light-fg-dark
     styles:
