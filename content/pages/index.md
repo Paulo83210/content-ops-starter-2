@@ -328,7 +328,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: Programme de formation
         tagline: ''
         subtitle: ''
         text: >
