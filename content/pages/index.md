@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Loto-Québec prépare son avenir
+        title: Mais qu’est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: L'objectif ?
         text: >
