@@ -494,7 +494,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: 'Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la '
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
