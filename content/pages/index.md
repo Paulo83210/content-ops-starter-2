@@ -370,7 +370,7 @@ sections:
     subtitle: Des équipes plus autonomes et confiantes
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Premiers sites corporatifs migrés par les équpes de Loto-Québec
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
