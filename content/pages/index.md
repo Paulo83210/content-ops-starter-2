@@ -407,7 +407,7 @@ sections:
         title: >-
           Et une migration rapide, car seulement 2 à 3 mois de travail par
           projet!
-        tagline: This is the tagline
+        tagline: Rapidité
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
