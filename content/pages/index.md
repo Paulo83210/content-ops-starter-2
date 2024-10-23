@@ -57,8 +57,8 @@ sections:
           Moderniser l’infrastructure technologique pour créer des expériences
           humaines,
 
-          personnalisées et pertinentes.  Avec cette nouvelle architecture
-          composable et
+          personnalisées et pertinentes.  Avec cette **nouvelle architecture
+          composable** et
 
           donc modulaire, un CMS headless, fini le blocage à l’innovation : nous
           devenons
