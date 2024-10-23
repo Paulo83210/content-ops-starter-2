@@ -326,7 +326,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Programme de formation
+        title: Une transformation humaine et durable
         tagline: 80 personnes
         subtitle: ''
         text: >
