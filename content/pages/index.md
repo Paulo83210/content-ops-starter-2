@@ -114,6 +114,11 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: CheckboxFormControl
+          name: confirmation
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
