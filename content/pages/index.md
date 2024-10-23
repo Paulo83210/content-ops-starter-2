@@ -548,6 +548,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutral
     actions: []
     elementId: ''
     variant: small-list
