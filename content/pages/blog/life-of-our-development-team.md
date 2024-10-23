@@ -129,7 +129,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: 03 Netlify Connect
       color: text-dark
       styles:
         self:
