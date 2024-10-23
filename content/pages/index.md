@@ -383,6 +383,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 500
     items:
       - type: FeaturedItem
         title: Premiers sites corporatifs migrés par les équipes de Loto Québec
