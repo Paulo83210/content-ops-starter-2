@@ -15,7 +15,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Des équipes autonomes et plus performantes grâce à Netlify
+      text: 'Valtech : Un leader mondial dans l''architecture composable'
       color: text-dark
     subtitle: >-
       L’un des piliers du succès du chantier ATE a été l'autonomisation des
