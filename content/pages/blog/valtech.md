@@ -37,7 +37,7 @@ bottomSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Co-founder of MACH alliance
+      text: ''
       color: text-dark
       styles:
         self:
