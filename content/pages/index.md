@@ -531,26 +531,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Processus et amélioration continue
-      color: text-dark
-    subtitle: "Rétrospective collaborative\_: Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers prioritaires pour améliorer nos méthodes de travail."
-    text: "Analyse des \"ways of working\"\_: Implémentation de nouvelles pratiques pour fluidifier nos processus et\noptimiser l’expérience des équipes.\n\n\n\n\n\n\n\n"
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: optimisation
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - subtitle: Nos partenaires
     images:
       - url: /images/empathy-logo.svg
