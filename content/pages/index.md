@@ -453,7 +453,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Résultats concrêts
       color: text-dark
       styles:
         self:
