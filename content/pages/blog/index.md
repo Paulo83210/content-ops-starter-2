@@ -11,6 +11,7 @@ topSections:
     subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
