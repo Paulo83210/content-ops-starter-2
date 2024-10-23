@@ -48,6 +48,8 @@ bottomSections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pt-1
 ---
 Une plateforme agile au service de Loto-Québec
 
