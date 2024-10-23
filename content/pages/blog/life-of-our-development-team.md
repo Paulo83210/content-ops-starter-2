@@ -158,7 +158,7 @@ bottomSections:
       styles:
         self:
           padding:
-            - pt-1
+            - pt-6
             - pb-28
             - pl-2
             - pr-2
