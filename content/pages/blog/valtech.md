@@ -37,7 +37,7 @@ bottomSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Co-founder of MACH alli
       color: text-dark
       styles:
         self:
