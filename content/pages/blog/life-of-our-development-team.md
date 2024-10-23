@@ -58,7 +58,7 @@ bottomSections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: "Netlify offre bien plus que des outils de déploiement rapide.\_Ses solutions\_Netlify Connect,\_Netlify Core\_et\_Netlify Create\_permettent à Loto-Québec de simplifier l’intégration des données, d'accélérer la mise en ligne des contenus, et de collaborer plus efficacement entre les équipes techniques et créatives. Ce workflow intégré permet non seulement d’augmenter la productivité, mais aussi de répondre rapidement aux besoins du marché."
     items:
       - type: FeaturedItem
         title: Feature Item One
