@@ -207,7 +207,7 @@ bottomSections:
         Netlify est un partenaire stratégique pour la transformation de
         Loto-Québec
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >+
       Netlify
 
