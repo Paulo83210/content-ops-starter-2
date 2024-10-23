@@ -54,19 +54,13 @@ sections:
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
         text: >
-          Moderniser l’infrastructure technologique pour créer des expériences
-          humaines,
+          L'objectif de ce chantier est de moderniser l’infrastructure
+          technologique pour créer des expériences humaines,
 
-          personnalisées et pertinentes.  Avec cette **nouvelle architecture
-          composable** et
+          personnalisées et pertinentes.  Cela passe par une **nouvelle
+          architecture composable** et
 
-          donc modulaire, un CMS Headless, fini le blocage à l’innovation : nous
-          devenons
-
-          plus flexibles, plus réactifs, et mieux équipés pour relever les défis
-          de
-
-          demain.
+          donc modulaire, et un CMS Headless en autres. 
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
