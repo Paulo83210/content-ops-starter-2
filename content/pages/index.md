@@ -413,7 +413,7 @@ sections:
             flexDirection: row
             borderWidth: 1
       - type: FeaturedItem
-        title: Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
+        title: Une nouvelle équipe qui a reçu uniquement la formation
         tagline: (hors JEL et Loteries)
         subtitle: ''
         text: ''
