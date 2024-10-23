@@ -355,7 +355,7 @@ sections:
           textAlign: center
     elementId: ''
     variant: small-list
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
