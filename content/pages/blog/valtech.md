@@ -26,7 +26,7 @@ bottomSections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: MACH ALLIANCE
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
     styles:
