@@ -3,8 +3,8 @@ title: Coveo
 slug: surround-yourself-with-right-people
 date: '2024-10-29'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Coveo utilise l'IA pour personnaliser l'expérience numérique des utilisateurs,
+  notamment la recherche, les recommandations et la personnalisation.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
