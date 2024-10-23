@@ -96,7 +96,7 @@ bottomSections:
       - type: FeaturedItem
         title: Netlify Create
         tagline: ''
-        subtitle: ''
+        subtitle: Visual Editor Layer
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         actions: []
