@@ -162,7 +162,7 @@ sections:
       - type: FeaturedItem
         title: Modularité
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: >+
           Contrairement à un système monolithique, une architecture composable
           offre une modularité qui simplifie les mises à jour et les
