@@ -218,7 +218,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Les avancées majeures
       color: text-dark
       styles:
         self:
