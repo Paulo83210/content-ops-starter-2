@@ -96,7 +96,7 @@ bottomSections:
       - type: FeaturedItem
         title: Netlify Create
         tagline: ''
-        subtitle: ''
+        subtitle: Visual Editor Layer
         text: >+
           Offre aux équipes digitales la liberté d’effectuer des mises à jour de
           contenu et de sites web de manière autonome et plus rapide que
