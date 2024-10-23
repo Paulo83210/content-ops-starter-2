@@ -114,16 +114,16 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - type: CheckboxFormControl
-          name: confirmation
-          label: J'accepte de recevoir des nouvelles de la part de Valtech
-          isRequired: false
-          width: full
         - type: TextareaFormControl
           name: retours
           label: J'aimerais vous partager...
           hideLabel: true
           placeholder: J'aimerais vous partager...
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: confirmation
+          label: J'accepte de recevoir des nouvelles de la part de Valtech
           isRequired: false
           width: full
       elementId: contact-form
