@@ -117,7 +117,7 @@ bottomSections:
         title: 03 - Netlify Connect
         tagline: ''
         subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier\nles sources de contenu et de données\n\n\n\n"
+        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier\nles sources de contenu et de données\n\n\n\n\n\n\n\n"
         actions: []
         colors: bg-light-fg-dark
         styles:
