@@ -67,6 +67,7 @@ bottomSections:
         padding:
           - pb-6
           - pl-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
