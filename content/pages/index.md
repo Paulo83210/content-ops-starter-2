@@ -454,7 +454,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: >-
+          Et une migration rapide, car seulement 2 à 3 mois de travail par
+          projet!
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
