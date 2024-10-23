@@ -411,6 +411,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderWidth: 1
       - type: FeaturedItem
         title: Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
         tagline: ''
