@@ -35,7 +35,7 @@ bottomSections:
       type: Badge
       label: netlify
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
