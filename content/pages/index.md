@@ -362,7 +362,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Résultats concrêts
       color: text-primary
       styles:
         self:
