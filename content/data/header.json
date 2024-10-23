@@ -16,7 +16,7 @@
             "label": "Partenaires",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "",
+            "icon": "arrowLeft",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
