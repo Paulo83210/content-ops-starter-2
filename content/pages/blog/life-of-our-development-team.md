@@ -143,13 +143,6 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: 03 Netlify Connect
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
     subtitle: "03 -\_Netlify Connect"
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
