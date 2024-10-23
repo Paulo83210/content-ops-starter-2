@@ -409,39 +409,6 @@ sections:
     items:
       - type: FeaturedItem
         title: Premiers sites corporatifs migrés par les équipes de Loto Québec
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-              padding:
-                - pt-0
-                - pl-0
-                - pb-0
-                - pr-0
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderWidth: 2
-            borderRadius: x-small
-            flexDirection: row-reverse
-            justifyContent: center
-            borderStyle: solid
-      - type: FeaturedItem
-        title: Premiers sites corporatifs migrés par les équipes de Loto Québec
         tagline: ''
         subtitle: ''
         text: ''
