@@ -87,10 +87,14 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: La promesse du composable
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Une architecture composable utilise des technologies spécifiques pour
+          répondre précisément aux besoins d'affaires. Elle permet de choisir
+          les meilleurs outils pour chaque fonction, assurant ainsi une
+          adaptation optimale aux exigences commerciales.
+
+
+
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
