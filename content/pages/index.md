@@ -412,7 +412,7 @@ sections:
       - type: FeaturedItem
         title: >-
           ... avec une nouvelle équipe qui n'a reçu aucun accompagnement à part
-          les formations
+          les formations.
         tagline: ''
         subtitle: ''
         text: ''
