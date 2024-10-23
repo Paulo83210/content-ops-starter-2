@@ -53,7 +53,7 @@ sections:
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
         tagline: Chantier ATE
-        subtitle: Be in good company
+        subtitle: L'objectif ?
         text: >+
           L’objectif ?
 
