@@ -126,10 +126,18 @@ sections:
         title: Flexibilité
         tagline: La promesse du composable
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          En se découplant du back-end, cette architecture facilite l'accès et
+          l'utilisation des données sur diverses interfaces. Cela permet une
+          flexibilité accrue et une meilleure expérience utilisateur,
+          indépendamment de la plateforme.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
