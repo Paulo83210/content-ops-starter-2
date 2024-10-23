@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/GIF.gif
+  url: /images/Group 13.png
   altText: Thumbnail
   type: ImageBlock
   styles:
