@@ -124,7 +124,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Flexibilité
-        tagline: Testimonial 2
+        tagline: La promesse du composable
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
