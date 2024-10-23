@@ -55,7 +55,7 @@ bottomSections:
       type: TitleBlock
       text: 'Netlify : Une solution complète pour aller plus loin dans l''innovation'
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Netlify offre bien plus que des outils de déploiement rapide.
     text: "Ses solutions\_Netlify\nConnect,\_Netlify Core\_et\_Netlify Create\_permettent\nà Loto-Québec de simplifier l’intégration des données, d'accélérer la mise en\nligne des contenus, et de collaborer plus efficacement entre les équipes\ntechniques et créatives. Ce workflow intégré permet non seulement d’augmenter\nla productivité, mais aussi de répondre rapidement aux besoins du marché.\n\n\n\n\n\n\n\n"
     actions:
       - type: Button
