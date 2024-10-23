@@ -114,7 +114,7 @@ bottomSections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: 03 - Netlify Connect
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
