@@ -329,7 +329,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Programme de formation
-        tagline: ''
+        tagline: 80 personnes
         subtitle: ''
         text: >
           Nous avons lancé un programme formation unique, co-créé avec des
