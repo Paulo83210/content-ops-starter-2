@@ -461,7 +461,7 @@ sections:
             flexDirection: row
     actions: []
     elementId: ''
-    variant: big-list
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:
