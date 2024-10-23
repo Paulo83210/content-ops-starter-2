@@ -460,7 +460,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: ''
+        title: Premiers sites corporatifs migrés par les équipes de Loto Québec
         subtitle: $ 88 – $ 176
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
