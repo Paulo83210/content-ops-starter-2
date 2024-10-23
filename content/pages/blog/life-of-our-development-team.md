@@ -159,7 +159,7 @@ bottomSections:
         self:
           padding:
             - pt-1
-            - pb-16
+            - pb-28
             - pl-2
             - pr-2
           borderColor: border-dark
