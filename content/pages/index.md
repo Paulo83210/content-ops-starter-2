@@ -431,7 +431,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
