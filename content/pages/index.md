@@ -497,7 +497,7 @@ sections:
       type: TitleBlock
       text: Processus et amélioration continue
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: "Rétrospective collaborative\_: Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers prioritaires pour améliorer nos méthodes de travail."
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
