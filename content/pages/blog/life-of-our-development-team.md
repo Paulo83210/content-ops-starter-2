@@ -142,13 +142,6 @@ bottomSections:
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
