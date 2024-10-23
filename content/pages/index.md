@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Mais qu’est-ce que le chantier ATE ?
+        title: Qu’est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
         text: >
