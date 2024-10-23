@@ -42,6 +42,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
     media:
       type: VideoBlock
       title: Title of the video
