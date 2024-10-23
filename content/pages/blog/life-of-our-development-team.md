@@ -91,7 +91,7 @@ bottomSections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Netlify Create
+        title: 02- Netlify Create
         tagline: ''
         subtitle: Visual Editor Layer
         text: >+
