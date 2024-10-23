@@ -387,7 +387,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: >-
+          Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
+          formation et aucun accompagnement.​
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+
