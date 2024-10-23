@@ -163,10 +163,30 @@ sections:
         title: Modularité
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Contrairement à un système monolithique, une architecture composable
+          offre une modularité qui simplifie les mises à jour et les
+          intégrations. Elle permet une évolution rapide et efficace, réduisant
+          les délais de mise sur le marché.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
