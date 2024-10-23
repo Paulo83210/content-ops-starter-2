@@ -389,7 +389,7 @@ sections:
         title: >-
           Une équipe nouvelle  qui a reçu uniquement la formation et aucun
           accompagnement.​
-        tagline: L'équipe
+        tagline: '02'
         subtitle: (hors JEL et Loteries)
         text: ''
         actions: []
