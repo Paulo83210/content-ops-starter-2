@@ -101,7 +101,7 @@ sections:
     media:
       fields:
         - name: Prénom et Nom
-          label: Name
+          label: Prénom et Nom
           hideLabel: true
           placeholder: Your name
           isRequired: true
