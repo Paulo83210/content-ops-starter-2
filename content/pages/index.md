@@ -281,8 +281,13 @@ sections:
         title: 'Écosystème modulaire '
         tagline: Migration
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Grâce à notre nouveau Design System, nous réutilisons les composantes,
+          évitant ainsi la duplication et simplifiant la gestion des contenus.
+          Et ça servira pour tout le reste des sections du site! 
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
