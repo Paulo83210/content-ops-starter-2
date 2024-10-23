@@ -33,7 +33,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ATE
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
