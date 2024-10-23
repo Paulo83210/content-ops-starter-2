@@ -140,7 +140,7 @@ bottomSections:
           - pt-16
           - pl-8
           - pb-8
-          - pr-8
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
