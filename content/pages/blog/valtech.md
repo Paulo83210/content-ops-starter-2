@@ -180,7 +180,7 @@ bottomSections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 03 - Netlify Connect
+        title: Optimisation des investissements et performance utilisateur
         tagline: ''
         subtitle: ''
         text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier\nles sources de contenu et de données\n\n\n\n"
