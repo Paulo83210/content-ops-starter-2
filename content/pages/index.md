@@ -54,9 +54,7 @@ sections:
         title: Loto-Québec prépare son avenir
         tagline: Chantier ATE
         subtitle: L'objectif ?
-        text: >+
-          L’objectif ?
-
+        text: >
           Moderniser l’infrastructure technologique pour créer des expériences
           humaines,
 
@@ -70,9 +68,6 @@ sections:
           de
 
           demain.
-
-
-
         actions: []
         colors: bg-dark-fg-light
         styles:
