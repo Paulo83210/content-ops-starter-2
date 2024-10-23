@@ -75,7 +75,7 @@ bottomSections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Frontend Cloud Layer
+        title: 01 - Frontend Cloud Layer
         tagline: ''
         subtitle: ''
         text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n\n\n\n\n"
