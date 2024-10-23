@@ -121,7 +121,7 @@ sections:
           width: full
         - type: TextareaFormControl
           name: retours
-          label: Message
+          label: J'aimerais vous partager...
           hideLabel: true
           placeholder: Your message
           isRequired: false
