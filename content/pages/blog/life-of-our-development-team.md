@@ -65,5 +65,18 @@ bottomSections:
       subtitle:
         textAlign: left
 ---
-<div style="text-align: center">### Netlify : Un catalyseur pour la transformation numérique du chantier ATE</div>
+<div style="text-align: center">### Netlify : Un catalyseur pour la transformation numérique du chantier ATE##### Une plateforme agile au service de Loto-Québec</div>
+
+<div style="text-align: center">##### Netlify est une solution de déploiement et d’hébergement web qui révolutionne
+la manière dont les sites et applications sont gérés. En facilitant l’adoption
+de l’architecture composable, Netlify permet à Loto-Québec de
+moderniser ses infrastructures tout en accélérant la mise en ligne de nouvelles
+expériences numériques, garantissant ainsi une performance continue et une
+innovation rapide.
+
+
+
+
+
+</div>
 
