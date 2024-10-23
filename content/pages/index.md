@@ -490,10 +490,9 @@ sections:
       - type: FeaturedItem
         title: Rétrospective collaborative
         subtitle: avec 50 collaborateurs
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Cette analyse a permis d’identifier 6 chantiers prioritaires pour
+          améliorer nos méthodes de travail.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
