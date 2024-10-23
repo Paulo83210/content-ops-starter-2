@@ -192,7 +192,7 @@ bottomSections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Par ici
         url: /
         showIcon: true
         icon: arrowRight
