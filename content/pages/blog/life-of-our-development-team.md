@@ -53,7 +53,7 @@ bottomSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: 'Netlify : Une solution complète pour aller plus loin dans l''innovation'
       color: text-primary
       styles:
         self:
