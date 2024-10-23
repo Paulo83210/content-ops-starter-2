@@ -117,8 +117,7 @@ bottomSections:
         title: 03 - Netlify Connect
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier\nles sources de contenu et de données\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
