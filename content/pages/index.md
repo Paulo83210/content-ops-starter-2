@@ -390,8 +390,16 @@ sections:
         title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
+          formation et aucun accompagnement.​
+
+
+
+
+
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
