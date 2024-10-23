@@ -230,7 +230,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: col
         padding:
           - pt-1
   - type: FeaturedItemsSection
