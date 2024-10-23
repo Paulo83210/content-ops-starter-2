@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Netlify
+title: Valtech
 date: '2024-10-29'
 author: content/data/person2.json
 excerpt: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs."
