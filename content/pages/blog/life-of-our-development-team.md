@@ -162,6 +162,8 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-6
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
