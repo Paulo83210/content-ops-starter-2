@@ -251,7 +251,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Un modèle réplicable
-        tagline: This is the tagline
+        tagline: Migration
         subtitle: Un modèle réplicable
         text: >+
           La première migration nous a offert une base solide pour les prochains
