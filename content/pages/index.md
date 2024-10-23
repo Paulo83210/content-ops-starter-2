@@ -168,42 +168,6 @@ sections:
           offre une modularité qui simplifie les mises à jour et les
           intégrations. Elle permet une évolution rapide et efficace, réduisant
           les délais de mise sur le marché.
-
-
-          Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour et les
-          intégrations. Elle permet une évolution rapide et efficace, réduisant
-          les délais de mise sur le marché.
-
-
-          Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour et les
-          intégrations. Elle permet une évolution rapide et efficace, réduisant
-          les délais de mise sur le marché.
-
-
-          Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour et les
-          intégrations. Elle permet une évolution rapide et efficace, réduisant
-          les délais de mise sur le marché.
-
-
-          Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour et les
-          intégrations. Elle permet une évolution rapide et efficace, réduisant
-          les délais de mise sur le marché.
-
-
-          Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour et les
-          intégrations. Elle permet une évolution rapide et efficace, réduisant
-          les délais de mise sur le marché.
-
-
-          Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour et les
-          intégrations. Elle permet une évolution rapide et efficace, réduisant
-          les délais de mise sur le marché.
         actions: []
         colors: bg-dark-fg-light
         styles:
