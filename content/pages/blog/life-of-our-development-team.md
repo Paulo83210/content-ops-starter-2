@@ -178,7 +178,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Encore plus d'agilité pour Loto-Québec
       color: text-dark
     subtitle: Increase your reach
     text: >
