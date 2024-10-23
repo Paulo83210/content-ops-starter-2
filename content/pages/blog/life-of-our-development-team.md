@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/LQ LOGO V2.png
+  url: /images/GIF.gif
   altText: Thumbnail
   type: ImageBlock
   styles:
