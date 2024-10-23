@@ -183,7 +183,14 @@ bottomSections:
         title: Optimisation des investissements et performance utilisateur
         tagline: ''
         subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier\nles sources de contenu et de données\n\n\n\n"
+        text: >
+          Valtech travaille main dans la main avec Loto-Québec sur
+          l'optimisation des performances liées à l’expérience utilisateur. Ce
+          projet vise à résoudre les défis liés à la gestion des données, à la
+          performance des systèmes et à la sécurité. Valtech, fort de son
+          expertise dans l’analyse des données et des innovations, aide
+          Loto-Québec à maximiser l’utilisation de ces informations pour
+          améliorer et capitaliser sur les expériences utilisateurs.
         actions: []
         colors: bg-light-fg-dark
         styles:
