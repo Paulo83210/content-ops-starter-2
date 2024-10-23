@@ -19,7 +19,8 @@
             "icon": "arrowLeft",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         }
     ],
     "secondaryLinks": [],
