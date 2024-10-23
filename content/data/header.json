@@ -18,7 +18,7 @@
             "url": "/blog",
             "icon": "",
             "iconPosition": "left",
-            "style": "primary",
+            "style": "secondary",
             "type": "Link"
         }
     ],
