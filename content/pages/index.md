@@ -253,8 +253,12 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: Un modèle réplicable
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          La première migration nous a offert une base solide pour les prochains
+          projets.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
