@@ -1,5 +1,5 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: Valtech
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
