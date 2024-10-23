@@ -466,7 +466,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: "Rétrospective collaborative\_:"
+        title: Rétrospective collaborative
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
