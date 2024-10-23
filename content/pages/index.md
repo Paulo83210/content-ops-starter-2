@@ -305,7 +305,7 @@ sections:
           permettre de s'approprier pleinement ces innovations. 
         text: ''
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
