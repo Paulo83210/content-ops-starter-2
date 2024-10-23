@@ -495,7 +495,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Processus et amélioration continue
       color: text-dark
     subtitle: Increase your reach
     text: >
