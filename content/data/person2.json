@@ -2,19 +2,6 @@
     "type": "Person",
     "name": "Partenaire",
     "role": "",
-    "image": {
-        "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
