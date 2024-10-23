@@ -299,9 +299,9 @@ sections:
       - type: FeaturedItem
         title: Programme de formation
         subtitle: >-
-          Nous avons lancé un programme formation unique, co-créé avec des
-          partenaires comme Coveo et Netlify. Résultat : plus de 80 employés
-          formés pour gérer les futures migrations de façon autonome et
+          Nous avons lancé un programme formation unique, co-créé avec nos
+          partenaires Coveo, Netlify et Content Stack. Résultat : plus de 80
+          employés formés pour gérer les futures migrations de façon autonome et
           maîtriser les nouvelles technologies.
         text: ''
         actions: []
