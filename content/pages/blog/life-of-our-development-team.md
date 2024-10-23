@@ -203,7 +203,9 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: >-
+        Netlify est un partenaire stratégique pour la transformation de
+        Loto-Québec
       color: text-dark
     subtitle: Be in good company
     text: >
