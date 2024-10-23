@@ -372,7 +372,7 @@ sections:
       - type: FeaturedItem
         title: Premiers sites corporatifs migrés par les équpes de Loto-Québec
         tagline: Migration
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         actions: []
