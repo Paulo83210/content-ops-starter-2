@@ -461,6 +461,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderWidth: 1
     actions: []
     elementId: ''
     variant: small-list
