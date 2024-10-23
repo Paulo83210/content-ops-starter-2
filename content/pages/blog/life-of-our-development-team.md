@@ -69,7 +69,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Des équipes autonomes et plus performantes grâce à Netlify
       color: text-dark
     subtitle: Increase your reach
     text: >
