@@ -169,7 +169,7 @@ sections:
           intégrations. Elle permet une évolution rapide et efficace, réduisant
           les délais de mise sur le marché.
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
