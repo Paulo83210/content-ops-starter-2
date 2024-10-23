@@ -329,7 +329,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Nous avons lancé un programme formation unique, co-créé avec des
