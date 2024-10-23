@@ -491,7 +491,7 @@ sections:
             borderRadius: x-small
             flexDirection: row-reverse
             justifyContent: center
-            borderStyle: dotted
+            borderStyle: solid
       - type: FeaturedItem
         title: 'Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la '
         subtitle: ''
