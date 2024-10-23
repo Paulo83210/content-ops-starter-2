@@ -214,7 +214,7 @@ sections:
         fontWeight: 400
     title:
       type: TitleBlock
-      text: Découvrir le chantier ATE
+      text: Comprendre le chantier ATE
       color: text-dark
   - type: FeaturedItemsSection
     title:
