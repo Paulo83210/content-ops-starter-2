@@ -154,7 +154,9 @@ bottomSections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: 02- Netlify Create
+        title: >-
+          Projet 2 : Propagation des bonnes pratiques et planification d’un
+          nouveau chantier
         tagline: ''
         subtitle: Visual Editor Layer
         text: >+
