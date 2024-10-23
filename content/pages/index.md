@@ -407,7 +407,7 @@ sections:
             borderWidth: 1
       - type: FeaturedItem
         title: Une nouvelle équipe qui a reçu uniquement la formation
-        tagline: Hors JEL et Loteries
+        tagline: ''
         subtitle: ''
         text: ''
         actions: []
