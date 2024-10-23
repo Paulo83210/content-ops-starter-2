@@ -164,7 +164,7 @@ bottomSections:
             - pr-2
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 0
           borderRadius: large
     colors: bg-neutral-fg-dark
     styles:
