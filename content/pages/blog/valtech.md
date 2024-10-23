@@ -6,7 +6,7 @@ author: content/data/person2.json
 excerpt: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs."
 featuredImage:
   type: ImageBlock
-  url: /images/Group 13.png
+  url: /images/Group 18.png
   altText: Thumbnail
   styles:
     self:
