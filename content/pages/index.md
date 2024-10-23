@@ -561,7 +561,7 @@ sections:
     elementId: ''
     variant: two-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: move-up
+    hoverEffect: shadow
     styles:
       self:
         padding:
