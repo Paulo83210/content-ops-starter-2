@@ -62,6 +62,8 @@ bottomSections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-2
       subtitle:
         textAlign: left
 ---
