@@ -390,7 +390,7 @@ sections:
         title: >-
           Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
           formation et aucun accompagnement.​
-        tagline: This is the tagline
+        tagline: L'équipe
         subtitle: This is the item subtitle
         text: >+
           Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
