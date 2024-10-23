@@ -48,7 +48,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Mais qu'est le chantier ATE ?
     items:
       - type: FeaturedItem
         title: >-
