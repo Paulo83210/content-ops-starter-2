@@ -390,7 +390,7 @@ sections:
           Une équipe nouvelle  qui a reçu uniquement la formation et aucun
           accompagnement.​
         tagline: L'équipe
-        subtitle: ''
+        subtitle: (hors JEL et Loteries)
         text: ''
         actions: []
         colors: bg-light-fg-dark
