@@ -46,18 +46,10 @@ bottomSections:
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: ''
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: >
+          Valtech is one of the founding members of the MACH Alliance and
+          currently holds key positions on the executive board, including the
+          alliance presidency, and the various councils.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
