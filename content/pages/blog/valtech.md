@@ -246,6 +246,6 @@ styles:
   self:
     flexDirection: col
 ---
-Une expertise reconnue au service de la transformation digitale
+<div style="text-align: left">Une expertise reconnue au service de la transformation digitale</div>
 
 Valtech, expert en stratégie digitale et en technologies de pointe, accompagne Loto-Québec dans sa transformation. En tant que leader, Valtech construit les fondations du passage d’une architecture monolithique à une infrastructure composable. Avec une équipe d'experts multidisciplinaires composée de développeurs back et front, d’ingénieurs DevOps, d’architectes, de QA et de Scrum Masters, Valtech agit comme une extension des ressources internes de Loto-Québec, facilitant cette transition critique.
