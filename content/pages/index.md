@@ -559,7 +559,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: big-list
+    variant: two-col-grid
     colors: bg-light-fg-dark
     hoverEffect: shadow-plus-move-up
     styles:
