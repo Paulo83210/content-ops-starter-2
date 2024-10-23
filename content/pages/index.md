@@ -116,7 +116,7 @@ sections:
           type: EmailFormControl
         - type: CheckboxFormControl
           name: confirmation
-          label: I have read and accept the legal terms.
+          label: J'accepte de recevoir des nouvelles de la part de Valtech
           isRequired: false
           width: full
       elementId: contact-form
