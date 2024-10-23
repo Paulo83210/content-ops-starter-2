@@ -391,7 +391,7 @@ sections:
       - type: FeaturedItem
         title: Premiers sites corporatifs migrés par les équipes de Loto Québec
         tagline: '01'
-        subtitle: ''
+        subtitle: '01'
         text: ''
         image:
           type: ImageBlock
