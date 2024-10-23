@@ -123,7 +123,7 @@ sections:
           name: retours
           label: J'aimerais vous partager...
           hideLabel: true
-          placeholder: Your message
+          placeholder: J'aimerais vous partager...
           isRequired: false
           width: full
       elementId: contact-form
