@@ -493,7 +493,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: 'Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la '
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
