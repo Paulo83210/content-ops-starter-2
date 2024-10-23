@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Découvrir le chantier ATE
+      text: Le pouvoir du chantier ATE
       color: text-dark
       type: TitleBlock
     subtitle: ''
