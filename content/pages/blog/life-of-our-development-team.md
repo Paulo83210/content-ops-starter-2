@@ -180,7 +180,9 @@ bottomSections:
       type: TitleBlock
       text: Encore plus d'agilité pour Loto-Québec
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      L'avenir du chantier ATE pourrait également bénéficier d’autres services
+      offerts par Netlify,
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
