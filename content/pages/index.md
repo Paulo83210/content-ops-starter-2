@@ -119,6 +119,13 @@ sections:
           label: J'accepte de recevoir des nouvelles de la part de Valtech
           isRequired: false
           width: full
+        - type: TextareaFormControl
+          name: retours
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
