@@ -222,7 +222,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/GIF.gif
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
