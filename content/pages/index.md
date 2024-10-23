@@ -308,7 +308,11 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Une transformation humaine et durable
-        subtitle: The Job Stuff
+        subtitle: >-
+          En 2024, le projet ATE a réussi à transformer non seulement la
+          technologie, mais aussi l'adoption par les équipes de ces nouveaux
+          outils grâce à une approche centrée sur l'humain, visant à leur
+          permettre de s'approprier pleinement ces innovations. 
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
