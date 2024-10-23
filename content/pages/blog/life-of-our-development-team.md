@@ -182,7 +182,7 @@ bottomSections:
       color: text-dark
     subtitle: >-
       L'avenir du chantier ATE pourrait également bénéficier d’autres services
-      offerts par Netlify,
+      offerts par Netlify
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
