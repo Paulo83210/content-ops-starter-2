@@ -53,7 +53,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: 'Netlify : Une solution complète pour aller plus loin dans l''innovation'
       color: text-dark
     subtitle: Be in good company
     text: >
