@@ -155,8 +155,8 @@ bottomSections:
             flexDirection: row
       - type: FeaturedItem
         title: >-
-          Projet 2 : Propagation des bonnes pratiques et planification d’un
-          nouveau chantier
+          Propagation des bonnes pratiques et planification d’un nouveau
+          chantier
         tagline: ''
         subtitle: ''
         text: >+
