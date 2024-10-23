@@ -508,7 +508,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Analyse des "ways of working"
-        subtitle: The Job Stuff
+        subtitle: sur xx
         text: >
           Implémentation de nouvelles pratiques pour fluidifier nos processus et
           optimiser l’expérience des équipes.
