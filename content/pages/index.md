@@ -211,7 +211,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 400
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
