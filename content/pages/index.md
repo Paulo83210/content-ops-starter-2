@@ -500,12 +500,6 @@ sections:
     subtitle: "Rétrospective collaborative\_: Une analyse avec 50 collaborateurs a permis d’identifier 6 chantiers prioritaires pour améliorer nos méthodes de travail."
     text: "Analyse des \"ways of working\"\_: Implémentation de nouvelles pratiques pour fluidifier nos processus et\noptimiser l’expérience des équipes.\n\n\n\n\n\n\n\n"
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
