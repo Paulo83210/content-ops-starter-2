@@ -42,6 +42,14 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: CarouselSection
     subtitle: Mais qu'est ce que le chantier ATE ?
     items:
