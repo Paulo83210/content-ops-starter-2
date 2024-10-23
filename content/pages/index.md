@@ -82,9 +82,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
         subtitle: ''
         text: >+
