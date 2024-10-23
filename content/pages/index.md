@@ -233,6 +233,7 @@ sections:
         flexDirection: col
         padding:
           - pt-1
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
