@@ -60,7 +60,7 @@ sections:
           personnalisées et pertinentes.  Avec cette **nouvelle architecture
           composable** et
 
-          donc modulaire, un CMS headless, fini le blocage à l’innovation : nous
+          donc modulaire, un CMS Headless, fini le blocage à l’innovation : nous
           devenons
 
           plus flexibles, plus réactifs, et mieux équipés pour relever les défis
