@@ -2,10 +2,7 @@
 title: Netlify
 slug: life-of-our-development-team
 date: '2024-10-29'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+excerpt: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs."
 featuredImage:
   url: /images/Group 13.png
   altText: Thumbnail
