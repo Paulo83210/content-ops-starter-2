@@ -54,10 +54,25 @@ sections:
         title: Loto-Québec prépare son avenir
         tagline: Chantier ATE
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          L’objectif ?
+
+          Moderniser l’infrastructure technologique pour créer des expériences
+          humaines,
+
+          personnalisées et pertinentes.  Avec cette nouvelle architecture
+          composable et
+
+          donc modulaire, un CMS headless, fini le blocage à l’innovation : nous
+          devenons
+
+          plus flexibles, plus réactifs, et mieux équipés pour relever les défis
+          de
+
+          demain.
+
+
+
         actions: []
         colors: bg-dark-fg-light
         styles:
