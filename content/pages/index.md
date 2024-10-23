@@ -28,7 +28,7 @@ sections:
 
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: '/images/Capture d’écran, le 2024-10-22 à 16.03.59.png'
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
