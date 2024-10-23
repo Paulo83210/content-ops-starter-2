@@ -432,7 +432,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
