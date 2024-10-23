@@ -3,9 +3,8 @@ title: Valtech
 slug: top-twenty-ways-to-save-time
 date: '2024-10-29'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  Valtech est une agence digitale internationale qui accompagne les entreprises
+  dans leur transformation numérique en proposant des solutions innovantes.
 featuredImage:
   url: /images/Group 18.png
   altText: Thumbnail
