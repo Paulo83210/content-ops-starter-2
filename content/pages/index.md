@@ -28,7 +28,7 @@ sections:
 
     actions: []
     media:
-      url: '/images/Capture d’écran, le 2024-10-22 à 16.03.59.png'
+      url: /images/GIF.gif
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
