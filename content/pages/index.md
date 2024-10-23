@@ -86,14 +86,13 @@ sections:
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
         subtitle: ''
-        text: >+
+        text: >
           Une architecture composable utilise des technologies spécifiques pour
           répondre précisément aux besoins d'affaires. Elle permet de choisir
           les meilleurs outils pour chaque fonction, assurant ainsi une
-          adaptation optimale aux exigences commerciales.
-
-
-
+          adaptation optimale aux exigences commerciales. Fini le blocage à
+          l’innovation : nous devenons plus flexibles, plus réactifs, et mieux
+          équipés pour relever les défis de demain.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
