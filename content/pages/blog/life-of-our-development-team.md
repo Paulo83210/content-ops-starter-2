@@ -60,7 +60,7 @@ bottomSections:
     actions: []
     badge:
       type: Badge
-      label: This is a badge
+      label: netlify
       color: text-primary
     colors: bg-light-fg-dark
     styles:
