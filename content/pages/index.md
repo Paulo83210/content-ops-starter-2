@@ -8,10 +8,24 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Vous venez de vivre une expérience unique avec notre croupier virtuel,
+      capable de vous recommander
+
+      des jeux sur mesure, même pour les demandes les plus surprenantes. Tout
+      ça,
+
+      grâce à la magie de vos données !
+
+
+      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
+      intelligemment plusieurs sources de données, nous
+
+      pouvons créer des expériences révolutionnaires qui réinventent l'avenir du
+      divertissement chez Loto-Québec.
+
+
+
     actions:
       - label: Get started
         altText: ''
