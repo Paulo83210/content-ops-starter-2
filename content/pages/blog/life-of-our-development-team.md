@@ -97,8 +97,14 @@ bottomSections:
         title: Netlify Create
         tagline: ''
         subtitle: Visual Editor Layer
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Offre aux équipes digitales la liberté d’effectuer des mises à jour de
+          contenu et de sites web de manière autonome et plus rapide que
+
+          jamais, grâce à un éditeur visuel intuitif.
+
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
