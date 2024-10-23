@@ -294,25 +294,11 @@ bottomSections:
         Loto-Québec
       color: text-dark
     subtitle: ''
-    text: >+
-      Netlify
-
-      a non seulement aidé Loto-Québec à moderniser ses infrastructures, mais
-      aussi à
-
-      créer un environnement où les équipes peuvent innover plus rapidement et
-      de
-
-      manière plus efficace. En offrant une plateforme flexible et modulaire,
-      Netlify
-
-      s'impose comme un partenaire incontournable pour accompagner Loto-Québec
-      dans
-
-      ses futurs défis numériques.
-
-
-
+    text: >
+      Avec une telle diversité de projets en cours et une maîtrise du
+      composable, Valtech continue de jouer un rôle clé dans l'évolution
+      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
+      dans la transformation technologique.
     actions: []
     media:
       type: ImageBlock
