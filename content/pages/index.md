@@ -535,7 +535,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: optimisation
+      label: D'autres projets en parallèle
       color: text-primary
       styles:
         self:
