@@ -63,7 +63,7 @@ sections:
           borderWidth: 1
           borderRadius: large
   - type: CarouselSection
-    subtitle: Mais qu'est ce que le chantier ATE ?
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
