@@ -66,6 +66,7 @@ bottomSections:
         flexDirection: row-reverse
         padding:
           - pb-6
+          - pl-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
