@@ -35,11 +35,7 @@ bottomSections:
         self:
           textAlign: left
     subtitle: Une plateforme agile au service de Loto-Québec
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Netlify est une solution de déploiement et d’hébergement web qui révolutionne la manière dont les sites et applications sont gérés. En facilitant l’adoption de l’architecture\_composable, Netlify permet à Loto-Québec de moderniser ses infrastructures tout en accélérant la mise en ligne de nouvelles expériences numériques, garantissant ainsi une performance continue et une innovation rapide.\n\n\n\n"
     actions: []
     media:
       type: VideoBlock
