@@ -64,6 +64,8 @@ bottomSections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pb-6
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
