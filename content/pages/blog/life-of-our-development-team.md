@@ -187,7 +187,7 @@ bottomSections:
     actions:
       - type: Button
         label: Par ici
-        url: /
+        url: '/https://www.netlify.com/'
         icon: arrowRight
         iconPosition: right
         style: secondary
