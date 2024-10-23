@@ -252,7 +252,7 @@ sections:
       - type: FeaturedItem
         title: Un modèle réplicable
         tagline: Migration
-        subtitle: Un modèle réplicable
+        subtitle: ''
         text: >+
           La première migration nous a offert une base solide pour les prochains
           projets.
