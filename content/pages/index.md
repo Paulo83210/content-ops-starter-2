@@ -392,7 +392,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Résultats concrêts
+      text: Des succès
       color: text-dark
       styles:
         self:
