@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Loto-Québec
-        tagline: Feature 2
+        tagline: Préparer son avenir
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
