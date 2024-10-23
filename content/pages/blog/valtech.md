@@ -286,36 +286,6 @@ bottomSections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: >-
-        Netlify est un partenaire stratégique pour la transformation de
-        Loto-Québec
-      color: text-dark
-    subtitle: ''
-    text: >
-      Avec une telle diversité de projets en cours et une maîtrise du
-      composable, Valtech continue de jouer un rôle clé dans l'évolution
-      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
-      dans la transformation technologique.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: Conclusion
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: flex-start
-        padding:
-          - pt-6
 slug: Valtech
 isFeatured: false
 seo:
