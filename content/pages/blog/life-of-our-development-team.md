@@ -1,7 +1,7 @@
 ---
 title: Netlify
 slug: life-of-our-development-team
-date: '2023-10-27'
+date: '2024-10-27'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
