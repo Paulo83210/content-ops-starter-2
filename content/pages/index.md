@@ -7,7 +7,7 @@ sections:
       text: Découvrir le chantier ATE
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Vous venez de vivre une expérience unique avec notre croupier virtuel,
       capable de vous recommander
