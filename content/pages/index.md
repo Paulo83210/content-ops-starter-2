@@ -51,7 +51,7 @@ sections:
     subtitle: Mais qu'est le chantier ATE ?
     items:
       - type: FeaturedItem
-        title: Loto-Québec
+        title: Loto-Québec prépare son avenir
         tagline: Préparer son avenir
         subtitle: Be in good company
         text: >-
