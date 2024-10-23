@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
-        tagline: Préparer son avenir
+        tagline: Chantier ATE
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
