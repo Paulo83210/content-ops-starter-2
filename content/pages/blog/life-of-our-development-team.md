@@ -29,7 +29,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Un catalyseur pour la transformation numérique du chantier ATE
       color: text-dark
     subtitle: Increase your reach
     text: >
