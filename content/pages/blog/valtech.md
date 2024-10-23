@@ -261,31 +261,6 @@ bottomSections:
           - pt-1
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Encore plus d'agilité pour Loto-Québec
-      color: text-dark
-    subtitle: >-
-      L'avenir du chantier ATE pourrait également bénéficier d’autres services
-      offerts par Netlify
-    text: "Que ce soit la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise, ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale.\n\nPour en savoir plus, n’hésitez pas à venir nousvoir directement sur place ou visiter notre site Web! [de visiter notre site web!](https://www.netlify.com/)\n"
-    actions:
-      - type: Link
-        label: Par ici
-        url: '/https://www.netlify.com/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    badge:
-      type: Badge
-      label: Opportunités pour l'avenir
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
 slug: Valtech
 isFeatured: false
 seo:
