@@ -183,9 +183,7 @@ bottomSections:
     subtitle: >-
       L'avenir du chantier ATE pourrait également bénéficier d’autres services
       offerts par Netlify
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "\n\n\n\ntels que la\_connectivité\nprivée\_pour plus de sécurité, ou\_Netlify Grid, qui offre\nune gestion avancée des équipes à l’échelle de l’entreprise. Ces solutions\nreprésentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa\ntransformation digitale.\n\n\n\n\n\n\_\n\n\n\nPour en savoir plus, n’hésitez pas à venir nous\nvoir directement sur place ou[\nde visiter notre site web!](https://www.netlify.com/)\n\n\n\n"
     actions:
       - type: Button
         label: Get started
