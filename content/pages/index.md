@@ -435,6 +435,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderWidth: 1
       - type: FeaturedItem
         title: >-
           Et une migration rapide, car seulement 2 à 3 mois de travail par
