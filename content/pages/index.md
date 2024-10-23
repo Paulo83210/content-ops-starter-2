@@ -479,7 +479,7 @@ sections:
             flexDirection: row
     actions: []
     elementId: ''
-    variant: small-list
+    variant: toggle-list
     colors: bg-light-fg-dark
     styles:
       self:
