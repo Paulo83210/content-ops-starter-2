@@ -17,7 +17,7 @@ bottomSections:
       type: TitleBlock
       text: 'Valtech : Un leader mondial dans l''architecture composable'
       color: text-dark
-    subtitle: "Avec plus de 5 ans d'expérience dans le domaine composable, Valtech s'est imposé comme un acteur incontournable de cette transformation technologique. Valtech a accompagné certaines des plus grandes marques mondiales dans leur transition vers une architecture composable, en collaborant avec les principaux partenaires de solutions technologiques. \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ •\t200+ implémentations dans le monde•\t50+ clients globaux•\t400+ certifications techniques•\t500+ spécialistes à disposition"
+    subtitle: ''
     text: "En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n"
     actions: []
     media:
