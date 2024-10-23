@@ -5,11 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "Merci !\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [],
-        "type": "FooterLinksGroup"
-    },
     "secondaryLinks": {
         "title": "Company",
         "links": [
