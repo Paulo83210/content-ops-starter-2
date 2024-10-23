@@ -250,7 +250,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Feature Item One
+        title: Un modèle réplicable
         tagline: This is the tagline
         subtitle: Un modèle réplicable
         text: >+
