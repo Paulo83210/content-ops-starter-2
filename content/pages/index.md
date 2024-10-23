@@ -447,7 +447,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Processus et amélioration continue
       color: text-dark
       styles:
         self:
