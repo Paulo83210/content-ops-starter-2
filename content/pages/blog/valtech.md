@@ -246,6 +246,6 @@ styles:
   self:
     flexDirection: col
 ---
-Une plateforme agile au service de Loto-Québec
+Une expertise reconnue au service de la transformation digitale
 
-Netlify est une solution de déploiement et d’hébergement web qui révolutionne la manière dont les sites et applications sont gérés. En facilitant l’adoption de l’architecture composable, Netlify permet à Loto-Québec de moderniser ses infrastructures tout en accélérant la mise en ligne de nouvelles expériences numériques, garantissant ainsi une performance continue et une innovation rapide.
+Valtech, expert en stratégie digitale et en technologies de pointe, accompagne Loto-Québec dans sa transformation. En tant que leader, Valtech construit les fondations du passage d’une architecture monolithique à une infrastructure composable. Avec une équipe d'experts multidisciplinaires composée de développeurs back et front, d’ingénieurs DevOps, d’architectes, de QA et de Scrum Masters, Valtech agit comme une extension des ressources internes de Loto-Québec, facilitant cette transition critique.
