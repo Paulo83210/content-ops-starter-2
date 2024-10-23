@@ -48,7 +48,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: Mais qu'est le chantier ATE ?
+    subtitle: Mais qu'est ce que le chantier ATE ?
     items:
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
