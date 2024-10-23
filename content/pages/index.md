@@ -441,22 +441,6 @@ sections:
             justifyContent: center
             borderStyle: solid
       - type: FeaturedItem
-        title: 'Une équipe nouvelle (hors JEL et Loteries) qui a reçu uniquement la '
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-      - type: FeaturedItem
         title: Premiers sites corporatifs migrés par les équipes de Loto Québec
         tagline: ''
         subtitle: ''
