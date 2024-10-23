@@ -297,7 +297,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Une transformation humaine et durable
+        title: Programme de formation
         subtitle: >-
           En 2024, le projet ATE a réussi à transformer non seulement la
           technologie, mais aussi l'adoption par les équipes de ces nouveaux
