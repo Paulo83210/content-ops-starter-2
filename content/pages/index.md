@@ -407,7 +407,7 @@ sections:
         title: >-
           Et une migration rapide, car seulement 2 à 3 mois de travail par
           projet!
-        tagline: Rapidité
+        tagline: '03'
         subtitle: ''
         text: ''
         actions: []
