@@ -586,7 +586,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
+    text: >
       Nous continuons sur notre lancée avec la migration de trois autres
       sections clés :
 
@@ -595,10 +595,9 @@ sections:
       projets d’optimisation, y compris un suivi de performance pour mesurer
       l'impact
 
-      des nouvelles infrastructures.
-
-
-
+      des nouvelles infrastructures. Le projet est en constante évolution,
+      ouvrant la voie à de nouvelles perspectives prometteuses et à des
+      expériences toujours plus innovantes pour le casino de demain! 
     actions: []
     media:
       type: VideoBlock
