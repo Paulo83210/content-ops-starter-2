@@ -95,7 +95,7 @@ bottomSections:
             flexDirection: row
       - type: FeaturedItem
         title: Netlify Create
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
