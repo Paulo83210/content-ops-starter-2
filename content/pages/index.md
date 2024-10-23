@@ -217,7 +217,7 @@ sections:
       text: Comprendre le chantier ATE
       color: text-dark
   - type: GenericSection
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
