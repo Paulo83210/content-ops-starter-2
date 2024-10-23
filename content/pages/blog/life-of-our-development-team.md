@@ -193,7 +193,7 @@ bottomSections:
         style: secondary
       - type: Link
         label: Par ici
-        url: /
+        url: '/https://www.netlify.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
