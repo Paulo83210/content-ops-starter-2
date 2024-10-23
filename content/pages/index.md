@@ -509,10 +509,9 @@ sections:
       - type: FeaturedItem
         title: Analyse des "ways of working"
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Implémentation de nouvelles pratiques pour fluidifier nos processus et
+          optimiser l’expérience des équipes.
         image:
           type: ImageBlock
           altText: Featured icon two
