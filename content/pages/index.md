@@ -254,6 +254,7 @@ sections:
         flexDirection: col
         padding:
           - pt-1
+          - pl-16
         justifyContent: center
   - type: FeaturedItemsSection
     title:
