@@ -876,8 +876,7 @@ sections:
         title: Netlify
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs.\n"
         image:
           type: ImageBlock
           url: /images/Group 13.png
