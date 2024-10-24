@@ -50,6 +50,7 @@ sections:
           - pl-16
           - pr-16
           - pt-16
+          - pb-16
   - type: GenericSection
     title:
       type: TitleBlock
