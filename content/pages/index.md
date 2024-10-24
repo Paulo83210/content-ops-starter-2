@@ -663,7 +663,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
+          - pb-12
           - pt-1
           - pl-3
           - pr-3
