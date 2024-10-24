@@ -31,7 +31,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: Des équipes autonomes et plus
+    subtitle: Une solution
     items:
       - type: FeaturedItem
         title: >-
