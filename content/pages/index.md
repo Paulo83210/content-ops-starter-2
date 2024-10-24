@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "Vous venez de vivre une expérience unique avec notre croupier virtuel en étant capable de vous recommander des jeux sur mesure, même avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !\n\n\_Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant intelligemment plusieurs sources de données, nous pouvons créer des expériences révolutionnaires qui réinventent l'avenir\_\n"
+    text: "Vous venez de vivre une expérience unique avec notre croupier virtuel en étant capable de vous recommander des jeux sur mesure, même avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !\n\nCe n’est qu’un aperçu de ce que permet le chantier ATE. En connectant intelligemment plusieurs sources de données, nous pouvons créer des expériences révolutionnaires qui réinventent l'avenir\_\n"
     actions: []
     badge:
       label: ''
@@ -637,7 +637,7 @@ sections:
           innovantes.
         image:
           type: ImageBlock
-          url: /images/LQ LOGO.png
+          url: /images/Group 21.png
           altText: Placeholder text
           styles:
             self:
@@ -670,7 +670,7 @@ sections:
           Plateforme qui supporte la recherche sur des interfaces numériques.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/coveo.logo.png
           altText: Placeholder text
           styles:
             self:
@@ -760,6 +760,7 @@ sections:
           - pr-16
           - pt-16
           - pb-16
+        alignItems: center
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
