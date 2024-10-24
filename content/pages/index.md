@@ -661,6 +661,7 @@ sections:
         justifyContent: center
         padding:
           - pl-16
+          - pr-16
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
