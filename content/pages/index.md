@@ -562,7 +562,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -763,42 +763,8 @@ sections:
         alignItems: center
       subtitle:
         textAlign: left
-  - subtitle: Nos partenaires
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pb-1
-          - pt-6
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title:
-      text: En savoir plus
+      text: Qu'avez-vous pensé de cette expérience ?
       color: text-dark
       type: TitleBlock
     subtitle: ''
@@ -854,10 +820,72 @@ sections:
         elementId: null
     badge:
       label: RESTONS EN CONTACT
-      color: text-primary
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pr-16
+          - pb-16
+  - subtitle: Merci à nos partenaires
+    images:
+      - type: ImageBlock
+        url: /images/Coveo moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Netlify moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/V_moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Coveo moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/V_moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Netlify moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-1
+          - pt-6
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
