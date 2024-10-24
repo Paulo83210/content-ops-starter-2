@@ -90,9 +90,13 @@ sections:
           Une architecture composable utilise des technologies spécifiques pour
           répondre précisément aux besoins d'affaires. Elle permet de choisir
           les meilleurs outils pour chaque fonction, assurant ainsi une
-          adaptation optimale aux exigences commerciales. Fini le blocage à
-          l’innovation : nous devenons plus flexibles, plus réactifs, et mieux
-          équipés pour relever les défis de demain.
+          adaptation optimale aux exigences commerciales. En offrant une grande
+          agilité, elle permet aux entreprises de s'adapter rapidement aux
+          changements du marché, aux demandes des clients, et aux nouvelles
+          opportunités. Fini le blocage à l’innovation : nous devenons plus
+          flexibles, plus réactifs, et mieux équipés pour relever les défis de
+          demain, tout en optimisant les coûts grâce à l'utilisation de
+          composants réutilisables.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
