@@ -765,7 +765,7 @@ sections:
         textAlign: left
   - title:
       text: Qu'avez-vous pensé de cette expérience ?
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: ''
     text: ''
