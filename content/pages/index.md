@@ -771,7 +771,9 @@ sections:
         title: Netlify
         tagline: ''
         subtitle: ''
-        text: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs.\n"
+        text: >
+          Netlify est une plateforme pour héberger et déployer des sites web et
+          des applications web front-end.
         image:
           type: ImageBlock
           url: /images/Group 13.png
