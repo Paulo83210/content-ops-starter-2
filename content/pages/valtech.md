@@ -267,7 +267,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Optimisation des investissements et performance utilisateur
+        title: Marketing et créativité
         tagline: ''
         subtitle: ''
         text: >
