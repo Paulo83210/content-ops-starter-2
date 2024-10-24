@@ -799,16 +799,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /Netlify2
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
