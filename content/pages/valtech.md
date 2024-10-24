@@ -289,8 +289,22 @@ sections:
         title: Mission d’optimisation de la qualité et des processus d’ingénierie
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *   Évaluation de la maturité engineering et organisationnelle de
+          Loto-Québec.
+
+
+          *   Mesure des écarts et définition des points d’amélioration
+          prioritaires dans une feuille de route.
+
+
+          *   Analyse des compétences des équipes et identification des besoins
+          en formation.
+
+
+          *   Préconisation de nouvelles organisations internes, avec des rôles
+          et responsabilités adaptés.
+
         image:
           type: ImageBlock
           altText: Background alt text
