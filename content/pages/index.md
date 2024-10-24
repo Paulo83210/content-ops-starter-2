@@ -614,7 +614,7 @@ sections:
         padding:
           - pt-12
           - pl-7
-          - pb-7
+          - pb-12
           - pr-7
     type: DividerSection
   - type: FeaturedItemsSection
