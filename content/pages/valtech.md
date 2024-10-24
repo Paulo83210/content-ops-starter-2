@@ -288,7 +288,7 @@ sections:
       - type: FeaturedItem
         title: Mission d’optimisation de la qualité et des processus d’ingénierie
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           *   Évaluation de la maturité engineering et organisationnelle de
           Loto-Québec.
