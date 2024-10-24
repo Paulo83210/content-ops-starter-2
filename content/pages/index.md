@@ -808,7 +808,7 @@ sections:
           les expériences innovantes. 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Group 18.png
           altText: Placeholder text
           styles:
             self:
