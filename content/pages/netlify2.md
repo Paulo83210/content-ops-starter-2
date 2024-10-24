@@ -49,7 +49,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Front Cloud Layer
         tagline: Frontend Cloud Layer
         subtitle: Increase your reach
         text: >-
