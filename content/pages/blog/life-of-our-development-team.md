@@ -1,5 +1,5 @@
 ---
-title: Netlify
+title: ''
 slug: life-of-our-development-team
 date: '2024-10-29'
 excerpt: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs."
