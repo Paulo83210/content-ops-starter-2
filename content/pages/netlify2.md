@@ -108,7 +108,7 @@ sections:
       - type: FeaturedItem
         title: Netlify Connect
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
