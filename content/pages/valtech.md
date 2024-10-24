@@ -216,7 +216,7 @@ sections:
       text: 'Valtech & Contentstack : Le CMS headless au cœur de Loto-Québec'
       color: text-dark
     subtitle: ''
-    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n"
+    text: "Des expériences digitales rapides et fluides\n\nEn partenariat avec Contentstack, Valtech aide Loto-Québec à moderniser son infrastructure de gestion de contenu via une solution DXP (Digital Experience Platform) composable. Cette collaboration permet à Loto-Québec de créer des expériences digitales captivantes, tout en accélérant la mise en ligne des contenus et en connectant facilement les audiences.\n\n\_\n\n*   Plus de 6 ans de collaboration\n\n"
     actions: []
     media:
       type: ImageBlock
