@@ -46,6 +46,22 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pl-16
+          - pr-16
+          - pt-16
+          - pb-1
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -62,6 +78,11 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pr-16
+          - pl-16
+          - pt-1
+          - pb-16
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -77,7 +98,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -148,6 +169,8 @@ sections:
         justifyContent: center
         padding:
           - pb-6
+          - pr-16
+          - pl-16
       subtitle:
         textAlign: center
   - type: GenericSection
