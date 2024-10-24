@@ -384,32 +384,6 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-      - type: FeaturedItem
-        title: Netlify Connect
-        tagline: Netlify Connect
-        subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     badge:
       type: Badge
       label: ''
