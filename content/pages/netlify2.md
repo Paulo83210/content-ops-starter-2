@@ -28,7 +28,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
+          - pb-1
           - pr-16
   - type: DividerSection
     title: Divider
@@ -182,9 +182,9 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pl-0
-          - pr-0
-          - pb-16
+          - pl-16
+          - pr-16
+          - pb-1
       subtitle:
         textAlign: left
   - type: DividerSection
@@ -217,7 +217,7 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-16
+          - pt-1
           - pb-1
     media:
       type: ImageBlock
