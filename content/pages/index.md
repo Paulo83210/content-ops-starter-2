@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Le pouvoir du chantier ATE
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: "Vous venez de vivre une expérience unique avec notre croupier virtuel en étant capable de vous recommander des jeux sur mesure, même avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !\n\n\_Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant intelligemment plusieurs sources de données, nous pouvons créer des expériences révolutionnaires qui réinventent l'avenir\_\n"
