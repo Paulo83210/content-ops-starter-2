@@ -31,7 +31,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
+          - pb-1
           - pr-16
         justifyContent: center
     media:
@@ -54,6 +54,17 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: large
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: CarouselSection
     subtitle: ''
     items:
@@ -231,7 +242,7 @@ sections:
           - pb-16
           - pl-16
           - pr-16
-          - pt-16
+          - pt-1
       subtitle:
         textAlign: center
         fontWeight: 400
@@ -256,7 +267,19 @@ sections:
           - pt-0
           - pl-16
           - pr-16
+          - pb-1
         justifyContent: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -400,8 +423,8 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
+          - pb-1
+          - pt-1
           - pl-16
           - pr-16
         justifyContent: center
@@ -488,7 +511,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-11
+          - pt-1
           - pl-16
           - pb-0
           - pr-16
@@ -578,7 +601,7 @@ sections:
       self:
         padding:
           - pb-16
-          - pt-16
+          - pt-1
           - pl-16
           - pr-16
         justifyContent: center
@@ -589,9 +612,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-7
+          - pt-12
           - pl-7
-          - pb-7
+          - pb-12
           - pr-7
     type: DividerSection
   - type: FeaturedItemsSection
@@ -711,13 +734,24 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-1
           - pl-8
-          - pb-8
+          - pb-1
           - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -768,11 +802,22 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-16
-          - pb-16
+          - pt-1
+          - pb-1
         alignItems: center
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - title:
       text: Qu'avez-vous pensé de cette expérience ?
       color: text-dark
@@ -837,7 +882,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-1
           - pl-16
           - pr-16
           - pb-16
