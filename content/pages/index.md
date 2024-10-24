@@ -726,7 +726,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/LQ LOGO V2.png
           altText: Placeholder text
           styles:
             self:
