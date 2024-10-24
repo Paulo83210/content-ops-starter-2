@@ -803,10 +803,7 @@ sections:
         title: Valtech
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs.\n"
         image:
           type: ImageBlock
           url: /images/Group 18.png
