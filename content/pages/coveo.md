@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Netlify
+title: Coveo
 sections:
   - type: GenericSection
     title:
