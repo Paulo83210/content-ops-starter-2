@@ -218,9 +218,19 @@ sections:
       text: Un partenaire stratégique pour la transformation de Loto-Québec
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Netlify a non seulement aidé Loto-Québec à moderniser ses infrastructures,
+      mais aussi à créer un environnement où les équipes peuvent innover plus
+      rapidement et de manière plus efficace. En offrant une plateforme flexible
+      et modulaire, Netlify s'impose comme un partenaire incontournable pour
+      accompagner Loto-Québec dans ses futurs défis numériques.
+
+
+
+
+
+
+
     actions:
       - type: Button
         label: Get started
