@@ -109,10 +109,7 @@ sections:
         title: Netlify Connect
         tagline: Feature 2
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
