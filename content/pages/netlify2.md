@@ -310,6 +310,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pl-16
 slug: /Netlify2
 seo:
   type: Seo
