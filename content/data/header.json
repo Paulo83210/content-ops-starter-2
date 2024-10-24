@@ -24,16 +24,6 @@
             "elementId": ""
         },
         {
-            "label": "Valtech",
-            "altText": "",
-            "url": "/Valtech",
-            "icon": "arrowLeft",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "type": "Link",
             "label": "Netlify",
             "altText": "",
@@ -43,6 +33,16 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Valtech",
+            "altText": "",
+            "url": "/Valtech",
+            "icon": "arrowLeft",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
         }
     ],
     "secondaryLinks": [],
