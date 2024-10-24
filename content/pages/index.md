@@ -679,7 +679,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /Netlify2
+            url: /Valtech
             showIcon: false
             icon: arrowRight
             iconPosition: right
