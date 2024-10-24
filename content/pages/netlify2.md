@@ -31,7 +31,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Des équipes autonomes et plus
     items:
       - type: FeaturedItem
         title: >-
