@@ -380,7 +380,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Optimisation des investissements et performance utilisateur
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
