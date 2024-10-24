@@ -760,6 +760,7 @@ sections:
           - pr-16
           - pt-16
           - pb-16
+        alignItems: center
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
