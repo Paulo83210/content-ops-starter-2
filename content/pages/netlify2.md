@@ -169,7 +169,7 @@ sections:
         self:
           padding:
             - pt-1
-            - pb-2
+            - pb-1
             - pl-16
             - pr-16
           borderColor: border-dark
