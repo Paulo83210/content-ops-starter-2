@@ -289,7 +289,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Un partenaire stratégique pour la transformation de Loto-Québec
+      text: ''
       color: text-dark
     subtitle: ''
     text: >
