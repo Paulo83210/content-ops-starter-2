@@ -820,7 +820,7 @@ sections:
     type: ImageGallerySection
   - title:
       text: Qu'avez-vous pensé de cette expérience ?
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: ''
