@@ -760,7 +760,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Ils ont contribué à nos réussites
       color: text-primary
       styles:
         self:
