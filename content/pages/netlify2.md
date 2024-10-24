@@ -52,10 +52,7 @@ sections:
         title: Front Cloud Layer
         tagline: Frontend Cloud Layer
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
