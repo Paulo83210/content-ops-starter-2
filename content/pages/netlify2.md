@@ -182,7 +182,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pl-0
+          - pl-16
           - pr-0
           - pb-16
       subtitle:
