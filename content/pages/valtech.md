@@ -124,7 +124,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Valtech & Contentstack : Le CMS headless au cœur de Loto-Québec'
+      text: Le CMS headless au cœur de Loto-Québec
       color: text-dark
     subtitle: ''
     text: "Plus de 6 ans de collaboration pour créer des expériences digitales rapides et fluides.\n\nEn partenariat avec Contentstack, Valtech aide Loto-Québec à moderniser son infrastructure de gestion de contenu via une solution DXP (Digital Experience Platform) composable. Cette collaboration permet à Loto-Québec de créer des expériences digitales captivantes, tout en accélérant la mise en ligne des contenus et en connectant facilement les audiences.\n\n\_\n\n> \"Valtech orchestre une symphonie d’expériences digitales qui captivent et connectent les audiences mondiales, et nous sommes extrêmement satisfaits de leur expertise et de leur passion.\"  Ramon Weterings, VP EMEA & APAC\_\n\n"
