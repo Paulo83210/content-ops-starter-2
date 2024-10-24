@@ -362,7 +362,22 @@ sections:
         title: Netlify Create
         tagline: AI et innovation
         subtitle: ''
-        text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
+        text: >+
+          Nous aidons les marques à libérer tout leur potentiel pour prospérer
+          dans un monde digitalisé.
+
+
+          *   Stratégie et design de marque
+
+
+          *   Développement de campagnes
+
+
+          *   Stratégie et création de contenu
+
+
+          *   Médias digitaux et performance
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
