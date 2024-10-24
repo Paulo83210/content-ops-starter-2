@@ -594,40 +594,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Coveo
-        tagline: ''
-        subtitle: ''
-        text: >
-          Coveo est une plateforme qui aide à la recherche sur des interfaces
-          numériques. 
-        image:
-          type: ImageBlock
-          url: /images/Group 17.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: En savoir plus
-            altText: ''
-            url: /Netlify2
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
