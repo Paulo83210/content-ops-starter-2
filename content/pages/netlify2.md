@@ -48,6 +48,7 @@ sections:
         alignItems: center
         padding:
           - pl-16
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
