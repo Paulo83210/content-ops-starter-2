@@ -799,41 +799,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col-reverse
-      - type: FeaturedItem
-        title: Valtech
-        tagline: ''
-        subtitle: ''
-        text: "Netlify est une plateforme pour héberger et déployer des sites web et des applications web front-end,\_ simplifiant le workflow des développeurs.\n"
-        image:
-          type: ImageBlock
-          url: /images/Group 18.png
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /Netlify2
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
