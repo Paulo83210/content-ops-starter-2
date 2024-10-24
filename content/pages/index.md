@@ -791,9 +791,8 @@ sections:
         title: Coveo
         tagline: ''
         subtitle: ''
-        text: >
-          Coveo est une plateforme qui aide à la recherche sur des interfaces
-          numériques.
+        text: |
+          Plateforme qui supporte la recherche sur des interfaces numériques.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
