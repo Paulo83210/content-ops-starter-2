@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Netlify
+title: Valtech
 sections:
   - type: GenericSection
     title:
