@@ -304,18 +304,7 @@ sections:
 
 
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
+    actions: []
     badge:
       type: Badge
       label: ''
@@ -329,7 +318,7 @@ sections:
           - pl-16
           - pr-16
           - pt-1
-          - pb-1
+          - pb-16
 slug: /Netlify2
 seo:
   type: Seo
