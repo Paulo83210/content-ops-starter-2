@@ -637,7 +637,7 @@ sections:
           innovantes.
         image:
           type: ImageBlock
-          url: /images/LQ LOGO.png
+          url: /images/Group 21.png
           altText: Placeholder text
           styles:
             self:
