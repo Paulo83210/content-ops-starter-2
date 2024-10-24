@@ -102,7 +102,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Une solution complète pour aller plus loin dans l'innovation
       color: text-dark
 slug: /Netlify2
 seo:
