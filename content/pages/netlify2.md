@@ -159,6 +159,7 @@ sections:
         padding:
           - pb-6
           - pr-16
+          - pl-16
       subtitle:
         textAlign: center
   - type: GenericSection
