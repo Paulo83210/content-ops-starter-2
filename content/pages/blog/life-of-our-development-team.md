@@ -43,7 +43,7 @@ bottomSections:
           - pb-6
           - pl-16
           - pr-16
-          - pt-6
+          - pt-0
   - type: CarouselSection
     items:
       - type: FeaturedItem
