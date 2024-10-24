@@ -841,6 +841,7 @@ sections:
           - pt-16
           - pl-16
           - pr-16
+          - pb-16
   - subtitle: Merci à nos partenaires
     images:
       - type: ImageBlock
