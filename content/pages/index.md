@@ -724,8 +724,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Coveo est une plateforme qui aide à la recherche sur des interfaces
-          numériques.
+          Agence spécialisée dans la transformation numérique et les expériences
+          innovantes.
         image:
           type: ImageBlock
           url: /images/LQ LOGO.png
