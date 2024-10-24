@@ -78,7 +78,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Netlify Create
-        tagline: "Netlify Create\_2"
+        tagline: Netlify Create
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
