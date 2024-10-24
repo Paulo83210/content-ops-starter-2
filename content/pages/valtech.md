@@ -337,7 +337,22 @@ sections:
         title: Marketing et créativité
         tagline: Marketing et créativité
         subtitle: ''
-        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
+        text: >+
+          Nous aidons les marques à libérer tout leur potentiel pour prospérer
+          dans un monde digitalisé.
+
+
+          *   Stratégie et design de marque
+
+
+          *   Développement de campagnes
+
+
+          *   Stratégie et création de contenu
+
+
+          *   Médias digitaux et performance
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
