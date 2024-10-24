@@ -800,7 +800,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Business Consulting
+        title: Valtech
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
