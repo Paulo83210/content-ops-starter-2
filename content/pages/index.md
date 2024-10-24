@@ -527,7 +527,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Analyse des "ways of working"
-        subtitle: XXX
+        subtitle: 3 mois de travail en 5 jours de planification
         text: >+
           Implémentation de nouvelles pratiques pour fluidifier nos processus et
           optimiser l’expérience des équipes.
