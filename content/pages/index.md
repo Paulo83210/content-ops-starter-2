@@ -518,6 +518,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+        tagline: XXX
     actions: []
     badge:
       type: Badge
