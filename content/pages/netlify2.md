@@ -152,6 +152,10 @@ sections:
           - pl-16
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: TEST TEST TEST
+      color: text-primary
   - type: GenericSection
     subtitle: ''
     text: ''
