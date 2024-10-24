@@ -154,7 +154,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: TEST TEST TEST
+      label: ''
       color: text-primary
   - type: GenericSection
     subtitle: ''
