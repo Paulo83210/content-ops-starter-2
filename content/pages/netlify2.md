@@ -201,7 +201,7 @@ sections:
       type: TitleBlock
       text: Des équipes autonomes et plus performantes grâce à Netlify
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
