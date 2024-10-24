@@ -312,6 +312,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pl-16
+          - pr-16
 slug: /Netlify2
 seo:
   type: Seo
