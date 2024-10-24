@@ -31,7 +31,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: Une solution
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
