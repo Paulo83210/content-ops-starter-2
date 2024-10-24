@@ -551,7 +551,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        tagline: 3 mois de travail en 5 jours de planification
+        tagline: ''
     actions: []
     badge:
       type: Badge
