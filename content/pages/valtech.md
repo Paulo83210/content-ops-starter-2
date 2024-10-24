@@ -213,7 +213,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Des équipes autonomes et plus performantes grâce à Netlify
+      text: 'Valtech & Contentstack : Le CMS headless au cœur de Loto-Québec'
       color: text-dark
     subtitle: ''
     text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n"
