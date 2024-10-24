@@ -610,7 +610,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: ''
       color: text-dark
       styles:
         self:
