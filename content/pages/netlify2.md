@@ -164,6 +164,7 @@ sections:
         padding:
           - pl-16
           - pr-16
+          - pb-16
       subtitle:
         textAlign: left
 slug: /Netlify2
