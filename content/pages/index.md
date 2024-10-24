@@ -777,7 +777,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: Je veux en savoir plus!
+      text: Qu'avez-vous pensé de cette expérience ?
       color: text-dark
       type: TitleBlock
     subtitle: ''
