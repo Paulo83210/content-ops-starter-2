@@ -223,6 +223,7 @@ sections:
           - pb-16
           - pl-16
           - pr-16
+          - pt-16
       subtitle:
         textAlign: center
         fontWeight: 400
