@@ -253,7 +253,9 @@ sections:
         alignItems: center
         flexDirection: col
         padding:
-          - pt-1
+          - pt-0
+          - pl-16
+          - pr-16
         justifyContent: center
   - type: FeaturedItemsSection
     title:
