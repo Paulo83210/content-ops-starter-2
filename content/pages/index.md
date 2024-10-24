@@ -185,10 +185,15 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >
-          D'ici 2024, les organisations ayant adopté une approche modulaire
+        text: >+
+          > "D'ici 2024, les organisations ayant adopté une approche modulaire
           surpasseront leurs concurrents de 80 % en termes de rapidité de mise
-          en œuvre de nouvelles fonctionnalités.
+          en œuvre de nouvelles fonctionnalités."  
+
+          >
+
+          > **Gartner**
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
