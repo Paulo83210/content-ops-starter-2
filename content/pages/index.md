@@ -723,7 +723,9 @@ sections:
         title: Valtech
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >
+          Coveo est une plateforme qui aide à la recherche sur des interfaces
+          numériques.
         image:
           type: ImageBlock
           url: /images/LQ LOGO.png
