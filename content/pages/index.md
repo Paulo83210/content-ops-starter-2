@@ -801,7 +801,7 @@ sections:
             flexDirection: col-reverse
       - type: FeaturedItem
         title: Valtech
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
