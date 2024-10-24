@@ -448,7 +448,7 @@ sections:
           - pt-11
           - pl-16
           - pb-0
-          - pr-0
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
