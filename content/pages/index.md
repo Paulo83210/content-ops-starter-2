@@ -186,8 +186,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Composable architectures are becoming the backbone of digital
-          transformation 
+          D'ici 2024, les organisations ayant adopté une approche modulaire
+          surpasseront leurs concurrents de 80 % en termes de rapidité de mise
+          en œuvre de nouvelles fonctionnalités.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
