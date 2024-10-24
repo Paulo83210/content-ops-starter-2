@@ -46,6 +46,41 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://www.youtube.com/watch?v=tJ95Q2ETMA4'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+        padding:
+          - pl-16
+          - pr-16
+          - pb-16
+      subtitle:
+        textAlign: left
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -132,41 +167,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://www.youtube.com/watch?v=tJ95Q2ETMA4'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        padding:
-          - pl-16
-          - pr-16
-          - pb-16
-      subtitle:
-        textAlign: left
 slug: /Netlify2
 seo:
   type: Seo
