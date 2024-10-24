@@ -25,6 +25,6 @@
     ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Header"
 }
