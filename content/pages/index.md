@@ -411,7 +411,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Des succès
+      text: Un exemple de succès
       color: text-dark
       styles:
         self:
