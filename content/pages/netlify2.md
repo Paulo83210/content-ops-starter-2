@@ -170,8 +170,8 @@ sections:
           padding:
             - pt-1
             - pb-1
-            - pl-16
-            - pr-16
+            - pl-0
+            - pr-0
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 0
