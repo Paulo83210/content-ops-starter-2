@@ -50,7 +50,7 @@ sections:
           - pl-16
           - pr-16
           - pt-16
-          - pb-16
+          - pb-1
   - type: DividerSection
     title: Divider
     elementId: ''
