@@ -79,7 +79,7 @@ sections:
       - type: FeaturedItem
         title: Netlify Create
         tagline: Netlify Create
-        subtitle: Be in good company
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
