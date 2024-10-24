@@ -183,7 +183,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: ''
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
