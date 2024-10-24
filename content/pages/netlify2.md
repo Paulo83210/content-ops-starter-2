@@ -38,7 +38,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
