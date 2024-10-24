@@ -171,7 +171,7 @@ sections:
             - pt-2
             - pb-2
             - pl-16
-            - pr-2
+            - pr-16
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
