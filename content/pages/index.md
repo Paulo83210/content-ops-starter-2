@@ -820,7 +820,7 @@ sections:
         elementId: null
     badge:
       label: RESTONS EN CONTACT
-      color: text-light
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
