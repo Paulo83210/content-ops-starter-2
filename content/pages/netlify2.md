@@ -107,7 +107,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Netlify Connect
-        tagline: Feature 2
+        tagline: Netlify Connect
         subtitle: ''
         text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
         image:
