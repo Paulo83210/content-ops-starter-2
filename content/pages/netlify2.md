@@ -133,13 +133,6 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
     subtitle: Section with a video subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
