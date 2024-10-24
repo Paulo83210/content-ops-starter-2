@@ -175,7 +175,7 @@ sections:
       Loto-Québec dans d’autres projets stratégiques.
     items:
       - type: FeaturedItem
-        title: Mission d’optimisation de la qualité et des processus d’ingénierie
+        title: Révolution des données et IA
         tagline: ''
         subtitle: ''
         text: >+
