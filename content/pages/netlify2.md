@@ -175,9 +175,7 @@ sections:
       text: Encore plus d'agilité pour Loto-Québec
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "L'avenir du chantier ATE pourrait également bénéficier d’autres services offerts par Netlify, tels que la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise. Ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale. Pour en savoir plus, n’hésitez pas à venir nous voir directement sur place ou de visiter notre site Web!\n\n\n\n\n\n\n\n"
     actions:
       - type: Button
         label: Get started
