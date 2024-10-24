@@ -570,7 +570,7 @@ sections:
           optimiser l’expérience des équipes. Ce qui a permis en autre
           d'optimiser la planification et l'estimation des efforts des projets à
           venir (exemple: 3 mois de travail estimé en seulement 5 jours de
-          planification). 
+          planification).
         image:
           type: ImageBlock
           altText: Featured icon two
