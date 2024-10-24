@@ -139,7 +139,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: MIGRATION
+      label: Valtech & Contentstack
       color: text-primary
     colors: bg-light-fg-dark
     styles:
