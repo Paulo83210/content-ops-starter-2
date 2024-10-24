@@ -283,7 +283,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: L'impl
+    subtitle: >-
+      L'implication de Valtech va bien au delà de l'implémentation d'un CMS
+      headless
     items:
       - type: FeaturedItem
         title: Mission d’optimisation de la qualité et des processus d’ingénierie
