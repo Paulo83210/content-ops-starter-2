@@ -48,11 +48,11 @@ sections:
           padding:
             - pt-2
             - pb-2
-            - pl-16
-            - pr-16
+            - pl-0
+            - pr-0
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 0
           borderRadius: large
   - type: CarouselSection
     subtitle: ''
