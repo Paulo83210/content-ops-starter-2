@@ -507,7 +507,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Rétrospective collaborative sur les deux dernières années
+        title: Rétrospective collaborative
         subtitle: avec 50 collaborateurs
         text: >
           Cette analyse faites auprès des équipes Loto Québec et Valtech a
