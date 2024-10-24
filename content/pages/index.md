@@ -507,7 +507,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Rétrospective collaborative
+        title: Rétrospective collaborative sur les deux dernières années
         subtitle: avec 50 collaborateurs
         text: >
           Cette analyse a permis d’identifier 6 chantiers prioritaires pour
