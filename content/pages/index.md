@@ -182,7 +182,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
