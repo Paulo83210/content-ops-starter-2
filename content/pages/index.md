@@ -594,15 +594,15 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Valtech
+        title: Netlify
         tagline: ''
         subtitle: ''
         text: >
-          Agence spécialisée dans la transformation numérique et les expériences
-          innovantes.
+          Plateforme pour héberger et déployer des sites et des applications
+          web.
         image:
           type: ImageBlock
-          url: /images/LQ LOGO.png
+          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
@@ -628,15 +628,15 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Netlify
+        title: Valtech
         tagline: ''
         subtitle: ''
         text: >
-          Plateforme pour héberger et déployer des sites et des applications
-          web.
+          Agence spécialisée dans la transformation numérique et les expériences
+          innovantes.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/LQ LOGO.png
           altText: Placeholder text
           styles:
             self:
