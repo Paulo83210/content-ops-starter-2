@@ -792,6 +792,7 @@ sections:
         justifyContent: center
         padding:
           - pb-1
+          - pt-6
       subtitle:
         textAlign: center
     type: ImageGallerySection
