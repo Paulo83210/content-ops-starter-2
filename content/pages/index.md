@@ -822,7 +822,7 @@ sections:
       label: RESTONS EN CONTACT
       color: text-light
       type: Badge
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     type: GenericSection
     styles:
       self:
