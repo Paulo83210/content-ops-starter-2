@@ -28,7 +28,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
+          - pb-1
           - pr-16
   - type: DividerSection
     title: Divider
