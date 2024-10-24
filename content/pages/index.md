@@ -756,7 +756,9 @@ sections:
       - type: FeaturedItem
         title: Netlify
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Netlify est une plateforme pour héberger et déployer des sites web et
+          des applications web front-end.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
