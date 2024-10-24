@@ -55,7 +55,7 @@ sections:
       text: 'Valtech : Un leader mondial dans l''architecture composable'
       color: text-dark
     subtitle: Valtech est cofondateur de MACH alliance
-    text: "Avec plus de 5 ans d'expérience dans le domaine composable, Valtech s'est imposé comme un acteur incontournable de cette transformation technologique. Valtech a accompagné certaines des plus grandes marques mondiales dans leur transition vers une architecture composable, en collaborant avec les principaux partenaires de solutions technologiques.\n\n*   200+\_implémentations dans le monde\n\n*   50+\_clients globaux\n\n*   400+\_certifications techniques\n\n*   500+\_spécialistes à disposition\n\n"
+    text: "Avec plus de 5 ans d'expérience dans le domaine composable, Valtech s'est imposé comme un acteur incontournable de cette transformation technologique. Valtech a accompagné certaines des plus grandes marques mondiales dans leur transition vers une architecture composable, en collaborant avec les principaux partenaires de solutions technologiques.\n\n*   200+\_implémentations dans le monde\n\n*   50+\_clients globaux\n\n*   400+\_certifications techniques\n\n*   500+\_spécialistes à disposition\n\nGrâce à cette expertise, Valtech permet à ses clients de créer des expériences digitales innovantes, de maximiser l'agilité et de rester compétitifs dans un environnement en constante évolution.\n\n"
     actions: []
     badge:
       type: Badge
