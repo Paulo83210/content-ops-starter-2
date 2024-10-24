@@ -202,9 +202,7 @@ sections:
       text: Des équipes autonomes et plus performantes grâce à Netlify
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n"
     actions:
       - type: Button
         label: Get started
