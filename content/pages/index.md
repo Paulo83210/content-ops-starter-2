@@ -764,14 +764,7 @@ sections:
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
-    images:
-      - type: ImageBlock
-        url: /images/Group 22.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
