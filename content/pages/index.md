@@ -800,13 +800,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - type: ImageBlock
-        url: /images/Group 21.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
