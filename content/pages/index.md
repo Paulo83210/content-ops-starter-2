@@ -803,8 +803,9 @@ sections:
         title: Valtech
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Valtech est une agence spécialisée dans la transformation numérique et
+          les expériences innovantes. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
