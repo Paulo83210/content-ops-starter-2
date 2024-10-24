@@ -30,6 +30,17 @@ sections:
           - pl-16
           - pb-1
           - pr-16
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -51,17 +62,6 @@ sections:
           - pl-16
           - pt-1
           - pb-16
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: CarouselSection
     items:
       - type: FeaturedItem
