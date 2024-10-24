@@ -106,7 +106,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Netlify Connect
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
