@@ -179,7 +179,7 @@ sections:
     actions:
       - type: Link
         label: See Tutorials
-        url: /
+        url: '/https://www.netlify.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
