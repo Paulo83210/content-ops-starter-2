@@ -495,9 +495,12 @@ sections:
       - type: FeaturedItem
         title: Analyse des "ways of working"
         subtitle: sur xx
-        text: >
+        text: >+
           Implémentation de nouvelles pratiques pour fluidifier nos processus et
           optimiser l’expérience des équipes.
+
+
+
         image:
           type: ImageBlock
           altText: Featured icon two
