@@ -50,7 +50,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Social Media Management
-        tagline: Feature 1
+        tagline: Frontend Cloud Layer
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
