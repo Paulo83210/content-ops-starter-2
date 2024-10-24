@@ -382,7 +382,7 @@ sections:
       - type: FeaturedItem
         title: Optimisation des investissements et performance utilisateur
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
