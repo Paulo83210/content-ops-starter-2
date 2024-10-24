@@ -643,7 +643,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: En savoir plus
             altText: ''
             url: /Netlify2
             showIcon: false
@@ -677,9 +677,9 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: En savoir plus
             altText: ''
-            url: /Netlify2
+            url: /Valtech
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -710,7 +710,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: 'En savoir plus '
             altText: ''
             url: /Netlify2
             showIcon: false
