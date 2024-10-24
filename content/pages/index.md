@@ -510,9 +510,9 @@ sections:
         title: Rétrospective collaborative
         subtitle: avec 50 collaborateurs
         text: >
-          Cette analyse faites auprès des équipes Loto Québec et Valtech a
-          permis d’identifier 6 chantiers prioritaires pour continuer à
-          améliorer nos méthodes de travail. 
+          Cette analyse faites auprès des équipes Loto Québec et Valtech sur les
+          deux dernières années, a permis d’identifier 6 chantiers prioritaires
+          pour continuer à améliorer nos méthodes de travail.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
