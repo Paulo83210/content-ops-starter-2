@@ -587,7 +587,7 @@ sections:
     title:
       type: TitleBlock
       text: Ils ont contribué à nos réussites
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
