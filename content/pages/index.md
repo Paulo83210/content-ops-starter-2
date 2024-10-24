@@ -736,7 +736,7 @@ sections:
         padding:
           - pt-1
           - pl-8
-          - pb-8
+          - pb-1
           - pr-8
         justifyContent: center
       subtitle:
