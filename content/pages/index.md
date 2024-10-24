@@ -766,7 +766,7 @@ sections:
   - subtitle: Nos partenaires
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Group 22.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
