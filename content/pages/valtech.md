@@ -283,7 +283,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: L'impl
     items:
       - type: FeaturedItem
         title: Mission d’optimisation de la qualité et des processus d’ingénierie
