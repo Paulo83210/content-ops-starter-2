@@ -4,40 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Le pouvoir du chantier ATE
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
+    subtitle: ''
+    text: "Vous venez de vivre une expérience unique avec notre croupier virtuel en étant capable de vous recommander des jeux sur mesure, même avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !\n\n\_Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant intelligemment plusieurs sources de données, nous pouvons créer des expériences révolutionnaires qui réinventent l'avenir\_\n"
+    actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -45,32 +19,257 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: true
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Qu’est-ce que le chantier ATE ?
+        tagline: Loto-Québec prépare son avenir
+        subtitle: ATE (Architecture Technologique et Expérientielle)
+        text: >
+          L'objectif de ce chantier est de moderniser l'infrastructure
+          technologique en adoptant **une architecture composable et modulaire,
+          avec en particulier la mise en place d'un CMS headless**. Cela
+          permettra de créer des expériences plus humaines, personnalisées et
+          pertinentes, tout en garantissant une flexibilité et une évolutivité
+          accrues.
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/GIF.gif
+      - type: FeaturedItem
+        title: Répondre à des besoins d'affaires
+        tagline: La promesse du composable
+        subtitle: ''
+        text: >
+          Une architecture composable utilise des technologies spécifiques pour
+          répondre précisément aux besoins d'affaires. Elle permet de choisir
+          les meilleurs outils pour chaque fonction, assurant ainsi une
+          adaptation optimale aux exigences commerciales. En offrant une grande
+          agilité, elle permet aux entreprises de s'adapter rapidement aux
+          changements du marché, aux demandes des clients, et aux nouvelles
+          opportunités. Fini le blocage à l’innovation : nous devenons plus
+          flexibles, plus réactifs, et mieux équipés pour relever les défis de
+          demain, tout en optimisant les coûts grâce à l'utilisation de
+          composants réutilisables.
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/GIF.gif
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: Flexibilité
+        tagline: La promesse du composable
+        subtitle: ''
+        text: >
+          En se découplant du back-end, cette architecture facilite l'accès et
+          l'utilisation des données sur diverses interfaces. Cela permet une
+          flexibilité accrue et une meilleure expérience utilisateur,
+          indépendamment de la plateforme. 
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/GIF.gif
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: Modularité
+        tagline: La promesse du composable
+        subtitle: ''
+        text: >
+          Contrairement à un système monolithique, une architecture composable
+          offre une modularité qui simplifie les mises à jour, les intégrations,
+          et l'évolution rapide des systèmes. Elle permet une évolution rapide
+          et efficace, réduisant les délais de mise sur le marché. Cette
+          approche modulaire réduit les délais de mise sur le marché tout en
+          permettant une personnalisation des expériences client et des
+          décisions basées sur les données en temps réel, offrant ainsi une
+          présence omnicanale cohérente et pertinente.
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/GIF.gif
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          > "D'ici 2024, les organisations ayant adopté une approche modulaire
+          surpasseront leurs concurrents de 80 % en termes de rapidité de mise
+          en œuvre de nouvelles fonctionnalités."  
+
+          >
+
+          > **Gartner**
+
+        image:
+          type: ImageBlock
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-16
+          - pl-16
+          - pr-16
+          - pt-16
+      subtitle:
+        textAlign: center
+        fontWeight: 400
+    title:
+      type: TitleBlock
+      text: Comprendre le chantier ATE
+      color: text-dark
+  - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/GIF.gif
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-1
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      type: TitleBlock
+      text: Les avancées majeures
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Première migration effectuée
+        subtitle: ''
+        text: >+
+          En 2024, nous avons relevé un premier défi majeur avec la migration de
+          la section Casino en ligne. Ce projet a prouvé la robustesse de notre
+          nouvelle infrastructure et permis d'affiner nos processus pour les
+          futures étapes.
+
+
+
         actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -84,25 +283,64 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
+              borderRadius: medium
+      - type: FeaturedItem
+        title: Un modèle réplicable
+        tagline: Migration
+        subtitle: ''
+        text: >
+          La première migration, réalisée avec la section Casino, a marqué la
+          première étape de la mise en place du nouveau CMS headless modulaire.
+          Cette première fois nous a permis d'apprendre, de tester et de
+          construire des fondations solides, offrant une base structurante pour
+          mieux appréhender les prochaines migrations, qu'il s'agisse des
+          processus, des outils, de la gouvernance ou des technologies.
         actions: []
         colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: 'Écosystème modulaire '
+        tagline: Migration
+        subtitle: ''
+        text: >
+          Grâce à ce passage au nouveau CMS headless et le Design System en
+          construction, nous allons pouvoir réutiliser les composantes
+          développées; évitant ainsi la duplication et simplifiant la gestion
+          des contenus. Et ça servira pour tout le reste des sections du site!
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Programme de formation
+        subtitle: >-
+          Nous avons lancé un programme formation unique, co-créé avec nos
+          partenaires Valtech, Coveo, Netlify et Content Stack. Résultat : plus
+          de 80 employés formés pour gérer les futures migrations de façon
+          autonome et maîtriser les nouvelles technologies.
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -114,18 +352,19 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: Une transformation humaine et durable
+        tagline: 80 personnes formées
+        subtitle: ''
+        text: "Le projet ATE a réussi à transformer non seulement la technologie, mais aussi l'adoption par les équipes de ces nouveaux outils grâce à une approche centrée sur l'humain, visant à leur permettre de s'approprier pleinement ces innovations.\_\n"
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -137,27 +376,17 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
-      label: This is a badge
+      type: Badge
+      label: '2024'
       color: text-primary
       styles:
         self:
           textAlign: center
-      type: Badge
     elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    variant: small-list
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -168,7 +397,372 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Un exemple de succès
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 500
+    items:
+      - type: FeaturedItem
+        title: Premiers sites corporatifs migrés par les équipes de Loto Québec...
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            borderWidth: 0
+      - type: FeaturedItem
+        title: >-
+          ... avec une nouvelle équipe qui n'a reçu aucun accompagnement à part
+          les formations.
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            borderWidth: 0
+      - type: FeaturedItem
+        title: Tout ça en seulement 2 à 3 mois de travail par projet!
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            borderWidth: 0
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-11
+          - pl-16
+          - pb-0
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Processus et amélioration continue
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Rétrospective collaborative
+        subtitle: avec plus de 50 collaborateurs
+        text: >
+          Cette analyse faites auprès des équipes Loto Québec et Valtech sur les
+          deux dernières années, a permis d’identifier 6 chantiers prioritaires
+          pour continuer à améliorer nos méthodes de travail.
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Analyse des processus
+        subtitle: ''
+        text: >
+          Implémentation de nouvelles pratiques pour fluidifier nos processus et
+          optimiser l’expérience des équipes. Ce qui a permis en autre
+          d'optimiser la planification et l'estimation des efforts des projets à
+          venir (exemple: 3 mois de travail estimé en seulement 5 jours de
+          planification). 
+        image:
+          type: ImageBlock
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        tagline: ''
+    actions: []
+    badge:
+      type: Badge
+      label: D'autres projets en parallèle
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Ils ont contribué à nos réussites
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Netlify
+        tagline: ''
+        subtitle: ''
+        text: >
+          Plateforme pour héberger et déployer des sites et des applications
+          web.
+        image:
+          type: ImageBlock
+          url: /images/Group 19.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Netlify2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Valtech
+        tagline: ''
+        subtitle: ''
+        text: >
+          Agence spécialisée dans la transformation numérique et les expériences
+          innovantes.
+        image:
+          type: ImageBlock
+          url: /images/LQ LOGO.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Netlify2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Coveo
+        tagline: ''
+        subtitle: ''
+        text: |
+          Plateforme qui supporte la recherche sur des interfaces numériques.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Netlify2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: L'avenir du chantier ATE
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      Nous continuons sur notre lancée avec la migration de trois autres
+      sections clés :
+
+      Loterie, Bingo, Poker, et Paris sportifs. Parallèlement, nous lançons des
+
+      projets d’optimisation, y compris un suivi de performance pour mesurer
+      l'impact
+
+      des nouvelles infrastructures. Le projet est en constante évolution,
+      ouvrant la voie à de nouvelles perspectives prometteuses et à des
+      expériences toujours plus innovantes pour le casino de demain! 
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+        padding:
+          - pl-16
+          - pr-16
+          - pt-16
+          - pb-16
+      subtitle:
+        textAlign: left
+  - subtitle: Nos partenaires
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -196,521 +790,46 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-1
+          - pt-6
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
+      text: En savoir plus
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
-    items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: ''
     media:
       fields:
-        - name: name
-          label: Name
+        - name: Prénom et Nom
+          label: Prénom et Nom
           hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
           type: TextFormControl
-        - name: email
+        - name: Email
           label: Email
           hideLabel: true
           placeholder: Your email
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
+        - type: TextareaFormControl
+          name: retours
+          label: J'aimerais vous partager...
           hideLabel: true
-          placeholder: Your message
+          placeholder: J'aimerais vous partager...
+          isRequired: false
           width: full
-          type: TextareaFormControl
+        - type: CheckboxFormControl
+          name: confirmation
+          label: J'accepte de recevoir des nouvelles de la part de Valtech
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
@@ -726,14 +845,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Soumettre
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: RESTONS EN CONTACT
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
