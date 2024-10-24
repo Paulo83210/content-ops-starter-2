@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Netlify
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: Un Catalyseur pour la transformation numérique du chantier ATE
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
