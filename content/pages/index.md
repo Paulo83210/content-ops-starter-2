@@ -215,7 +215,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: next-prev-nav
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
