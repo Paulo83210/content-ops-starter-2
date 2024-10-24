@@ -835,6 +835,10 @@ sections:
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
+    styles:
+      self:
+        padding:
+          - pt-16
   - subtitle: Merci à nos partenaires
     images:
       - type: ImageBlock
