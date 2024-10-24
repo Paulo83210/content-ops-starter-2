@@ -30,27 +30,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Des équipes autonomes et plus performantes grâce à Netlify
-      color: text-dark
-    subtitle: ''
-    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n"
-    actions: []
-    badge:
-      type: Badge
-      label: lA FORMATION
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pl-16
-          - pr-16
-          - pt-16
-          - pb-1
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -189,13 +168,13 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
+            - pt-1
+            - pb-1
+            - pl-16
+            - pr-16
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 0
           borderRadius: large
     colors: bg-light-fg-dark
     styles:
@@ -208,6 +187,57 @@ sections:
           - pb-16
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Des équipes autonomes et plus performantes grâce à Netlify
+      color: text-dark
+    subtitle: ''
+    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n"
+    actions: []
+    badge:
+      type: Badge
+      label: lA FORMATION
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        padding:
+          - pl-16
+          - pr-16
+          - pt-16
+          - pb-1
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -235,6 +265,22 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pr-16
+          - pl-16
+          - pt-1
+          - pb-1
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -275,6 +321,11 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pl-16
+          - pr-16
+          - pt-1
+          - pb-1
 slug: /Netlify2
 seo:
   type: Seo
