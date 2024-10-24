@@ -33,7 +33,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Une solution complète pour aller plus
       color: text-dark
     subtitle: Increase your reach
     text: >
