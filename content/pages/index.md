@@ -800,7 +800,7 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Feature Item One
+        title: Valtech
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
