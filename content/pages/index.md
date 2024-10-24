@@ -803,7 +803,7 @@ sections:
           - pl-16
           - pr-16
           - pt-1
-          - pb-16
+          - pb-1
         alignItems: center
       subtitle:
         textAlign: left
