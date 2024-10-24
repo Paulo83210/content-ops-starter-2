@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Netlify 2
+title: Netlify
 sections:
   - type: GenericSection
     title:
