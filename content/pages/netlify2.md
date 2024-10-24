@@ -81,7 +81,7 @@ sections:
         padding:
           - pr-16
           - pl-16
-          - pt-0
+          - pt-1
           - pb-16
   - type: CarouselSection
     items:
