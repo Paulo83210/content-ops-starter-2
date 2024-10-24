@@ -839,6 +839,7 @@ sections:
       self:
         padding:
           - pt-16
+          - pl-16
   - subtitle: Merci à nos partenaires
     images:
       - type: ImageBlock
