@@ -659,6 +659,8 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pl-16
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
