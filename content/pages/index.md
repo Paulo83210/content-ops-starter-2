@@ -611,6 +611,131 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Ils ont contribué à nos réussites
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Netlify
+        tagline: ''
+        subtitle: ''
+        text: >
+          Netlify est une plateforme pour héberger et déployer des sites web et
+          des applications web front-end.
+        image:
+          type: ImageBlock
+          url: /images/Group 13.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: En savoir plus
+            altText: ''
+            url: /Netlify2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: Valtech
+        tagline: ''
+        subtitle: ''
+        text: >
+          Valtech est une agence spécialisée dans la transformation numérique et
+          les expériences innovantes. 
+        image:
+          type: ImageBlock
+          url: /images/Group 18.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: En savoir plus
+            altText: ''
+            url: /Netlify2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: Coveo
+        tagline: ''
+        subtitle: ''
+        text: >
+          Coveo est une plateforme qui aide à la recherche sur des interfaces
+          numériques. 
+        image:
+          type: ImageBlock
+          url: /images/Group 17.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: En savoir plus
+            altText: ''
+            url: /Netlify2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -757,131 +882,6 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Ils ont contribué à nos réussites
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Netlify
-        tagline: ''
-        subtitle: ''
-        text: >
-          Netlify est une plateforme pour héberger et déployer des sites web et
-          des applications web front-end.
-        image:
-          type: ImageBlock
-          url: /images/Group 13.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: En savoir plus
-            altText: ''
-            url: /Netlify2
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: Valtech
-        tagline: ''
-        subtitle: ''
-        text: >
-          Valtech est une agence spécialisée dans la transformation numérique et
-          les expériences innovantes. 
-        image:
-          type: ImageBlock
-          url: /images/Group 18.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: En savoir plus
-            altText: ''
-            url: /Netlify2
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-      - type: FeaturedItem
-        title: Coveo
-        tagline: ''
-        subtitle: ''
-        text: >
-          Coveo est une plateforme qui aide à la recherche sur des interfaces
-          numériques. 
-        image:
-          type: ImageBlock
-          url: /images/Group 17.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: En savoir plus
-            altText: ''
-            url: /Netlify2
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col-reverse
-    actions: []
-    variant: two-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
