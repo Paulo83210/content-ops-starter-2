@@ -416,7 +416,7 @@ sections:
       - type: FeaturedItem
         title: Formations
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
