@@ -662,6 +662,7 @@ sections:
         padding:
           - pl-16
           - pr-16
+          - pt-16
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
