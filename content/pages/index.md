@@ -528,7 +528,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Analyse des processus
-        subtitle: 3 mois de travail en 5 jours de planification
+        subtitle: ''
         text: >
           Implémentation de nouvelles pratiques pour fluidifier nos processus et
           optimiser l’expérience des équipes. Ce qui a permis en autre
