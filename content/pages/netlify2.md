@@ -31,7 +31,14 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: ''
+    subtitle: >-
+      Netlify offre bien plus que des outils de déploiement rapide. Ses
+      solutions Netlify Connect, Netlify Core et Netlify Create permettent à
+      Loto-Québec de simplifier l’intégration des données, d'accélérer la mise
+      en ligne des contenus, et de collaborer plus efficacement entre les
+      équipes techniques et créatives. Ce workflow intégré permet non seulement
+      d’augmenter la productivité, mais aussi de répondre rapidement aux besoins
+      du marché.
     items:
       - type: FeaturedItem
         title: >-
