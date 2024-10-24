@@ -313,13 +313,11 @@ sections:
         title: 'Écosystème modulaire '
         tagline: Migration
         subtitle: ''
-        text: >+
-          Grâce à notre nouveau Design System, nous réutilisons les composantes,
-          évitant ainsi la duplication et simplifiant la gestion des contenus.
-          Et ça servira pour tout le reste des sections du site! 
-
-
-
+        text: >
+          Grâce à ce nouveau Design System, nous allons pouvoir réutiliser les
+          composantes développées; évitant ainsi la duplication et simplifiant
+          la gestion des contenus. Et ça servira pour tout le reste des sections
+          du site!
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
