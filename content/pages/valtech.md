@@ -383,8 +383,14 @@ sections:
         title: Optimisation des investissements et performance utilisateur
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Valtech travaille main dans la main avec Loto-Québec sur
+          l'optimisation des performances liées à l’expérience utilisateur. Ce
+          projet vise à résoudre les défis liés à la gestion des données, à la
+          performance des systèmes et à la sécurité. Valtech, fort de son
+          expertise dans l’analyse des données et des innovations, aide
+          Loto-Québec à maximiser l’utilisation de ces informations pour
+          améliorer et capitaliser sur les expériences utilisateurs.
         image:
           type: ImageBlock
           altText: Background alt text
