@@ -764,10 +764,7 @@ sections:
       subtitle:
         textAlign: left
   - subtitle: Nos partenaires
-    images:
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
