@@ -33,7 +33,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Une solution complète pour aller plus loin
+      text: Une solution complète pour aller plus loin dans l'innovation
       color: text-dark
     subtitle: Increase your reach
     text: >
