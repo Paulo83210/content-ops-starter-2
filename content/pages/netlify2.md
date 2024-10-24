@@ -183,7 +183,7 @@ sections:
         justifyContent: center
         padding:
           - pl-16
-          - pr-0
+          - pr-16
           - pb-16
       subtitle:
         textAlign: left
