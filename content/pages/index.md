@@ -122,18 +122,11 @@ sections:
         title: Flexibilité
         tagline: La promesse du composable
         subtitle: ''
-        text: >+
+        text: >
           En se découplant du back-end, cette architecture facilite l'accès et
           l'utilisation des données sur diverses interfaces. Cela permet une
           flexibilité accrue et une meilleure expérience utilisateur,
-          indépendamment de la plateforme.
-
-
-
-
-
-
-
+          indépendamment de la plateforme. 
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
