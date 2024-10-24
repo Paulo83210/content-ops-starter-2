@@ -215,7 +215,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Un partenaire stratégique pour la transformation de Loto-Québec
       color: text-dark
     subtitle: Be in good company
     text: >
