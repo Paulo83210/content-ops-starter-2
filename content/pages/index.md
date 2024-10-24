@@ -765,7 +765,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Featured items section subtitl
     items:
       - type: FeaturedItem
         title: Feature Item One
