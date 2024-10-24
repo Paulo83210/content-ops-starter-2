@@ -14,17 +14,6 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "See Tutorials",
-            "altText": "",
-            "url": "/Coveo",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "Netlify",
             "altText": "",
             "url": "/Netlify",
