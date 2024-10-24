@@ -677,7 +677,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: En savoir plus
             altText: ''
             url: /Valtech
             showIcon: false
