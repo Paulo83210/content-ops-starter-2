@@ -278,7 +278,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: 'Valtech : Une boîte à outils complète pour les transformations digitales'
       color: text-primary
       styles:
         self:
