@@ -621,7 +621,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Mission d’optimisation de la qualité et des processus d’ingénierie
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
