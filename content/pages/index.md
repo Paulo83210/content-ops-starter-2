@@ -55,10 +55,11 @@ sections:
         subtitle: ATE (Architecture Technologique et Expérientielle)
         text: >
           L'objectif de ce chantier est de moderniser l'infrastructure
-          technologique en adoptant une architecture composable et modulaire,
-          avec en particulier la mise en place d'un CMS headless. Cela permettra
-          de créer des expériences plus humaines, personnalisées et pertinentes,
-          tout en garantissant une flexibilité et une évolutivité accrues. 
+          technologique en adoptant **une architecture composable et modulaire,
+          avec en particulier la mise en place d'un CMS headless**. Cela
+          permettra de créer des expériences plus humaines, personnalisées et
+          pertinentes, tout en garantissant une flexibilité et une évolutivité
+          accrues.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
