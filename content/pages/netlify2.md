@@ -70,6 +70,7 @@ sections:
         padding:
           - pr-16
           - pl-16
+          - pt-16
   - type: CarouselSection
     items:
       - type: FeaturedItem
