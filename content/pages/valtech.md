@@ -323,7 +323,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: >-
+          Propagation des bonnes pratiques et planification d’un nouveau
+          chantier
         tagline: ''
         subtitle: ''
         text: |
