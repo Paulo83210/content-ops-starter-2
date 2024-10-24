@@ -35,7 +35,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Coveo",
             "altText": "",
             "url": "/Coveo",
             "showIcon": false,
