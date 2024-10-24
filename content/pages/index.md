@@ -763,61 +763,6 @@ sections:
         alignItems: center
       subtitle:
         textAlign: left
-  - subtitle: Nos partenaires
-    images:
-      - type: ImageBlock
-        url: /images/Coveo moyen.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Netlify moyen.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/V_moyen.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Coveo moyen.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/V_moyen.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Netlify moyen.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pb-1
-          - pt-6
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title:
       text: Qu'avez-vous pensé de cette expérience ?
       color: text-light
@@ -879,6 +824,61 @@ sections:
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
+  - subtitle: Nos partenaires
+    images:
+      - type: ImageBlock
+        url: /images/Coveo moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Netlify moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/V_moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Coveo moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/V_moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Netlify moyen.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-1
+          - pt-6
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
