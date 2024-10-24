@@ -75,100 +75,6 @@ sections:
           - pl-16
           - pt-1
           - pb-16
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Front Cloud Layer
-        tagline: Frontend Cloud Layer
-        subtitle: ''
-        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Netlify Create
-        tagline: Netlify Create
-        subtitle: ''
-        text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Netlify Connect
-        tagline: Netlify Connect
-        subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pb-12
-          - pr-16
-          - pl-16
-      subtitle:
-        textAlign: center
   - type: GenericSection
     subtitle: ''
     text: ''
@@ -423,6 +329,100 @@ sections:
           - pb-8
           - pr-8
         justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Front Cloud Layer
+        tagline: Frontend Cloud Layer
+        subtitle: ''
+        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Netlify Create
+        tagline: Netlify Create
+        subtitle: ''
+        text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Netlify Connect
+        tagline: Netlify Connect
+        subtitle: ''
+        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-12
+          - pr-16
+          - pl-16
       subtitle:
         textAlign: center
   - type: DividerSection
