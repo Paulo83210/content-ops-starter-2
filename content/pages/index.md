@@ -765,9 +765,6 @@ sections:
         textAlign: left
   - subtitle: Nos partenaires
     images:
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
