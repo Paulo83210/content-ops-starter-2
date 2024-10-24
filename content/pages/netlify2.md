@@ -268,6 +268,7 @@ sections:
         padding:
           - pr-16
           - pl-16
+          - pt-1
   - type: GenericSection
     title:
       type: TitleBlock
