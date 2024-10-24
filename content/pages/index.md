@@ -824,7 +824,7 @@ sections:
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
-  - subtitle: Nos partenaires
+  - subtitle: Merci à nos partenaires
     images:
       - type: ImageBlock
         url: /images/Coveo moyen.png
