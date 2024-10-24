@@ -777,7 +777,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: En savoir plus
+      text: Je veux en savoir plus!
       color: text-dark
       type: TitleBlock
     subtitle: ''
