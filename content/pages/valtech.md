@@ -218,9 +218,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: >-
-          Propagation des bonnes pratiques et planification d’un nouveau
-          chantier
+        title: Ecommerce
         tagline: ''
         subtitle: ''
         text: >+
