@@ -77,7 +77,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Netlify Create 2
+        title: Netlify Create
         tagline: "Netlify Create\_2"
         subtitle: Be in good company
         text: >-
