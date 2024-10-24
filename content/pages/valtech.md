@@ -328,8 +328,15 @@ sections:
           chantier
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          *   Mise en place des meilleures pratiques de planification pour une
+          nouvelle équipe de Loto-Québec.
+
+
+          *   Amélioration de la préparation et de la prise en charge des
+          équipes, garantissant un suivi efficace et une meilleure exécution des
+          tâches.
+
         image:
           type: ImageBlock
           altText: Background alt text
