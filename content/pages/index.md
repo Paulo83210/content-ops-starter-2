@@ -494,7 +494,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Analyse des "ways of working"
-        subtitle: ''
+        subtitle: XXX
         text: >+
           Implémentation de nouvelles pratiques pour fluidifier nos processus et
           optimiser l’expérience des équipes.
