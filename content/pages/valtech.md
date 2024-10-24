@@ -287,7 +287,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Mission d’optimisation de la qualité et des processus d’ingénierie
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           *   Évaluation de la maturité engineering et organisationnelle de
