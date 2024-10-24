@@ -270,14 +270,22 @@ sections:
         title: Marketing et créativité
         tagline: ''
         subtitle: ''
-        text: >
-          Valtech travaille main dans la main avec Loto-Québec sur
-          l'optimisation des performances liées à l’expérience utilisateur. Ce
-          projet vise à résoudre les défis liés à la gestion des données, à la
-          performance des systèmes et à la sécurité. Valtech, fort de son
-          expertise dans l’analyse des données et des innovations, aide
-          Loto-Québec à maximiser l’utilisation de ces informations pour
-          améliorer et capitaliser sur les expériences utilisateurs.
+        text: >+
+          Nous aidons les marques à libérer tout leur potentiel pour prospérer
+          dans un monde digitalisé.
+
+
+          *   Stratégie et design de marque
+
+
+          *   Développement de campagnes
+
+
+          *   Stratégie et création de contenu
+
+
+          *   Médias digitaux et performance
+
         image:
           type: ImageBlock
           altText: Background alt text
