@@ -293,12 +293,13 @@ sections:
         title: Un modèle réplicable
         tagline: Migration
         subtitle: ''
-        text: >+
-          La première migration nous a offert une base solide pour les prochains
-          projets.
-
-
-
+        text: >
+          La première migration, réalisée avec la section Casino, a marqué la
+          première étape de la mise en place du nouveau CMS headless modulaire.
+          Cette première fois nous a permis d'apprendre, de tester et de
+          construire des fondations solides, offrant une base structurante pour
+          mieux appréhender les prochaines migrations, qu'il s'agisse des
+          processus, des outils, de la gouvernance ou des technologies.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
