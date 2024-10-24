@@ -265,6 +265,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
