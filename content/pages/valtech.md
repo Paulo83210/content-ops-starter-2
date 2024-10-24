@@ -259,7 +259,7 @@ sections:
     text: "Valtech ne s’arrête pas à l’architecture composable. Grâce à son large éventail de services, l’entreprise accompagne Loto-Québec dans d’autres projets stratégiques.\n\n\_\n\nProjet 1 : Mission d’optimisation de la qualité et des processus d’ingénierie\n\n*   Évaluation de la maturité engineering et organisationnelle de Loto-Québec.\n\n*   Mesure des écarts et définition des points d’amélioration prioritaires dans une feuille de route.\n\n*   Analyse des compétences des équipes et identification des besoins en formation.\n\n*   Préconisation de nouvelles organisations internes, avec des rôles et responsabilités adaptés.\n\nProjet 2 : Propagation des bonnes pratiques et planification d’un nouveau chantier\n\n*   Mise en place des meilleures pratiques de planification pour une nouvelle équipe de Loto-Québec.\n\n*   Amélioration de la préparation et de la prise en charge des équipes, garantissant un suivi efficace et une meilleure exécution des tâches.\n\n\_\n\nProjet 3 : Optimisation des investissements et performance utilisateur\n\n\_\n\nValtech travaille main dans la main avec Loto-Québec sur l'optimisation des performances liées à l’expérience utilisateur. Ce projet vise à résoudre les défis liés à la gestion des données, à la performance des systèmes et à la sécurité. Valtech, fort de son expertise dans l’analyse des données et des innovations, aide Loto-Québec à maximiser l’utilisation de ces informations pour améliorer et capitaliser sur les expériences utilisateurs.\n"
     actions:
       - type: Link
-        label: Vister le site web de Netlify
+        label: ''
         url: '/https://www.netlify.com/'
         showIcon: true
         icon: arrowRight
