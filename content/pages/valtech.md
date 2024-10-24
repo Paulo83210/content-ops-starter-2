@@ -179,20 +179,26 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          *   Évaluation de la maturité engineering et organisationnelle de
-          Loto-Québec.
+          Nous aidons les entreprises à exploiter la puissance des données et à
+          favoriser une culture de prise de décision basée sur celles-ci. De la
+          mise en place d'infrastructures solides à l'extraction d'insights
+          précieux, nous offrons un avantage compétitif dans un monde axé sur
+          les données.
 
 
-          *   Mesure des écarts et définition des points d’amélioration
-          prioritaires dans une feuille de route.
+          *   Stratégie et maturité des données
 
 
-          *   Analyse des compétences des équipes et identification des besoins
-          en formation.
+          *   Fondation de données
 
 
-          *   Préconisation de nouvelles organisations internes, avec des rôles
-          et responsabilités adaptés.
+          *   Analyse, rapports et insights
+
+
+          *   Analyses avancées et IA
+
+
+          *   Activation et personnalisation des données
 
         image:
           type: ImageBlock
