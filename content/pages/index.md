@@ -817,7 +817,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: En savoir plus
             altText: ''
             url: /Netlify2
             showIcon: false
