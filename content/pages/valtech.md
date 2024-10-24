@@ -55,7 +55,7 @@ sections:
       text: 'Valtech : Un leader mondial dans l''architecture composable'
       color: text-dark
     subtitle: Netlify offre bien plus que des outils de déploiement rapide.
-    text: "Ses solutions\_Netlify Connect,\_Netlify Core\_et\_Netlify Create\_permettent à Loto-Québec de simplifier l’intégration des données, d'accélérer la mise en ligne des contenus, et de collaborer plus efficacement entre les équipes techniques et créatives. Ce workflow intégré permet non seulement d’augmenter la productivité, mais aussi de répondre rapidement aux besoins du marché.\n\n\n\n\n\n\n\n"
+    text: "Avec plus de 5 ans d'expérience dans le domaine composable, Valtech s'est imposé comme un acteur incontournable de cette transformation technologique. Valtech a accompagné certaines des plus grandes marques mondiales dans leur transition vers une architecture composable, en collaborant avec les principaux partenaires de solutions technologiques.\n\n*   200+\_implémentations dans le monde\n\n*   50+\_clients globaux\n\n*   400+\_certifications techniques\n\n*   500+\_spécialistes à disposition\n\n"
     actions: []
     badge:
       type: Badge
