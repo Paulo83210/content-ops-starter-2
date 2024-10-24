@@ -433,7 +433,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderWidth: 1
+            borderWidth: 0
       - type: FeaturedItem
         title: >-
           ... avec une nouvelle équipe qui n'a reçu aucun accompagnement à part
