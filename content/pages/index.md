@@ -452,7 +452,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderWidth: 1
+            borderWidth: 0
       - type: FeaturedItem
         title: Tout ça en seulement 2 à 3 mois de travail par projet!
         tagline: ''
