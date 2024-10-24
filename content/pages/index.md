@@ -794,14 +794,14 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Group 19.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/Group 19.png
+        url: /images/hero2.svg
         altText: Image alt text placeholder
         elementId: ''
         styles:
