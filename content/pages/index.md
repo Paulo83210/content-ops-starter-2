@@ -255,6 +255,7 @@ sections:
         padding:
           - pt-1
           - pl-16
+          - pr-16
         justifyContent: center
   - type: FeaturedItemsSection
     title:
