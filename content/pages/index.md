@@ -142,10 +142,30 @@ sections:
         title: Casper
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Loto Québec doit équilibrer sa stratégie numérique entre le commerce
+          de détail et son rôle d'hospitalité. Il est crucial que l'architecture
+          soutienne ces deux stratégies. C'est dans cette optique que le
+          chantier ATE avance, développant une infrastructure capable de
+          répondre aux exigences des deux secteurs et d'optimiser l'expérience
+          client.
+
+
+          *   Expérience client unifiée
+
+
+          *   Parcours connectés et personnalisés 
+
+
+          *   Faciliter la découvrabilité des jeux 
+
+
+          *   Fidélité
+
+
+          *   Améliorer l'efficacité marketing grâce à l'agilité et à la
+          simplicité des processus
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
