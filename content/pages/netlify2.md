@@ -290,8 +290,8 @@ sections:
     title:
       type: TitleBlock
       text: >-
-        Netlify - Un partenaire stratégique pour la transformation de
-        Loto-Québec
+        Netlify -un partenaire incontournable pour accompagner Loto-Québec dans
+        ses futurs défis numériques.
       color: text-dark
     subtitle: ''
     text: >+
