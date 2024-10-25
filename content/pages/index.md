@@ -559,6 +559,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderWidth: 0
+            borderColor: border-primary
       - type: FeaturedItem
         title: >-
           ... avec une nouvelle équipe qui n'a reçu aucun accompagnement à part
