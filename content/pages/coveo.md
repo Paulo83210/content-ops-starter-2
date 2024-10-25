@@ -84,23 +84,6 @@ sections:
       styles:
         self:
           borderRadius: medium
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pt-6
-          - pl-16
-          - pr-16
-          - pb-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
