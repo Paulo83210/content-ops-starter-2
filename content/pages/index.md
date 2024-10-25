@@ -222,7 +222,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
-            borderWidth: 2
+            borderWidth: 0
       - type: FeaturedItem
         title: ''
         tagline: ''
