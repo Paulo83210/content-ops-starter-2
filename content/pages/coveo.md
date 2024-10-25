@@ -116,7 +116,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Utilisation de la recherche
+        title: La recherche
         tagline: La recherche
         subtitle: ''
         text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n\n\n\n\n\n\n\n"
