@@ -124,21 +124,19 @@ sections:
           Sa stratégie numérique entre le commerce de détail et son rôle
           d'hospitalité.
         text: >+
-          Loto Québec doit équilibrer sa stratégie numérique entre le commerce
-          de détail et son rôle d'hospitalité. Il est crucial que l'architecture
-          soutienne ces deux stratégies. C'est dans cette optique que le
-          chantier ATE avance, développant une infrastructure capable de
-          répondre aux exigences des deux secteurs et d'optimiser l'expérience
-          client.
+          Il est crucial que l'architecture soutienne ces deux stratégies. C'est
+          dans cette optique que le chantier ATE avance, développant une
+          infrastructure capable de répondre aux exigences des deux secteurs et
+          d'optimiser l'expérience client.
 
 
           *   Expérience client unifiée
 
 
-          *   Parcours connectés et personnalisés 
+          *   Parcours connectés et personnalisés
 
 
-          *   Faciliter la découvrabilité des jeux 
+          *   Faciliter la découvrabilité des jeux
 
 
           *   Fidélité
