@@ -88,6 +88,14 @@ sections:
           - pl-16
           - pt-1
           - pb-16
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: CarouselSection
     items:
       - type: FeaturedItem
