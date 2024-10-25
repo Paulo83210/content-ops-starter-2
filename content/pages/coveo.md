@@ -141,7 +141,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Recommendations pertinentes
+        title: Taux
         tagline: Recommendations pertinentes
         subtitle: ''
         text: >+
