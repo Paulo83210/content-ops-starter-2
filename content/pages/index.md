@@ -5,16 +5,16 @@ sections:
   - type: GenericSection
     title:
       text: Le pouvoir du chantier ATE
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
-      Vous venez de vivre une expérience unique avec notre croupier virtuel en
-      étant capable de vous recommander des jeux sur mesure, même avec les
-      demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
-      Cette innovation est le fruit de notre collaboration avec **Valtech**,
-      notre partenaire stratégique sur le chantier ATE, qui nous accompagne dans
-      cette transformation.
+      ###### Vous venez de vivre une expérience unique avec notre croupier
+      virtuel en étant capable de vous recommander des jeux sur mesure, même
+      avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos
+      données ! Cette innovation est le fruit de notre collaboration avec
+      **Valtech**, notre partenaire stratégique sur le chantier ATE, qui nous
+      accompagne dans cette transformation.
 
 
       Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
@@ -26,7 +26,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -60,7 +60,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -116,8 +116,7 @@ sections:
           changements du marché, aux demandes des clients, et aux nouvelles
           opportunités. Fini le blocage à l’innovation : nous devenons plus
           flexibles, plus réactifs, et mieux équipés pour relever les défis de
-          demain, tout en optimisant les coûts grâce à l'utilisation de
-          composants réutilisables.
+          demain!
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -139,6 +138,35 @@ sections:
           styles:
             self:
               borderRadius: medium
+      - type: FeaturedItem
+        title: Casper
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
@@ -237,7 +265,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
@@ -252,7 +280,7 @@ sections:
     title:
       type: TitleBlock
       text: Comprendre le chantier ATE
-      color: text-dark
+      color: text-light
   - type: GenericSection
     subtitle: ''
     text: ''
