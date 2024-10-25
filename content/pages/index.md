@@ -139,7 +139,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Casper
+        title: ''
         tagline: ''
         subtitle: ''
         text: >+
