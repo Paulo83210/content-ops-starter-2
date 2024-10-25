@@ -827,6 +827,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: Valtech
         tagline: ''
