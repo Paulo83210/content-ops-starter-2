@@ -210,7 +210,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: En savoir plus
+            altText: ''
+            url: '/https://www.valtech.com/fr-ca/expertises/croissance-par-la-data/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -250,7 +259,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: En découvrir plus
+            altText: ''
+            url: '/https://www.valtech.com/fr-ca/expertises/commerce-accelere/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -295,7 +313,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: En découvrir plus
+            altText: ''
+            url: >-
+              /https://www.valtech.com/fr-ca/expertises/creativite-et-performance-marketing/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -317,7 +345,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: En savoir plus
+            altText: ''
+            url: '/https://www.valtech.com/fr-ca/expertises/experience-reimaginee/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
