@@ -129,9 +129,7 @@ sections:
         subtitle: >-
           Utilisent la recherche sur le site, offrant une navigation plus fluide
           et personnalisée.
-        text: >
-          Utilisent la recherche sur le site, offrant une navigation plus fluide
-          et personnalisée.
+        text: ''
         image:
           type: ImageBlock
           altText: Background alt text
