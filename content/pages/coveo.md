@@ -320,7 +320,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Un partenaire stratégique pour la transformation de Loto-Québec
+      text: >-
+        Coveo, un allié stratégique dans la transformation numérique de
+        Loto-Québec
       color: text-dark
     subtitle: ''
     text: >+
