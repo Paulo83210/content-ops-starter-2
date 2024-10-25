@@ -4,59 +4,40 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
       text: Le pouvoir du chantier ATE
       color: text-light
-      type: TitleBlock
     subtitle: ''
-    text: >
-      ###### Vous venez de vivre une expérience unique avec notre croupier
-      virtuel en étant capable de vous recommander des jeux sur mesure, même
-      avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos
-      données ! Cette innovation est le fruit de notre collaboration avec
-      **Valtech**, notre partenaire stratégique sur le chantier ATE, qui nous
-      accompagne dans cette transformation.
+    text: >+
+      Vous venez de vivre une expérience unique avec notre croupier virtuel en
+      étant capable de vous recommander des jeux sur mesure, même avec les
+      demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
+      Cette innovation est le fruit de notre collaboration avec Valtech, notre
+      partenaire stratégique sur le chantier ATE, qui nous accompagne dans cette
+      transformation.
 
 
       Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
       intelligemment plusieurs sources de données, nous pouvons créer des
       expériences révolutionnaires qui réinventent l'avenir du Casino.
+
+
+
+
     actions: []
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/GIF.gif
+      altText: Fun feature preview
     colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
-        flexDirection: col
         padding:
-          - pt-16
+          - pt-1
           - pl-16
-          - pb-1
           - pr-16
-        justifyContent: center
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-0
-            - pr-0
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 0
-          borderRadius: large
+          - pb-12
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -83,7 +64,7 @@ sections:
           pertinentes, tout en garantissant une flexibilité et une évolutivité
           accrues.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -108,15 +89,13 @@ sections:
         tagline: La promesse du composable
         subtitle: ''
         text: >
-          Une architecture composable utilise des technologies spécifiques pour
-          répondre précisément aux besoins d'affaires. Elle permet de choisir
-          les meilleurs outils pour chaque fonction, assurant ainsi une
-          adaptation optimale aux exigences commerciales. En offrant une grande
-          agilité, elle permet aux entreprises de s'adapter rapidement aux
-          changements du marché, aux demandes des clients, et aux nouvelles
-          opportunités. Fini le blocage à l’innovation : nous devenons plus
-          flexibles, plus réactifs, et mieux équipés pour relever les défis de
-          demain!
+          Une architecture composable utilise des technologies adaptées pour
+          répondre aux besoins d'affaires, permettant ainsi de choisir les
+          meilleurs outils pour chaque fonction. Elle offre une agilité qui
+          permet aux entreprises de s'adapter rapidement aux changements du
+          marché et aux demandes des clients. Fini les blocages à l'innovation :
+          nous devenons plus flexibles, réactifs et mieux préparés pour les
+          défis futurs !
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -139,21 +118,33 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Casper
-        tagline: Feature 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          Loto Québec doit équilibrer sa stratégie numérique entre le commerce
+          de détail et son rôle d'hospitalité. Il est crucial que l'architecture
+          soutienne ces deux stratégies. C'est dans cette optique que le
+          chantier ATE avance, développant une infrastructure capable de
+          répondre aux exigences des deux secteurs et d'optimiser l'expérience
+          client.
+
+
+          *   Expérience client unifiée
+
+
+          *   Parcours connectés et personnalisés 
+
+
+          *   Faciliter la découvrabilité des jeux 
+
+
+          *   Fidélité
+
+
+          *   Améliorer l'efficacité marketing grâce à l'agilité et à la
+          simplicité des processus
+
         actions: []
         colors: bg-dark-fg-light
         styles:
@@ -289,7 +280,7 @@ sections:
       type: ImageBlock
       url: /images/GIF.gif
       altText: Dope design preview
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -303,7 +294,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
