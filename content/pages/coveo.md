@@ -204,7 +204,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Une des
       color: text-dark
   - type: GenericSection
     subtitle: ''
