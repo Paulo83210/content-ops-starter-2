@@ -253,7 +253,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: lA FORMATION
+      label: La suite
       color: text-primary
     colors: bg-light-fg-dark
     styles:
