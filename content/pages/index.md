@@ -470,7 +470,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: '2024'
+      label: Les avancées majeures supportées par Valtech
       color: text-primary
       styles:
         self:
