@@ -74,17 +74,6 @@ sections:
       styles:
         self:
           borderRadius: medium
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -180,6 +169,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     subtitle: ''
     text: >
