@@ -172,7 +172,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Three
+        title: tendance à la hausse de 9.1% sur la période (avril - sept).
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
