@@ -395,7 +395,7 @@ sections:
           autonome et maîtriser les nouvelles technologies.
         text: ''
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
