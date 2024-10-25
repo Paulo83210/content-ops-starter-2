@@ -569,7 +569,7 @@ sections:
           Cette analyse a permis d'implémenter de nouvelles pratiques pour
           fluidifier nos processus et améliorer l’expérience des équipes. Elle a
           notamment permis d’optimiser la planification et l’estimation des
-          efforts pour les projets à venir (par exemple : une estimation de
+          efforts pour les projets à venir (par exemple : une planification de
           trois mois de travail réalisée en seulement cinq jours de
           planification).
         image:
