@@ -64,7 +64,7 @@ sections:
           pertinentes, tout en garantissant une flexibilité et une évolutivité
           accrues.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
