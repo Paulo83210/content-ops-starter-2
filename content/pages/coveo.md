@@ -339,19 +339,7 @@ sections:
         Loto-Québec
       color: text-light
     subtitle: ''
-    text: >+
-      Coveo accompagne Loto-Québec non seulement dans l'amélioration des
-      expériences utilisateurs, mais aussi dans la création d'une infrastructure
-      numérique prête pour l'avenir. Grâce à son expertise en IA et à ses
-      solutions avancées, Coveo reste un partenaire essentiel pour relever les
-      défis numériques à venir.
-
-
-
-
-
-
-
+    text: ''
     actions: []
     badge:
       type: Badge
