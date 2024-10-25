@@ -23,7 +23,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/tv.png
+      url: /images/tv 1.png
       altText: Fun feature preview
     colors: bg-dark-fg-light
     styles:
