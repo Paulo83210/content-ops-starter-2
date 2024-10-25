@@ -412,7 +412,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderColor: border-neutralAlt
+            borderColor: border-primary
             borderWidth: 2
       - type: FeaturedItem
         title: Une adoption centrée sur l'humain
