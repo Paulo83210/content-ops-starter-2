@@ -251,18 +251,12 @@ sections:
       text: Des équipes autonomes et plus performantes grâce à Netlify
       color: text-dark
     subtitle: ''
-    text: >+
-      Ça fonctionne et on entrevoit une intégration fluide sur le reste des
-      sections grâce à cette nouvelle infrastructure technologique! C’est
-      prometteur! L'intégration fluide de Coveo dans l’infrastructure de
-      Loto-Québec ouvre la voie à de nouvelles possibilités. En étendant cette
-      technologie à d'autres sections du site et en exploitan davantage les
-      outils de Coveo, Loto-Québec pourra continuer à enrichir et personnaliser
-      ses expériences digitales, tout en maximisant l'agilité et la performance
-      de ses services.
-
-
-
+    text: >
+      L'intégration fluide de Coveo dans l’infrastructure de Loto-Québec ouvre
+      la voie à de nouvelles possibilités. En étendant cette technologie à
+      d'autres sections du site et en exploitan davantage les outils de Coveo,
+      Loto-Québec pourra continuer à enrichir et personnaliser ses expériences
+      digitales, tout en maximisant l'agilité et la performance de ses services.
     actions: []
     media:
       type: ImageBlock
