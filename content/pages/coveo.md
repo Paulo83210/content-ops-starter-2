@@ -321,7 +321,7 @@ sections:
       type: TitleBlock
       text: Des équipes autonomes et plus performantes grâce à Coveo
       color: text-light
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
