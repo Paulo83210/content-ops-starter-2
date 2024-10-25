@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: '/images/Capture d’écran, le 2024-10-25 à 14.05.21.png'
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
