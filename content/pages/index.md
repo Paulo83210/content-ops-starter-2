@@ -27,7 +27,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/00_lq humanoid.jpg
+      url: /images/tv.png
       altText: Fun feature preview
     colors: bg-dark-fg-light
     styles:
