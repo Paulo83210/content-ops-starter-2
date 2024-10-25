@@ -1012,7 +1012,7 @@ sections:
       label: RESTONS EN CONTACT
       color: text-dark
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
     styles:
       self:
