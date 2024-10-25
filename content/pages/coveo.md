@@ -61,7 +61,19 @@ sections:
       text: 'Coveo pour Commerce : la recherche'
       color: text-dark
     subtitle: Netlify offre bien plus que des outils de déploiement rapide.
-    text: "Ses solutions\_Netlify Connect,\_Netlify Core\_et\_Netlify Create\_permettent à Loto-Québec de simplifier l’intégration des données, d'accélérer la mise en ligne des contenus, et de collaborer plus efficacement entre les équipes techniques et créatives. Ce workflow intégré permet non seulement d’augmenter la productivité, mais aussi de répondre rapidement aux besoins du marché.\n\n\n\n\n\n\n\n"
+    text: >+
+      Avec Coveo pour Commerce, Loto-Québec bénéficie de recommandations de
+      produits (jeux) basées sur l'IA, ajustées en temps réel selon les
+      interactions et les préférences des utilisateurs. Cette solution, en place
+      depuis deux ans dans le cadre du projet ATE, permet de fluidifier la
+      navigation et d'améliorer la pertinence des suggestions.
+
+
+
+
+
+
+
     actions: []
     badge:
       type: Badge
