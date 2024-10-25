@@ -118,7 +118,9 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: ''
+        title: >-
+          Équilibrer sa stratégie numérique entre le commerce de détail et son
+          rôle d'hospitalité
         tagline: ''
         subtitle: ''
         text: >+
