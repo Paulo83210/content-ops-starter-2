@@ -503,7 +503,7 @@ sections:
     title:
       type: TitleBlock
       text: Un exemple de succès
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
