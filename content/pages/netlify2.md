@@ -142,7 +142,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: tabs-nav
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
