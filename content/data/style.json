@@ -48,7 +48,7 @@
     },
     "h6": {
         "size": "lg",
-        "weight": "medium",
+        "weight": "bold",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
