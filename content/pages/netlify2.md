@@ -96,7 +96,7 @@ sections:
         text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: '/images/Capture d’écran, le 2024-10-25 à 14.25.28.png'
           altText: Business consulting
           elementId: ''
           styles:
