@@ -172,7 +172,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: tendance à la hausse de 9.1% sur la période (avril - sept).
+        title: 'Plus de 9,1 % d''augmentation'
         tagline: ''
         subtitle: >-
           Les conversions (ajout au panier) sur recherche sont extrêmement
