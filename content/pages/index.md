@@ -86,7 +86,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-light
-            borderWidth: 2
+            borderWidth: 0
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
