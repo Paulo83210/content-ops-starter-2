@@ -166,14 +166,6 @@ sections:
           *   Améliorer l'efficacité marketing grâce à l'agilité et à la
           simplicité des processus
 
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
         styles:
