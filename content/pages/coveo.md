@@ -261,7 +261,8 @@ sections:
       L'exploitation de la plateforme Coveo pour le service à la clientèle, par
       exemple, pourrait permettre à Loto-Québec d'améliorer le libre-service en
       ligne et d'aider les agents à répondre plus rapidement aux demandes,
-      réduisant ainsi les coûts tout en augmentant la satisfaction client.
+      réduisant ainsi les coûts tout en augmentant la satisfaction client. De
+      nombreuses possibilités!
     actions: []
     badge:
       type: Badge
