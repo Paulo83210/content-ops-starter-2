@@ -280,6 +280,13 @@ sections:
       type: TitleBlock
       text: Comprendre le chantier ATE
       color: text-light
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: DividerSection
     title: Divider
     elementId: ''
