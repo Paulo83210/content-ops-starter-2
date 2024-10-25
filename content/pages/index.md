@@ -381,7 +381,7 @@ sections:
           Cela évitera les duplications et simplifiera la gestion des contenus.
           Et tout cela servira pour les autres sections du site !
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
