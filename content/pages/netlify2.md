@@ -160,6 +160,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
     variant: tabs-nav
     colors: bg-dark-fg-light
     styles:
