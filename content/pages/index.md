@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Le pouvoir du chantier ATE
-      color: text-light
+      color: text-primary
     subtitle: ''
     text: >+
       Vous venez de vivre une expérience unique avec notre croupier virtuel en
