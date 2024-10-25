@@ -85,7 +85,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-            borderColor: border-primary
+            borderColor: border-light
             borderWidth: 2
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
