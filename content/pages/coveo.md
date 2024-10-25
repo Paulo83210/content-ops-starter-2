@@ -108,6 +108,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pt-1
   - type: CarouselSection
     items:
       - type: FeaturedItem
