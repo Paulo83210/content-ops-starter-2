@@ -1010,7 +1010,7 @@ sections:
         elementId: null
     badge:
       label: RESTONS EN CONTACT
-      color: text-dark
+      color: text-light
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
