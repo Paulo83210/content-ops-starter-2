@@ -353,7 +353,7 @@ sections:
           les prochaines migrations, qu’il s’agisse des processus, des outils,
           de la gouvernance ou des technologies.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
