@@ -326,11 +326,10 @@ sections:
         tagline: Migration
         subtitle: ''
         text: >
-          Ce projet a marqué le début de la mise en place du nouveau CMS
-          headless modulaire. Cette étape initiale nous a permis d’apprendre, de
-          tester et de construire des bases solides. Elle offre une structure
-          fiable pour mieux aborder les prochaines migrations, qu’il s’agisse
-          des processus, des outils, de la gouvernance ou des technologies.
+          Cette étape initiale nous a permis d’apprendre, de tester et de
+          construire des bases solides. Elle offre une structure fiable pour
+          mieux aborder les prochaines migrations, qu’il s’agisse des processus,
+          des outils, de la gouvernance ou des technologies.
         actions: []
         colors: bg-dark-fg-light
         styles:
