@@ -362,6 +362,7 @@ sections:
         justifyContent: center
         padding:
           - pt-1
+          - pl-16
       subtitle:
         textAlign: left
   - type: DividerSection
