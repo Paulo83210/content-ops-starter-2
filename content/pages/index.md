@@ -118,9 +118,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: >-
-          Équilibrer sa stratégie numérique entre le commerce de détail et son
-          rôle d'hospitalité
+        title: 'Loto-Québec veut équilibrer :'
         tagline: ''
         subtitle: >-
           Équilibrer sa stratégie numérique entre le commerce de détail et son
