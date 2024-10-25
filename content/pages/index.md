@@ -125,7 +125,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: '2024'
+      text: Comprendre le chantier ATE
       color: text-light
       styles:
         self:
