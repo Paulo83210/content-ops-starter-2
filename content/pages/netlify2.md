@@ -289,7 +289,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Un partenaire stratégique pour la transformation de Loto-Québec
+      text: >-
+        Netlify - Un partenaire stratégique pour la transformation de
+        Loto-Québec
       color: text-dark
     subtitle: ''
     text: >+
