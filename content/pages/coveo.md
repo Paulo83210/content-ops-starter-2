@@ -326,11 +326,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      Netlify a non seulement aidé Loto-Québec à moderniser ses infrastructures,
-      mais aussi à créer un environnement où les équipes peuvent innover plus
-      rapidement et de manière plus efficace. En offrant une plateforme flexible
-      et modulaire, Netlify s'impose comme un partenaire incontournable pour
-      accompagner Loto-Québec dans ses futurs défis numériques.
+      Coveo accompagne Loto-Québec non seulement dans l'amélioration des
+      expériences utilisateurs, mais aussi dans la création d'une infrastructure
+      numérique prête pour l'avenir. Grâce à son expertise en IA et à ses
+      solutions avancées, Coveo reste un partenaire essentiel pour relever les
+      défis numériques à venir.
 
 
 
