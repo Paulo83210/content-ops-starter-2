@@ -33,6 +33,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pt-1
   - type: DividerSection
     title: Divider
     elementId: ''
