@@ -13,9 +13,31 @@
     },
     "primaryLinks": [
         {
-            "label": "Partenaires",
-            "altText": "Blog",
-            "url": "/blog",
+            "type": "Link",
+            "label": "Netlify",
+            "altText": "",
+            "url": "/Netlify",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Coveo",
+            "altText": "",
+            "url": "/Coveo",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "label": "Valtech",
+            "altText": "",
+            "url": "/Valtech",
             "icon": "arrowLeft",
             "iconPosition": "right",
             "style": "secondary",
@@ -24,7 +46,7 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-left",
+    "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
