@@ -283,7 +283,7 @@ sections:
     title:
       type: TitleBlock
       text: Bien plus qu'un moteur de recherche
-      color: text-dark
+      color: text-light
     subtitle: ''
     text: >+
       En plus d'optimiser la recherche et les recommandations, Coveo offre des
