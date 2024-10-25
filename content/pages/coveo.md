@@ -148,7 +148,7 @@ sections:
             borderRadius: medium
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: '58% de taux de clics '
         tagline: ''
         subtitle: >-
           sur les résultats de recherche, démontrant la pertinence des
