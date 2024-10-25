@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Le pouvoir du chantier ATE
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
