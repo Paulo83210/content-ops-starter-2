@@ -414,38 +414,6 @@ sections:
             flexDirection: row
             borderColor: border-primary
             borderWidth: 2
-      - type: FeaturedItem
-        title: Une adoption centrée sur l'humain
-        tagline: ''
-        subtitle: ''
-        text: >
-          Le projet ATE a permis de transformer la technologie tout en
-          facilitant l’adoption de nouveaux outils par les équipes, leur donnant
-          ainsi l’opportunité de s'approprier pleinement ces innovations. Nous
-          sommes maintenant en phase de "shadowing," où Valtech accompagne les
-          équipes pour solidifier cette transition.
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-primary
-            borderWidth: 2
     actions: []
     badge:
       type: Badge
