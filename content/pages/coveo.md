@@ -116,7 +116,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Front Cloud Layer
+        title: 25% utilisent la recherche
         tagline: Frontend Cloud Layer
         subtitle: ''
         text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n\n\n\n\n\n\n\n"
