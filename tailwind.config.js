@@ -24,7 +24,7 @@ module.exports = {
             },
             fontFamily: {
                 //sans: ['Inter', 'sans-serif'],
-                sans: ['Arial', 'sans-serif'],
+                sans: ['Space Grotesk', 'sans-serif'],
                 serif: ['Roboto Slab', 'serif']
             },
             gridTemplateColumns: {
