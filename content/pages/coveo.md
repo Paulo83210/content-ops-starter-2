@@ -34,7 +34,7 @@ sections:
       label: ''
       color: text-primary
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
