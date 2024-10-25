@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Front Cloud Layer
-        tagline: Frontend Cloud Layer
+        tagline: Netlify Core
         subtitle: ''
         text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
         image:
