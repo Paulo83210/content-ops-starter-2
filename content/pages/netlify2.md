@@ -122,7 +122,13 @@ sections:
         title: Data Source Layer
         tagline: Connect
         subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
+        text: >
+          Cela permet rassembler toutes les sources de contenu et applications
+          CMS en un seul endroit, permettant d’orchestrer et de gérer la
+          diffusion du contenu sur toutes les expériences numériques frontend.
+          C'est la seule solution qui télécharge et met en cache tout le contenu
+          à la périphérie (Edge) pour assurer les temps de chargement les plus
+          rapides. 
         image:
           type: ImageBlock
           url: /images/Group 27.png
