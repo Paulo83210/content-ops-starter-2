@@ -54,7 +54,7 @@ sections:
       - type: FeaturedItem
         title: Premières migrations effectuées
         tagline: Premières migrations effectuées
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           En 2024, nous avons relevé un premier défi majeur avec la migration de
           la section Casino et Casino en Direct. Ce projet a prouvé la
