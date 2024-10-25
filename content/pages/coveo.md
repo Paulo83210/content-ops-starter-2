@@ -120,7 +120,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             borderColor: border-primary
-            borderWidth: 1
+            borderWidth: 2
       - type: FeaturedItem
         title: '58% de taux de clics '
         tagline: ''
