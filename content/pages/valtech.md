@@ -167,11 +167,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          Nous aidons les entreprises à exploiter la puissance des données et à
-          favoriser une culture de prise de décision basée sur celles-ci. De la
-          mise en place d'infrastructures solides à l'extraction d'insights
-          précieux, nous offrons un avantage compétitif dans un monde axé sur
-          les données.
+          Les avancées en données et en intelligence artificielle bouleversent
+          les pratiques commerciales. Nous aidons les entreprises à s'adapter et
+          à tirer parti de ces changements. En exploitant la puissance des
+          données, nous favorisons une culture de prise de décision éclairée,
+          offrant ainsi un avantage compétitif dans un monde axé sur les
+          données.
 
 
           *   Stratégie et maturité des données
