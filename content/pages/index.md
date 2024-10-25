@@ -340,6 +340,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderColor: border-neutral
+            borderWidth: 2
       - type: FeaturedItem
         title: 'Écosystème modulaire '
         tagline: Migration
