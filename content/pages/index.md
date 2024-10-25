@@ -122,7 +122,7 @@ sections:
         tagline: ''
         subtitle: >-
           Sa stratégie numérique entre le commerce de détail et son rôle
-          d'hospitalité
+          d'hospitalité.
         text: >+
           Loto Québec doit équilibrer sa stratégie numérique entre le commerce
           de détail et son rôle d'hospitalité. Il est crucial que l'architecture
