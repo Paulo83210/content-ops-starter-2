@@ -40,7 +40,7 @@
     },
     "h5": {
         "size": "xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
