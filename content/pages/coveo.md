@@ -255,7 +255,7 @@ sections:
           - pr-16
           - pl-16
           - pt-1
-          - pb-1
+          - pb-12
     media:
       type: VideoBlock
       title: Title of the video
