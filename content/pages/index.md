@@ -825,7 +825,7 @@ sections:
           innovantes.
         image:
           type: ImageBlock
-          url: /images/Group 21.png
+          url: /images/Valtech unlock blue.png
           altText: Placeholder text
           styles:
             self:
