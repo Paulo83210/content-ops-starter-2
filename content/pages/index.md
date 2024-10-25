@@ -12,11 +12,14 @@ sections:
       Vous venez de vivre une expérience unique avec notre croupier virtuel en
       étant capable de vous recommander des jeux sur mesure, même avec les
       demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
+      Cette innovation est le fruit de notre collaboration avec **Valtech**,
+      notre partenaire stratégique sur le chantier ATE, qui nous accompagne dans
+      cette transformation.
 
 
       Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
       intelligemment plusieurs sources de données, nous pouvons créer des
-      expériences révolutionnaires qui réinventent l'avenir.
+      expériences révolutionnaires qui réinventent l'avenir du Casino.
     actions: []
     badge:
       label: ''
@@ -283,7 +286,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Les avancées majeures
+      text: Les avancées majeures supportées par Valtech
       color: text-dark
       styles:
         self:
@@ -327,12 +330,12 @@ sections:
         tagline: Migration
         subtitle: ''
         text: >
-          La première migration, réalisée avec la section Casino, a marqué la
-          première étape de la mise en place du nouveau CMS headless modulaire.
-          Cette première fois nous a permis d'apprendre, de tester et de
-          construire des fondations solides, offrant une base structurante pour
-          mieux appréhender les prochaines migrations, qu'il s'agisse des
-          processus, des outils, de la gouvernance ou des technologies.
+          La première migration, réalisée avec la section Casino, a marqué le
+          début de la mise en place du nouveau CMS headless modulaire. Cette
+          étape initiale nous a permis d’apprendre, de tester et de construire
+          des bases solides. Elle offre une structure fiable pour mieux aborder
+          les prochaines migrations, qu’il s’agisse des processus, des outils,
+          de la gouvernance ou des technologies.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -349,10 +352,10 @@ sections:
         tagline: Migration
         subtitle: ''
         text: >
-          Grâce à ce passage au nouveau CMS headless et le Design System en
-          construction, nous allons pouvoir réutiliser les composantes
-          développées; évitant ainsi la duplication et simplifiant la gestion
-          des contenus. Et ça servira pour tout le reste des sections du site!
+          Avec le passage au nouveau CMS headless et le Design System en cours
+          de construction, nous pourrons réutiliser les composants développés.
+          Cela évitera les duplications et simplifiera la gestion des contenus.
+          Et tout cela servira pour les autres sections du site !
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -368,7 +371,7 @@ sections:
         title: Programme de formation
         subtitle: >-
           Nous avons lancé un programme formation unique, co-créé avec nos
-          partenaires Valtech, Coveo, Netlify et Content Stack. Résultat : plus
+          partenaires Valtech, Coveo, Netlify et Contentstack. Résultat : plus
           de 80 employés formés pour gérer les futures migrations de façon
           autonome et maîtriser les nouvelles technologies.
         text: ''
@@ -397,7 +400,12 @@ sections:
         title: Une transformation humaine et durable
         tagline: 80 personnes formées
         subtitle: ''
-        text: "Le projet ATE a réussi à transformer non seulement la technologie, mais aussi l'adoption par les équipes de ces nouveaux outils grâce à une approche centrée sur l'humain, visant à leur permettre de s'approprier pleinement ces innovations.\_\n"
+        text: >
+          Cette analyse a permis d'implémenter de nouvelles pratiques pour
+          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
+          eu un impact incroyable en rassurant les employés, en développant
+          leurs compétences et en créant des équipes autonomes dotées de
+          nouvelles expertises.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -409,6 +417,37 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: Une adoption centrée sur l'humain
+        tagline: ''
+        subtitle: ''
+        text: >
+          Grâce à une approche centrée sur l'humain, le projet ATE a réussi à
+          transformer non seulement la technologie, mais aussi à favoriser
+          l’adoption de ces nouveaux outils par les équipes. Cela leur a permis
+          de s'approprier pleinement ces innovations. Nous sommes désormais en
+          mode "shadowing," avec Valtech accompagnant les équipes pour renforcer
+          cette transition.
+        image:
+          type: ImageBlock
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     actions: []
     badge:
       type: Badge
@@ -545,7 +584,7 @@ sections:
         text: >
           Cette analyse faites auprès des équipes Loto Québec et Valtech sur les
           deux dernières années, a permis d’identifier 6 chantiers prioritaires
-          pour continuer à améliorer nos méthodes de travail.
+          pour continuer à améliorer nos méthodes de travail. 
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -563,11 +602,12 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Implémentation de nouvelles pratiques pour fluidifier nos processus et
-          optimiser l’expérience des équipes. Ce qui a permis en autre
-          d'optimiser la planification et l'estimation des efforts des projets à
-          venir (exemple: 3 mois de travail estimé en seulement 5 jours de
-          planification). 
+          Cette analyse a permis d’implémenter de nouvelles pratiques pour
+          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
+          également optimisé la planification et l’estimation des efforts pour
+          les projets à venir, avec par exemple, une planification de trois mois
+          réalisée en seulement cinq jours. Ces nouvelles méthodes sont
+          appliquées à la migration INSTANT et sont en cours pour la Lotterie.
         image:
           type: ImageBlock
           altText: Featured icon two
@@ -604,6 +644,85 @@ sections:
           - pt-1
           - pl-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Mission d’optimisation de la qualité et des processus d’ingénierie
+        subtitle: ''
+        text: >+
+          *   Évaluation de la maturité engineering et organisationnelle de
+          Loto-Québec.
+
+
+          *   Mesure des écarts et définition des points d’amélioration
+          prioritaires dans une feuille de route.
+
+
+          *   Analyse des compétences des équipes et identification des besoins
+          en formation.
+
+
+          *   Préconisation de nouvelles organisations internes, avec des rôles
+          et responsabilités adaptés.
+
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Optimisation des investissements et performance utilisateur
+        subtitle: ''
+        text: >
+          Valtech travaille main dans la main avec Loto-Québec sur
+          l'optimisation des performances liées à l’expérience utilisateur. Ce
+          projet vise à résoudre les défis liés à la gestion des données, à la
+          performance des systèmes et à la sécurité. Valtech, fort de son
+          expertise dans l’analyse des données et des innovations, aide
+          Loto-Québec à maximiser l’utilisation de ces informations pour
+          améliorer et capitaliser sur les expériences utilisateurs.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-12
+          - pt-1
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
@@ -765,14 +884,14 @@ sections:
       Nous continuons sur notre lancée avec la migration de trois autres
       sections clés :
 
-      Loterie, Bingo, Poker, et Paris sportifs. Parallèlement, nous lançons des
+      LOTERIES, BINGO, POKER, et PARIS SPORTIFS. Parallèlement, nous lançons des
 
       projets d’optimisation, y compris un suivi de performance pour mesurer
       l'impact
 
       des nouvelles infrastructures. Le projet est en constante évolution,
       ouvrant la voie à de nouvelles perspectives prometteuses et à des
-      expériences toujours plus innovantes pour le casino de demain! 
+      expériences toujours plus innovantes pour le casino de demain!
     actions: []
     media:
       type: VideoBlock

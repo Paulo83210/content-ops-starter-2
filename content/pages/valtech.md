@@ -210,13 +210,23 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          *   Mise en place des meilleures pratiques de planification pour une
-          nouvelle équipe de Loto-Québec.
+          Nous accompagnons les entreprises dans l'optimisation de leur
+          stratégie e-commerce pour répondre à la croissance des canaux de
+          commerce. Grâce à notre expertise, nous aidons nos clients à être plus
+          intégrés, à garantir la cohérence des données et à rendre leurs
+          technologies plus flexibles. 
 
 
-          *   Amélioration de la préparation et de la prise en charge des
-          équipes, garantissant un suivi efficace et une meilleure exécution des
-          tâches.
+          *   **Commerce et stratégie omnicanal**
+
+
+          *   **Gestion de l'expérience produit**
+
+
+          *   **Optimisation et performance**
+
+
+          *   **CRM et fidélisation**
 
         image:
           type: ImageBlock
@@ -262,22 +272,7 @@ sections:
         title: Marketing et créativité
         tagline: ''
         subtitle: ''
-        text: >+
-          Nous aidons les marques à libérer tout leur potentiel pour prospérer
-          dans un monde digitalisé.
-
-
-          *   Stratégie et design de marque
-
-
-          *   Développement de campagnes
-
-
-          *   Stratégie et création de contenu
-
-
-          *   Médias digitaux et performance
-
+        text: "Nous aidons les marques à libérer leur potentiel et à prospérer dans un monde digitalisé grâce à des communications créatives et ciblées. En intégrant de manière dynamique leurs plateformes créatives avec des stratégies de données et d'automatisation, nous permettons aux marques de maximiser leur performance.\n\n*   **Stratégie et design de marque**\_\n\n*   **Développement de campagnes**\n\n*   **Stratégie et création de contenu**\n\n*   **Médias digitaux et performance**\n\n"
         image:
           type: ImageBlock
           altText: Background alt text
@@ -296,11 +291,10 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Formations
+        title: Expérience
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: "Dans un monde où les attentes envers la technologie augmentent chaque jour, nous aidons les entreprises à créer des expériences exceptionnelles qui transforment l'interaction avec leurs clients.\n\n*   **Recherche et analyse**\_\n\n*   **Stratégie d'expérience**\_\n\n*   **Conception de produits et services**\_\n\n*   **Engagement et croissance**\_avec l'ptimisation des interactions pour renforcer la fidélisation et la satisfaction des clients.\n\n"
         image:
           type: ImageBlock
           altText: Background alt text
