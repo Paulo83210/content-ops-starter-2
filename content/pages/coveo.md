@@ -247,7 +247,7 @@ sections:
       type: Badge
       label: La suite
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
