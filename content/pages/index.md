@@ -119,7 +119,7 @@ sections:
       type: TitleBlock
       text: '2024'
       color: text-light
-    subtitle: '2024'
+    subtitle: Les avancées majeures
   - type: DividerSection
     title: Divider
     elementId: ''
