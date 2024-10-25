@@ -52,42 +52,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Répondre à des besoins d'affaires
-        tagline: La promesse du composable
-        subtitle: ''
-        text: >+
-          En 2024, nous avons relevé un premier défi majeur avec la migration de
-          la section Casino et Casino en Direct. Ce projet a prouvé la
-          robustesse de notre nouvelle infrastructure et permis d'affiner nos
-          processus pour les futures étapes.
-
-
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/Group 30 copie.png
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Qu'est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
@@ -114,6 +78,42 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Répondre à des besoins d'affaires
+        tagline: La promesse du composable
+        subtitle: ''
+        text: >+
+          En 2024, nous avons relevé un premier défi majeur avec la migration de
+          la section Casino et Casino en Direct. Ce projet a prouvé la
+          robustesse de notre nouvelle infrastructure et permis d'affiner nos
+          processus pour les futures étapes.
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/Group 30 copie.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
