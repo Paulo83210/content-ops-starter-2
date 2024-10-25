@@ -118,7 +118,7 @@ sections:
     title:
       type: TitleBlock
       text: Mais qu'est-ce que le chantier ATE
-      color: text-dark
+      color: text-light
   - type: DividerSection
     title: Divider
     elementId: ''
