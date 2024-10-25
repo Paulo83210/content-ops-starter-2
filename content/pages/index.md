@@ -613,12 +613,8 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Les nouvelles pratiques étudiées ont permis de fluidifier nos
-          processus et d’améliorer l’expérience des équipes. Elles ont également
-          optimisé la planification et l'estimation des efforts pour les projets
-          à venir, par exemple en réduisant une planification de trois mois à
-          seulement cinq jours. Ces méthodes sont appliquées à la migration
-          INSTANT et sont en cours pour LOTERIES.
+          Les nouvelles pratiques étudiées ont notamment permis une
+          planification de trois mois réalisée en seulement cinq jours. 
         image:
           type: ImageBlock
           altText: Featured icon two
