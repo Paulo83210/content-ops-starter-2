@@ -576,12 +576,12 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Cette analyse a permis d'implémenter de nouvelles pratiques pour
+          Cette analyse a permis d’implémenter de nouvelles pratiques pour
           fluidifier nos processus et améliorer l’expérience des équipes. Elle a
-          notamment permis d’optimiser la planification et l’estimation des
-          efforts pour les projets à venir (par exemple : une planification de
-          trois mois de travail réalisée en seulement cinq jours de
-          planification).
+          également optimisé la planification et l’estimation des efforts pour
+          les projets à venir, avec par exemple, une planification de trois mois
+          réalisée en seulement cinq jours. Ces nouvelles méthodes sont
+          appliquées à la migration INSTANT et sont en cours pour la Lotterie.
         image:
           type: ImageBlock
           altText: Featured icon two
