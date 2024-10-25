@@ -208,6 +208,9 @@ sections:
       type: TitleBlock
       text: Des réussites concrêtes
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: GenericSection
     subtitle: ''
     text: ''
