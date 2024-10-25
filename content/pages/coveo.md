@@ -176,7 +176,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Netlify Connect
+        title: Conversions
         tagline: Netlify Connect
         subtitle: ''
         text: >+
