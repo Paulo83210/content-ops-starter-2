@@ -400,7 +400,7 @@ sections:
           autonome et maîtriser les nouvelles technologies.
         text: ''
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
