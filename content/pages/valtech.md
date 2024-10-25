@@ -79,26 +79,6 @@ sections:
     subtitle: ''
     text: ''
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://www.youtube.com/watch?v=tJ95Q2ETMA4'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-1
-            - pb-1
-            - pl-0
-            - pr-0
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 0
-          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
