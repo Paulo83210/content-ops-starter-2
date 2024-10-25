@@ -52,7 +52,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 'Première migration effectuée : un modèle pour l’avenir'
+        title: Premières migrations effectuées
         tagline: Premières migrations effectuées
         subtitle: Increase your reach
         text: >-
