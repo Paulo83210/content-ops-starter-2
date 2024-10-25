@@ -61,7 +61,12 @@ sections:
       text: 'Coveo pour Commerce : la recherche'
       color: text-light
     subtitle: ''
-    text: "Loto-Québec bénéficie de recommandations de produits (jeux) basées sur l'IA, ajustées en temps réel selon les interactions et les préférences des utilisateurs. Cette solution, en place sur la section CASINO permet de fluidifier la navigation et d'améliorer la pertinence des suggestions.\n\nD’après une étude de Salesforce,\_**76 % des consommateurs**\_s'attendent à ce que les entreprises comprennent leurs besoins et attentes. La recherche améliorée par l'IA permet à Loto Québec de répondre à ces attentes en offrant des expériences personnalisées qui stimulent l'engagement des clients et, in fine, la croissance des revenus.\n\n"
+    text: >+
+      Loto-Québec bénéficie de recommandations de produits (jeux) basées sur
+      l'IA, ajustées en temps réel selon les interactions et les préférences des
+      utilisateurs. Cette solution, en place sur la section CASINO permet de
+      fluidifier la navigation et d'améliorer la pertinence des suggestions.
+
     actions: []
     badge:
       type: Badge
