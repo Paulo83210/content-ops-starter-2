@@ -211,31 +211,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: La recherche
-        tagline: La recherche
-        subtitle: ''
-        text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n\n\n\n\n\n\n\n"
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Taux de clics
         tagline: Taux de clics
         subtitle: ''
