@@ -175,8 +175,8 @@ sections:
         title: 'Plus de 9,1 % d''augmentation'
         tagline: ''
         subtitle: >-
-          Les conversions (ajout au panier) sur recherche sont extrêmement
-          élevées 
+          sur les conversions par recherche (ajouts au panier) entre avril et
+          septembre, témoignant d'une forte progression.
         text: ''
         image:
           type: ImageBlock
