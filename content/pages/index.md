@@ -121,9 +121,7 @@ sections:
         title: >-
           Équilibrer sa stratégie numérique entre le commerce de détail et son
           rôle d'hospitalité
-        tagline: >-
-          Équilibrer sa stratégie numérique entre le commerce de détail et son
-          rôle d'hospitalité
+        tagline: ''
         subtitle: >-
           Équilibrer sa stratégie numérique entre le commerce de détail et son
           rôle d'hospitalité
