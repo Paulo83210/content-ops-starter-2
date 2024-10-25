@@ -255,6 +255,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
     variant: dots-nav
     colors: bg-dark-fg-light
     styles:
