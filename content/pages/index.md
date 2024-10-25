@@ -1103,7 +1103,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Le pouvoir du chantier ATE
       color: text-dark
     subtitle: Increase your reach
     text: >
