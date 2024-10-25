@@ -324,7 +324,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Group 30.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
