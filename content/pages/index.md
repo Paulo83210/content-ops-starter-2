@@ -122,7 +122,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Les avancées majeures
+    subtitle: Des avancées majeures propulsées par Valtech
   - type: DividerSection
     title: Divider
     elementId: ''
