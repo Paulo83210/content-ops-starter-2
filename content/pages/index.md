@@ -224,7 +224,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/Group 31-5.png
+          url: /images/Artboard 1 copy.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
