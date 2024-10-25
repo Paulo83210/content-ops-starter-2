@@ -210,13 +210,16 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          *   Mise en place des meilleures pratiques de planification pour une
-          nouvelle équipe de Loto-Québec.
+          Nous accompagnons les entreprises dans l'optimisation de leur
+          stratégie e-commerce pour répondre à la croissance des canaux de
+          commerce. Grâce à notre expertise, nous aidons nos clients à être plus
+          intégrés, à garantir la cohérence des données et à rendre leurs
+          technologies plus flexibles.
 
 
-          *   Amélioration de la préparation et de la prise en charge des
-          équipes, garantissant un suivi efficace et une meilleure exécution des
-          tâches.
+          *   *   **Commerce et stratégie omnicanal***   **Gestion de
+          l'expérience produit***   *   *   **Optimisation et performance***  
+          **CRM et fidélisation**
 
         image:
           type: ImageBlock
