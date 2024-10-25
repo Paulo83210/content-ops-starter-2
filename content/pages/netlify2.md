@@ -90,7 +90,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Netlify Create
+        title: "Visual Editor Layer\_:"
         tagline: Create
         subtitle: ''
         text: >
