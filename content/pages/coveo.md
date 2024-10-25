@@ -60,7 +60,7 @@ sections:
       type: TitleBlock
       text: 'Coveo pour Commerce : la recherche'
       color: text-dark
-    subtitle: Netlify offre bien plus que des outils de déploiement rapide.
+    subtitle: ''
     text: >+
       Avec Coveo pour Commerce, Loto-Québec bénéficie de recommandations de
       produits (jeux) basées sur l'IA, ajustées en temps réel selon les
