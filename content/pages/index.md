@@ -117,7 +117,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Mais qu'est-ce que le chantier ATE
       color: text-dark
   - type: DividerSection
     title: Divider
