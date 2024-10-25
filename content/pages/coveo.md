@@ -90,7 +90,7 @@ sections:
           - pb-16
     media:
       type: ImageBlock
-      url: /images/Content-2.png
+      url: /images/Group 33.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
