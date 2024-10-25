@@ -172,6 +172,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             borderColor: border-primary
+            borderWidth: 2
     actions: []
     variant: small-list
     colors: bg-dark-fg-light
