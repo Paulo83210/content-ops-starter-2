@@ -897,7 +897,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Nous continuons sur notre lancée avec la migration de trois autres
+      Nous continuons sur notre lancée avec la migration de quatre autres
       sections clés :
 
       LOTERIES, BINGO, POKER, et PARIS SPORTIFS. Parallèlement, nous lançons des
