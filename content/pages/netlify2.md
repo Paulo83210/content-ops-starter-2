@@ -126,6 +126,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: Data Source Layer
         tagline: Connect
