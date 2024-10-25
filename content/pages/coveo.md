@@ -8,7 +8,21 @@ sections:
       text: Coveo
       color: text-dark
     subtitle: L'intelligence artificielle au service de Loto-Québec
-    text: "Netlify est une solution de déploiement et d’hébergement web qui révolutionne la manière dont les sites et applications sont gérés. En facilitant l’adoption de l’architecture\_composable, Netlify permet à Loto-Québec de moderniser ses infrastructures tout en accélérant la mise en ligne de nouvelles expériences numériques, garantissant ainsi une performance continue et une innovation rapide.\n\n\n\n"
+    text: >+
+      Une expertise technologique au cœur de l'optimisation des expériences
+      numériques Coveo, plateforme d'intelligence artificielle spécialisée dans
+      les solutions de recherche, de recommandations et d'IA générative,
+      accompagne Loto-Québec dans sa transformation digitale. Grâce à son moteur
+      de recherche intelligent, Coveo personnalise et optimise les résultats de
+      recherche en fonction des comportements des utilisateurs, offrant ainsi
+      une expérience sur mesure à chaque visite.
+
+
+
+
+
+
+
     actions: []
     media:
       type: ImageBlock
