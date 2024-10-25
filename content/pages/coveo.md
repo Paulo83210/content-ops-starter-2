@@ -217,7 +217,7 @@ sections:
       label: ''
       color: text-primary
     variant: tabs-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
