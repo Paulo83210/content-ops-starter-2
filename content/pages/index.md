@@ -548,7 +548,7 @@ sections:
         subtitle: ''
         text: ''
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -558,7 +558,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderWidth: 0
+            borderWidth: 2
+            borderColor: border-primary
       - type: FeaturedItem
         title: >-
           ... avec une nouvelle équipe qui n'a reçu aucun accompagnement à part
@@ -567,7 +568,7 @@ sections:
         subtitle: ''
         text: ''
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -577,14 +578,15 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderWidth: 0
+            borderWidth: 2
+            borderColor: border-primary
       - type: FeaturedItem
         title: Tout ça en seulement 2 à 3 mois de travail par projet!
         tagline: ''
         subtitle: ''
         text: ''
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -594,7 +596,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderWidth: 0
+            borderWidth: 2
+            borderColor: border-primary
     actions: []
     elementId: ''
     variant: small-list
@@ -638,7 +641,7 @@ sections:
           deux dernières années, a permis d’identifier 6 chantiers prioritaires
           pour continuer à améliorer nos méthodes de travail. 
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -665,7 +668,7 @@ sections:
           altText: Featured icon two
           elementId: ''
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -729,7 +732,7 @@ sections:
           et responsabilités adaptés.
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -741,6 +744,8 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: Optimisation des investissements et performance utilisateur
         subtitle: ''
@@ -753,7 +758,7 @@ sections:
           Loto-Québec à maximiser l’utilisation de ces informations pour
           améliorer et capitaliser sur les expériences utilisateurs.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -765,6 +770,8 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
     actions: []
     variant: toggle-list
     colors: bg-dark-fg-light

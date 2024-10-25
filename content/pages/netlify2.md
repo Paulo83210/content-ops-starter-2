@@ -68,7 +68,14 @@ sections:
         title: Front Cloud Layer
         tagline: Core
         subtitle: ''
-        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
+        text: >
+          Une solution qui fournit aux développeurs une plateforme et un
+          workflow pour se concentrer directement sur la création de sites web
+          et d'applications, sans perdre de temps sur des opérations lourdes. Il
+          améliore la collaboration avec des aperçus de déploiement automatiques
+          pour chaque modification, permettant à l’équipe de réviser facilement
+          les mises à jour et de livrer des projets web plus rapidement et
+          efficacement.
         image:
           type: ImageBlock
           url: /images/Group 25.png
@@ -89,11 +96,15 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderWidth: 2
       - type: FeaturedItem
-        title: Netlify Create
+        title: Visual Editor Layer
         tagline: Create
         subtitle: ''
-        text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
+        text: >
+          Offre aux équipes digitales la liberté d’effectuer des mises à jour de
+          contenu et de sites web de manière autonome et plus rapide que jamais,
+          grâce à un éditeur visuel intuitif.
         image:
           type: ImageBlock
           url: /images/Group 29.png
@@ -115,11 +126,19 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
-        title: Netlify Connect
+        title: Data Source Layer
         tagline: Connect
         subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
+        text: >
+          Cela permet rassembler toutes les sources de contenu et applications
+          CMS en un seul endroit, permettant d’orchestrer et de gérer la
+          diffusion du contenu sur toutes les expériences numériques frontend.
+          C'est la seule solution qui télécharge et met en cache tout le contenu
+          à la périphérie (Edge) pour assurer les temps de chargement les plus
+          rapides. 
         image:
           type: ImageBlock
           url: /images/Group 27.png
@@ -141,6 +160,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
     variant: tabs-nav
     colors: bg-dark-fg-light
     styles:
@@ -225,7 +246,7 @@ sections:
           - pb-1
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Group 30 copie 2.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
