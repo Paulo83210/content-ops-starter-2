@@ -118,11 +118,11 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: 'Loto-Québec veut équilibrer :'
-        tagline: ''
+        title: ''
+        tagline: Loto-Québec prépare son avenir
         subtitle: >-
-          Sa stratégie numérique entre le commerce de détail et son rôle
-          d'hospitalité.
+          Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
+          de détail et son rôle d'hospitalité
         text: >+
           Il est crucial que l'architecture soutienne ces deux stratégies. C'est
           dans cette optique que le chantier ATE avance, développant une
@@ -324,7 +324,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Group 30 copie.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -395,7 +395,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Group 30 copie 2.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -515,6 +515,29 @@ sections:
           fontWeight: 500
     items:
       - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Group 30.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
         title: Premiers sites corporatifs migrés par les équipes de Loto Québec...
         tagline: ''
         subtitle: ''
@@ -567,29 +590,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderWidth: 0
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Group 30.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
     actions: []
     elementId: ''
     variant: small-list
