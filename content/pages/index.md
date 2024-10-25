@@ -280,25 +280,6 @@ sections:
       type: TitleBlock
       text: Comprendre le chantier ATE
       color: text-light
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/test3.jpg
-      altText: Dope design preview
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        padding:
-          - pt-0
-          - pl-0
-          - pr-0
-          - pb-0
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -493,6 +474,25 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/test3.jpg
+      altText: Dope design preview
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-0
+          - pl-0
+          - pr-0
+          - pb-0
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
