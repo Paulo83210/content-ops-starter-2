@@ -142,7 +142,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Taux de clics
-        tagline: Recommendations pertinentes
+        tagline: Taux de clics
         subtitle: ''
         text: >+
           58% de taux de clics sur les résultats de recherche, démontrant la
