@@ -294,19 +294,7 @@ sections:
         ses futurs défis numériques.
       color: text-dark
     subtitle: ''
-    text: >+
-      Netlify a non seulement aidé Loto-Québec à moderniser ses infrastructures,
-      mais aussi à créer un environnement où les équipes peuvent innover plus
-      rapidement et de manière plus efficace. En offrant une plateforme flexible
-      et modulaire, Netlify s'impose comme un partenaire incontournable pour
-      accompagner Loto-Québec dans ses futurs défis numériques.
-
-
-
-
-
-
-
+    text: ''
     actions: []
     badge:
       type: Badge
