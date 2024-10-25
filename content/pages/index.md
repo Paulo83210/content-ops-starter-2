@@ -52,7 +52,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: La promesse du composable
+        title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
         subtitle: ''
         text: >+
