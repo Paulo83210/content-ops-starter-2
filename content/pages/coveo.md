@@ -151,8 +151,7 @@ sections:
         title: Feature Item Two
         tagline: ''
         subtitle: '58% de taux de clics '
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           altText: Background alt text
