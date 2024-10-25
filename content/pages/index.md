@@ -147,7 +147,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-            borderWidth: 2
+            borderWidth: 0
             borderColor: border-primary
       - type: FeaturedItem
         title: Flexibilité
