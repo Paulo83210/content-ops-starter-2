@@ -579,6 +579,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderWidth: 0
+            borderColor: border-primary
       - type: FeaturedItem
         title: Tout ça en seulement 2 à 3 mois de travail par projet!
         tagline: ''
