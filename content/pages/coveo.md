@@ -209,42 +209,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Taux de clics
-        tagline: Taux de clics
-        subtitle: ''
-        text: >+
-          58% de taux de clics sur les résultats de recherche, démontrant la
-          pertinence des recommandations.
-
-
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
+    items: []
     badge:
       type: Badge
       label: ''
