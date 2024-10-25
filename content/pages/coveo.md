@@ -65,7 +65,7 @@ sections:
           - pr-16
           - pl-16
           - pt-1
-          - pb-16
+          - pb-1
     media:
       type: ImageBlock
       url: /images/Content-4.png
