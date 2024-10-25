@@ -349,10 +349,10 @@ sections:
         tagline: Migration
         subtitle: ''
         text: >
-          Avec le passage au nouveau CMS headless et le Design System en cours
-          de construction, nous pourrons réutiliser les composants développés.
-          Cela évitera les duplications et simplifiera la gestion des contenus.
-          Et tout cela servira pour les autres sections du site !
+          Avec cet écosystème modulaire et le design system en cours de
+          construction, nous pourrons réutiliser les composants développés. Cela
+          évitera les duplications et simplifiera la gestion des contenus. Et
+          tout cela servira pour les autres sections du site !
         actions: []
         colors: bg-dark-fg-light
         styles:
