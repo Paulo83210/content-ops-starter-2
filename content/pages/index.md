@@ -50,21 +50,34 @@ sections:
           - pb-12
           - pr-12
   - type: CarouselSection
-    subtitle: ''
     items:
       - type: FeaturedItem
-        title: Qu’est-ce que le chantier ATE ?
+        title: Qu'est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
-        text: >
+        text: >+
           L'objectif de ce chantier est de moderniser l'infrastructure
-          technologique en adoptant **une architecture composable et modulaire,
-          avec en particulier la mise en place d'un CMS headless**. Cela
-          permettra de créer des expériences plus humaines, personnalisées et
-          pertinentes, tout en garantissant une flexibilité et une évolutivité
-          accrues.
+          technologique en adoptant une architecture composable et modulaire,
+          avec en particulier la mise en place d'un CMS headless. Cela permettra
+          de créer des expériences plus humaines, personnalisées et pertinentes,
+          tout en garantissant une flexibilité et une évolutivité accrues.
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/Artboard 1 copy 7 1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -76,14 +89,6 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-          url: /images/Group 31-5.png
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
@@ -93,11 +98,18 @@ sections:
           répondre aux besoins d'affaires, permettant ainsi de choisir les
           meilleurs outils pour chaque fonction. Elle offre une agilité qui
           permet aux entreprises de s'adapter rapidement aux changements du
-          marché et aux demandes des clients. Fini les blocages à l'innovation :
+          marché et aux demandes des clients. Fini les blocages à l'innovation:
           nous devenons plus flexibles, réactifs et mieux préparés pour les
-          défis futurs !
+          défis futurs!
+        image:
+          type: ImageBlock
+          url: /images/Group 30 copie.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -109,44 +121,23 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/Artboard 1 copy 7.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
-        title: ''
-        tagline: Loto-Québec prépare son avenir
-        subtitle: >-
+        title: >-
           Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
-          de détail et son rôle d'hospitalité
-        text: >+
-          Il est crucial que l'architecture soutienne ces deux stratégies. C'est
-          dans cette optique que le chantier ATE avance, développant une
-          infrastructure capable de répondre aux exigences des deux secteurs et
-          d'optimiser l'expérience client.
-
-
-          *   Expérience client unifiée
-
-
-          *   Parcours connectés et personnalisés
-
-
-          *   Faciliter la découvrabilité des jeux
-
-
-          *   Fidélité
-
-
-          *   Améliorer l'efficacité marketing grâce à l'agilité et à la
-          simplicité des processus
-
+          de détail et son rôle d'hospitalité. 
+        tagline: Loto-Québec prépare son avenir
+        subtitle: ''
+        text: "\n\n\n\n| Il est crucial que l'architecture soutienne ces deux stratégies. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.*   \uFEFFExpérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n\n\n\n\n\n\n\n"
+        image:
+          type: ImageBlock
+          url: /images/Artboard 1 copy 3 1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -158,25 +149,28 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/Group 31-5.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
         subtitle: ''
-        text: >
+        text: >+
           En se découplant du back-end, cette architecture facilite l'accès et
           l'utilisation des données sur diverses interfaces. Cela permet une
           flexibilité accrue et une meilleure expérience utilisateur,
-          indépendamment de la plateforme. 
+          indépendamment de la plateforme.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/Artboard 1 copy 8 1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -188,19 +182,11 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/Group 31-3.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: Modularité
         tagline: La promesse du composable
         subtitle: ''
-        text: >
+        text: >+
           Contrairement à un système monolithique, une architecture composable
           offre une modularité qui simplifie les mises à jour, les intégrations,
           et l'évolution rapide des systèmes. Elle permet une évolution rapide
@@ -209,8 +195,19 @@ sections:
           permettant une personnalisation des expériences client et des
           décisions basées sur les données en temps réel, offrant ainsi une
           présence omnicanale cohérente et pertinente.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/Artboard 1 copy 1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -222,36 +219,21 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/Artboard 1 copy.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: ''
         tagline: ''
         subtitle: ''
         text: >+
-          > "D'ici 2024, les organisations ayant adopté une approche modulaire
-          surpasseront leurs concurrents de 80 % en termes de rapidité de mise
-          en œuvre de nouvelles fonctionnalités."  
+          > D'ici 2024, les organisations ayant adopté une approche modulaire
+          surpasseront leurs concurrents de 80% en termes de rapidité de mise en
+          œuvre de nouvelles fonctionnalités."
 
           >
 
-          > **Gartner**
+          > Gartner
 
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -269,17 +251,20 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pb-16
           - pl-16
           - pr-16
-          - pt-1
+          - pt-6
+          - pb-6
       subtitle:
         textAlign: center
-        fontWeight: 400
     title:
       type: TitleBlock
       text: Comprendre le chantier ATE
       color: text-light
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -654,7 +639,7 @@ sections:
           également optimisé la planification et l’estimation des efforts pour
           les projets à venir, avec par exemple, une planification de trois mois
           réalisée en seulement cinq jours. Ces nouvelles méthodes sont
-          appliquées à la migration INSTANT et sont en cours pour la Lotterie.
+          appliquées à la migration INSTANT et sont en cours pour LOTERIES.
         image:
           type: ImageBlock
           altText: Featured icon two
@@ -802,7 +787,7 @@ sections:
           web.
         image:
           type: ImageBlock
-          url: /images/Group 19.png
+          url: /images/Netlify bleue.png
           altText: Placeholder text
           styles:
             self:
@@ -836,7 +821,7 @@ sections:
           innovantes.
         image:
           type: ImageBlock
-          url: /images/Group 21.png
+          url: /images/Valtech unlock blue.png
           altText: Placeholder text
           styles:
             self:
@@ -869,7 +854,7 @@ sections:
           Plateforme qui supporte la recherche sur des interfaces numériques.
         image:
           type: ImageBlock
-          url: /images/coveo.logo.png
+          url: /images/Coveoblue.png
           altText: Placeholder text
           styles:
             self:
@@ -929,26 +914,6 @@ sections:
       ouvrant la voie à de nouvelles perspectives prometteuses et à des
       expériences toujours plus innovantes pour le casino de demain!
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     colors: bg-dark-fg-light
     styles:
       self:
@@ -962,17 +927,14 @@ sections:
         alignItems: center
       subtitle:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
+    media:
+      type: ImageBlock
+      url: /images/Group 32.png
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: DividerSection
     title: Divider
     elementId: ''
