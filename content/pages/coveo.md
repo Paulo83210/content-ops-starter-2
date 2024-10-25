@@ -97,7 +97,7 @@ sections:
         self:
           borderRadius: medium
   - type: GenericSection
-    subtitle: Increase your reach
+    subtitle: Pourquoi la recherche est essentielle avec ce type de données
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
