@@ -226,7 +226,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Be in good company
+        subtitle: ''
         text: >+
           > D'ici 2024, les organisations ayant adopté une approche modulaire
           surpasseront leurs concurrents de 80% en termes de rapidité de mise en
