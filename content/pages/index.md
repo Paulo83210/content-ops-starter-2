@@ -858,7 +858,7 @@ sections:
           Plateforme qui supporte la recherche sur des interfaces numériques.
         image:
           type: ImageBlock
-          url: /images/coveo.logo.png
+          url: /images/Coveoblue.png
           altText: Placeholder text
           styles:
             self:
