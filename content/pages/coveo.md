@@ -143,7 +143,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
       - type: FeaturedItem
         title: 'Plus de 9,1 % d''augmentation'
