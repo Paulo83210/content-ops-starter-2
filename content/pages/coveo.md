@@ -171,6 +171,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-primary
     actions: []
     variant: small-list
     colors: bg-dark-fg-light
