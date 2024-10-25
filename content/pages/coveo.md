@@ -77,7 +77,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Des réussites concrêtes
+      text: Des résultats concrets
       color: text-primary
       styles:
         self:
