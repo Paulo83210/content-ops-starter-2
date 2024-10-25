@@ -858,14 +858,14 @@ sections:
       Nous continuons sur notre lancée avec la migration de trois autres
       sections clés :
 
-      Loterie, Bingo, Poker, et Paris sportifs. Parallèlement, nous lançons des
+      LOTERIES, BINGO, POKER, et PARIS SPORTIFS. Parallèlement, nous lançons des
 
       projets d’optimisation, y compris un suivi de performance pour mesurer
       l'impact
 
       des nouvelles infrastructures. Le projet est en constante évolution,
       ouvrant la voie à de nouvelles perspectives prometteuses et à des
-      expériences toujours plus innovantes pour le casino de demain! 
+      expériences toujours plus innovantes pour le casino de demain!
     actions: []
     media:
       type: VideoBlock
