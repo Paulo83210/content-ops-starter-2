@@ -130,7 +130,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Des avancées majeures propulsées par Valtech
+    subtitle: ''
   - type: DividerSection
     title: Divider
     elementId: ''
