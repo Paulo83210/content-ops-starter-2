@@ -6,13 +6,13 @@ sections:
     title:
       type: TitleBlock
       text: Netlify
-      color: text-dark
-    subtitle: Un Catalyseur pour la transformation numérique du chantier ATE
+      color: text-primary
+    subtitle: Un catalyseur pour la transformation numérique du chantier ATE
     text: "Netlify est une solution de déploiement et d’hébergement web qui révolutionne la manière dont les sites et applications sont gérés. En facilitant l’adoption de l’architecture\_composable, Netlify permet à Loto-Québec de moderniser ses infrastructures tout en accélérant la mise en ligne de nouvelles expériences numériques, garantissant ainsi une performance continue et une innovation rapide.\n\n\n\n"
     actions: []
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/Group-2.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
@@ -20,7 +20,7 @@ sections:
       label: ''
       color: text-primary
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
@@ -33,7 +33,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -53,7 +53,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
@@ -66,12 +66,12 @@ sections:
     items:
       - type: FeaturedItem
         title: Front Cloud Layer
-        tagline: Frontend Cloud Layer
+        tagline: Netlify Core
         subtitle: ''
         text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Group 25.png
           altText: Featured item
           styles:
             self:
@@ -96,7 +96,7 @@ sections:
         text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Group 29.png
           altText: Business consulting
           elementId: ''
           styles:
@@ -122,7 +122,7 @@ sections:
         text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Group 27.png
           altText: Business consulting
           elementId: ''
           styles:
@@ -142,7 +142,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: tabs-nav
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
@@ -180,7 +180,7 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -194,7 +194,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -214,7 +214,7 @@ sections:
       type: Badge
       label: lA FORMATION
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
@@ -234,7 +234,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -250,22 +250,23 @@ sections:
     subtitle: ''
     text: "L'avenir du chantier ATE pourrait également bénéficier d’autres services offerts par Netlify, tels que la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise. Ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale. Pour en savoir plus, n’hésitez pas à venir nous voir directement sur place ou de visiter notre site Web!\n\n\n\n\n\n\n\n"
     actions:
-      - type: Link
-        label: Vister le site web de Netlify
+      - type: Button
+        label: 'En savoir plus '
+        altText: ''
         url: '/https://www.netlify.com/'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
       altText: Fun feature preview
     badge:
       type: Badge
       label: OPPORTUNITÉS POUR L'AVENIR
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
@@ -277,7 +278,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -288,28 +289,18 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Un partenaire stratégique pour la transformation de Loto-Québec
+      text: >-
+        Netlify: un partenaire incontournable pour accompagner Loto-Québec dans
+        ses futurs défis numériques.
       color: text-dark
     subtitle: ''
-    text: >+
-      Netlify a non seulement aidé Loto-Québec à moderniser ses infrastructures,
-      mais aussi à créer un environnement où les équipes peuvent innover plus
-      rapidement et de manière plus efficace. En offrant une plateforme flexible
-      et modulaire, Netlify s'impose comme un partenaire incontournable pour
-      accompagner Loto-Québec dans ses futurs défis numériques.
-
-
-
-
-
-
-
+    text: ''
     actions: []
     badge:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
