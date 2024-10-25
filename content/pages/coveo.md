@@ -190,6 +190,10 @@ sections:
           - pl-16
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     subtitle: ''
     text: ''
