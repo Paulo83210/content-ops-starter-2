@@ -299,8 +299,7 @@ sections:
         title: Experience
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: "Dans un monde où les attentes envers la technologie augmentent chaque jour, nous aidons les entreprises à créer des expériences exceptionnelles qui transforment l'interaction avec leurs clients.\n\n*   **Recherche et analyse**\_\n\n*   **Stratégie d'expérience**\_\n\n*   **Conception de produits et services**\_\n\n*   **Engagement et croissance**\_avec Optimisation des interactions pour renforcer la fidélisation et la satisfaction des clients.\n\n"
         image:
           type: ImageBlock
           altText: Background alt text
