@@ -168,7 +168,7 @@ sections:
           flexibilité accrue et une meilleure expérience utilisateur,
           indépendamment de la plateforme. 
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
