@@ -345,7 +345,7 @@ sections:
             borderColor: border-primary
             borderWidth: 2
       - type: FeaturedItem
-        title: 'Écosystème modulaire '
+        title: Un modèle réplicable
         tagline: Migration
         subtitle: ''
         text: >
