@@ -96,6 +96,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderWidth: 2
       - type: FeaturedItem
         title: Visual Editor Layer
         tagline: Create
