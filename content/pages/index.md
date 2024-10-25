@@ -613,12 +613,12 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Cette analyse a permis d’implémenter de nouvelles pratiques pour
-          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
-          également optimisé la planification et l’estimation des efforts pour
-          les projets à venir, avec par exemple, une planification de trois mois
-          réalisée en seulement cinq jours. Ces nouvelles méthodes sont
-          appliquées à la migration INSTANT et sont en cours pour LOTERIES.
+          Les nouvelles pratiques mises en place ont permis de fluidifier nos
+          processus et d’améliorer l’expérience des équipes. Elles ont également
+          optimisé la planification et l'estimation des efforts pour les projets
+          à venir, par exemple en réduisant une planification de trois mois à
+          seulement cinq jours. Ces méthodes sont appliquées à la migration
+          INSTANT et sont en cours pour LOTERIES.
         image:
           type: ImageBlock
           altText: Featured icon two
