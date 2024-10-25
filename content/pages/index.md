@@ -286,7 +286,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Humains.jpg
+      url: /images/test3.jpg
       altText: Dope design preview
     colors: bg-dark-fg-light
     styles:
