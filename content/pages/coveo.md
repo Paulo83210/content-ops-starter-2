@@ -90,7 +90,7 @@ sections:
           - pb-16
     media:
       type: ImageBlock
-      url: /images/LinkedIn Carousel Ads (1_1).png
+      url: /images/Content-2.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
