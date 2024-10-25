@@ -755,7 +755,7 @@ sections:
               - pb-8
               - pr-8
             textAlign: left
-            borderRadius: large
+            borderRadius: x-large
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
