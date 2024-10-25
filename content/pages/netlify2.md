@@ -20,7 +20,7 @@ sections:
       label: ''
       color: text-primary
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -33,7 +33,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -45,7 +45,7 @@ sections:
     title:
       type: TitleBlock
       text: Une solution complète pour aller plus loin dans l'innovation
-      color: text-dark
+      color: text-neutral
     subtitle: Netlify offre bien plus que des outils de déploiement rapide.
     text: "Ses solutions\_Netlify Connect,\_Netlify Core\_et\_Netlify Create\_permettent à Loto-Québec de simplifier l’intégration des données, d'accélérer la mise en ligne des contenus, et de collaborer plus efficacement entre les équipes techniques et créatives. Ce workflow intégré permet non seulement d’augmenter la productivité, mais aussi de répondre rapidement aux besoins du marché.\n\n\n\n\n\n\n\n"
     actions: []
@@ -53,7 +53,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Front Cloud Layer
-        tagline: Netlify Core
+        tagline: Core
         subtitle: ''
         text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
         image:
@@ -91,7 +91,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Netlify Create
-        tagline: Netlify Create
+        tagline: Create
         subtitle: ''
         text: "Visual Editor Layer\_: Offre aux équipes digitales la liberté d’effectuer des mises à jour de contenu et de sites web de manière autonome et plus rapide que jamais, grâce à un éditeur visuel intuitif.\n\n\n\n\n\n\n\n"
         image:
@@ -117,7 +117,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Netlify Connect
-        tagline: Netlify Connect
+        tagline: Connect
         subtitle: ''
         text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
         image:
@@ -142,7 +142,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: tabs-nav
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
@@ -180,7 +180,7 @@ sections:
           borderStyle: solid
           borderWidth: 0
           borderRadius: large
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row
@@ -194,7 +194,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -206,7 +206,7 @@ sections:
     title:
       type: TitleBlock
       text: Des équipes autonomes et plus performantes grâce à Netlify
-      color: text-dark
+      color: text-neutral
     subtitle: ''
     text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n"
     actions: []
@@ -214,7 +214,7 @@ sections:
       type: Badge
       label: lA FORMATION
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -234,7 +234,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -246,7 +246,7 @@ sections:
     title:
       type: TitleBlock
       text: Encore plus d'agilité pour Loto-Québec
-      color: text-dark
+      color: text-light
     subtitle: ''
     text: "L'avenir du chantier ATE pourrait également bénéficier d’autres services offerts par Netlify, tels que la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise. Ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale. Pour en savoir plus, n’hésitez pas à venir nous voir directement sur place ou de visiter notre site Web!\n\n\n\n\n\n\n\n"
     actions:
@@ -266,7 +266,7 @@ sections:
       type: Badge
       label: OPPORTUNITÉS POUR L'AVENIR
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -278,7 +278,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -292,7 +292,7 @@ sections:
       text: >-
         Netlify: un partenaire incontournable pour accompagner Loto-Québec dans
         ses futurs défis numériques.
-      color: text-dark
+      color: text-light
     subtitle: ''
     text: ''
     actions: []
@@ -300,7 +300,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
