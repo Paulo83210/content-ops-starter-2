@@ -119,6 +119,9 @@ sections:
       type: TitleBlock
       text: '2024'
       color: text-light
+      styles:
+        self:
+          textAlign: center
     subtitle: Les avancées majeures
   - type: DividerSection
     title: Divider
