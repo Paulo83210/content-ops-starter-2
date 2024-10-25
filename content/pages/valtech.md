@@ -171,8 +171,8 @@ sections:
           textAlign: center
     subtitle: >-
       L'implication de Valtech va bien au delà de l'implémentation d'un CMS
-      headless. Grâce à son large éventail de services, l’entreprise accompagne
-      Loto-Québec dans d’autres projets stratégiques.
+      headless. Grâce à son large éventail de services, l’entreprise peut
+      accompagner Loto-Québec dans d’autres projets stratégiques.
     items:
       - type: FeaturedItem
         title: Révolution des données et IA
