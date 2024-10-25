@@ -127,8 +127,7 @@ sections:
         title: 25%
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Plus de\_25% des visiteurs\_utilisent la\nrecherche sur le site, offrant une navigation plus fluide et personnalisée.\n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
           altText: Background alt text
