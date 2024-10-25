@@ -641,7 +641,7 @@ sections:
           deux dernières années, a permis d’identifier 6 chantiers prioritaires
           pour continuer à améliorer nos méthodes de travail. 
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
