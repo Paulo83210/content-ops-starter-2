@@ -758,7 +758,7 @@ sections:
           Loto-Québec à maximiser l’utilisation de ces informations pour
           améliorer et capitaliser sur les expériences utilisateurs.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
