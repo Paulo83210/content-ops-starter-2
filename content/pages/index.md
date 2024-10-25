@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: La promesse du composable
-        tagline: Premières migrations effectuées
+        tagline: La promesse du composable
         subtitle: ''
         text: >+
           En 2024, nous avons relevé un premier défi majeur avec la migration de
