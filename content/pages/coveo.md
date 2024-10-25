@@ -126,7 +126,9 @@ sections:
       - type: FeaturedItem
         title: Plus de 25% des visiteurs
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Utilisent la recherche sur le site, offrant une navigation plus fluide
+          et personnalisée.
         text: >
           Utilisent la recherche sur le site, offrant une navigation plus fluide
           et personnalisée.
