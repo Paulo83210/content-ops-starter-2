@@ -179,7 +179,18 @@ sections:
         title: Netlify Connect
         tagline: Netlify Connect
         subtitle: ''
-        text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
+        text: >+
+          Les conversions (ajout au panier) sur recherche sont extrêmement
+          élevées avec une tendance à la hausse de 9.1% sur la période (avril -
+
+          sept).​
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
