@@ -426,10 +426,13 @@ sections:
         title: Une adoption centrée sur l'humain
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Grâce à une approche centrée sur l'humain, le projet ATE a réussi à
+          transformer non seulement la technologie, mais aussi à favoriser
+          l’adoption de ces nouveaux outils par les équipes. Cela leur a permis
+          de s'approprier pleinement ces innovations. Nous sommes désormais en
+          mode "shadowing," avec Valtech accompagnant les équipes pour renforcer
+          cette transition.
         image:
           type: ImageBlock
           altText: Business consulting
