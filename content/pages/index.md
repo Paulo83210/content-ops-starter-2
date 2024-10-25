@@ -315,14 +315,11 @@ sections:
       - type: FeaturedItem
         title: Premières migrations effectuées
         subtitle: ''
-        text: >+
+        text: >
           En 2024, nous avons relevé un premier défi majeur avec la migration de
-          la section Casino en ligne. Ce projet a prouvé la robustesse de notre
-          nouvelle infrastructure et permis d'affiner nos processus pour les
-          futures étapes.
-
-
-
+          la section Casino et Casino en Direct. Ce projet a prouvé la
+          robustesse de notre nouvelle infrastructure et permis d'affiner nos
+          processus pour les futures étapes.
         actions: []
         colors: bg-dark-fg-light
         styles:
