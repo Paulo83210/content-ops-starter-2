@@ -348,7 +348,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Des équipes autonomes et plus performantes grâce à Coveo
       color: text-light
     subtitle: Increase your reach
     text: >
