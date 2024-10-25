@@ -322,7 +322,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Un modèle réplicable
+        title: Mise en place CMS headless
         tagline: Migration
         subtitle: ''
         text: >
