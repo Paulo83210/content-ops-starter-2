@@ -655,7 +655,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Optimisation des investissements et performance utilisateur
-        subtitle: Marketing
+        subtitle: ''
         text: >
           Valtech travaille main dans la main avec Loto-Québec sur
           l'optimisation des performances liées à l’expérience utilisateur. Ce
