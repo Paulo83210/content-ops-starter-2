@@ -305,7 +305,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Les avancées majeures supportées par Valtech
+      text: 2024 - des avancées majeures supportées par Valtech
       color: text-dark
       styles:
         self:
