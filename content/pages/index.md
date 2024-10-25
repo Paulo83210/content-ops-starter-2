@@ -367,7 +367,7 @@ sections:
             borderColor: border-neutralAlt
             borderWidth: 2
       - type: FeaturedItem
-        title: Programme de formation
+        title: Programme de formations
         subtitle: "Co-créé avec nos partenaires Valtech, Coveo, Netlify et Contentstack, un programme de formations, personnalisé et en français. \_Résultat : plus de 80 employés formés pour gérer les futures migrations de façon autonome et maîtriser les nouvelles technologies."
         text: ''
         actions: []
