@@ -88,7 +88,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Loto-Québec prépare son avenir
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
