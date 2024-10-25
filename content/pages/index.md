@@ -403,7 +403,7 @@ sections:
           leurs compétences et en créant des équipes autonomes dotées de
           nouvelles expertises.
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
