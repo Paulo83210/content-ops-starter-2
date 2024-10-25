@@ -117,7 +117,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 25% utilisent la recherche
-        tagline: ''
+        tagline: 25% utilisent la recherche
         subtitle: ''
         text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n\n\n\n\n\n\n\n"
         image:
