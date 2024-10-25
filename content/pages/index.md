@@ -90,7 +90,7 @@ sections:
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
         tagline: Qu'est-ce que le chantier ATE ?
-        subtitle: Be in good company
+        subtitle: ATE (Architecture Technologique et Expérientielle)
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
