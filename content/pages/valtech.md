@@ -291,7 +291,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Experience
+        title: Expérience
         tagline: ''
         subtitle: ''
         text: "Dans un monde où les attentes envers la technologie augmentent chaque jour, nous aidons les entreprises à créer des expériences exceptionnelles qui transforment l'interaction avec leurs clients.\n\n*   **Recherche et analyse**\_\n\n*   **Stratégie d'expérience**\_\n\n*   **Conception de produits et services**\_\n\n*   **Engagement et croissance**\_avec l'ptimisation des interactions pour renforcer la fidélisation et la satisfaction des clients.\n\n"
