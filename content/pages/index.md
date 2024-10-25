@@ -187,7 +187,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Modularité
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
