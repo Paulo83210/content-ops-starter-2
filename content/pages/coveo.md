@@ -88,14 +88,6 @@ sections:
           - pl-16
           - pt-1
           - pb-16
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     subtitle: Pourquoi la recherche est essentielle avec ce type de données
     text: "D’après une étude de Salesforce,\_**76 % des consommateurs** s'attendent à ce que les entreprises comprennent leurs besoins et attentes. La recherche améliorée par l'IA permet à Loto Québec de répondre à ces attentes en offrant des expériences personnalisées qui stimulent l'engagement des clients et, in fine, la croissance des revenus.\n\nLa recherche enrichie par l'IA va bien au-delà de la simple recherche d'informations : elle capte les intentions des clients, propose des recommandations personnalisées et initie des conversations significatives. Cette capacité est cruciale pour guider les clients potentiels tout au long du parcours d'achat et les transformer en clients fidèles.\n"
