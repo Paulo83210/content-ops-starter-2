@@ -613,7 +613,7 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Les nouvelles pratiques mises en place ont permis de fluidifier nos
+          Les nouvelles pratiques étudiées ont permis de fluidifier nos
           processus et d’améliorer l’expérience des équipes. Elles ont également
           optimisé la planification et l'estimation des efforts pour les projets
           à venir, par exemple en réduisant une planification de trois mois à
