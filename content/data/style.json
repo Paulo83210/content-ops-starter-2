@@ -1,11 +1,11 @@
 {
     "light": "#ffffff",
-    "dark": "#000000",
-    "neutral": "#DCDCDC",
-    "neutralAlt": "#f1f1f1",
+    "dark": "#00034A",
+    "neutral": "#FDFBF6",
+    "neutralAlt": "#86BAE8",
     "primary": "#00034A",
-    "fontBody": "",
-    "fontHeadlines": "",
+    "fontBody": "sans",
+    "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
         "weight": "normal",
