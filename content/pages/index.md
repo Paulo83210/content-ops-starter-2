@@ -605,7 +605,7 @@ sections:
           également optimisé la planification et l’estimation des efforts pour
           les projets à venir, avec par exemple, une planification de trois mois
           réalisée en seulement cinq jours. Ces nouvelles méthodes sont
-          appliquées à la migration INSTANT et sont en cours pour la Lotterie.
+          appliquées à la migration INSTANT et sont en cours pour LOTERIES.
         image:
           type: ImageBlock
           altText: Featured icon two
