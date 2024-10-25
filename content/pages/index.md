@@ -955,7 +955,7 @@ sections:
           - pr-12
   - title:
       text: Qu'avez-vous pensé de cette expérience ?
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: ''
