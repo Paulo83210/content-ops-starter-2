@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/Group 31.png
+          url: /images/Group 31-2.png
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
