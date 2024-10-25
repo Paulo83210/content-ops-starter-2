@@ -362,7 +362,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: full
+            borderRadius: x-large
             flexDirection: row
             borderColor: border-neutralAlt
             borderWidth: 2
