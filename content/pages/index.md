@@ -471,7 +471,7 @@ sections:
     badge:
       type: Badge
       label: '2024'
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
