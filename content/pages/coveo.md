@@ -150,7 +150,9 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: ''
-        subtitle: '58% de taux de clics '
+        subtitle: >-
+          sur les résultats de recherche, démontrant la pertinence des
+          recommandations.
         text: ''
         image:
           type: ImageBlock
