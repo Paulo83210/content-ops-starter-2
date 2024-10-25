@@ -273,7 +273,21 @@ sections:
       text: Bien plus qu'un moteur de recherche
       color: text-dark
     subtitle: ''
-    text: "L'avenir du chantier ATE pourrait également bénéficier d’autres services offerts par Netlify, tels que la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise. Ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale. Pour en savoir plus, n’hésitez pas à venir nous voir directement sur place ou de visiter notre site Web!\n\n\n\n\n\n\n\n"
+    text: >+
+      En plus d'optimiser la recherche et les recommandations, Coveo offre des
+      services complémentaires qui pourraient transformer d'autres aspects de
+      l'expérience numérique de Loto-Québec. L'exploitation de la plateforme
+      Coveo pour le service à la clientèle, par exemple, pourrait permettre à
+      Loto-Québec d'améliorer le libre-service en ligne et d'aider les agents à
+      répondre plus rapidement aux demandes, réduisant ainsi les coûts tout en
+      augmentant la satisfaction client.
+
+
+
+
+
+
+
     actions:
       - type: Link
         label: Vister le site web de Netlify
