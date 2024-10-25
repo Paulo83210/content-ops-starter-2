@@ -69,7 +69,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Group 30 copie.png
           altText: Featured item
           styles:
             self:
