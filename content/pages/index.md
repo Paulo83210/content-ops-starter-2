@@ -29,7 +29,7 @@ sections:
       type: ImageBlock
       url: /images/GIF.gif
       altText: Fun feature preview
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
