@@ -930,14 +930,9 @@ sections:
       Nous continuons sur notre lancée avec la migration de quatre autres
       sections clés :
 
-      LOTERIES, BINGO, POKER, et PARIS SPORTIFS. Parallèlement, nous lançons des
-
-      projets d’optimisation, y compris un suivi de performance pour mesurer
-      l'impact
-
-      des nouvelles infrastructures. Le projet est en constante évolution,
-      ouvrant la voie à de nouvelles perspectives prometteuses et à des
-      expériences toujours plus innovantes pour le casino de demain!
+      LOTERIES, BINGO, POKER, et PARIS SPORTIFS.  Le projet est en constante
+      évolution, ouvrant la voie à de nouvelles perspectives prometteuses et à
+      des expériences toujours plus innovantes pour le casino de demain!
     actions: []
     colors: bg-dark-fg-light
     styles:
