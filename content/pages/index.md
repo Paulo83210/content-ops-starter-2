@@ -933,7 +933,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/CONCETEMENT 4.jpg
+      url: /images/Group 32.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
