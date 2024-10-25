@@ -271,7 +271,7 @@ sections:
     title:
       type: TitleBlock
       text: Comprendre le chantier ATE
-      color: text-dark
+      color: text-light
   - type: GenericSection
     subtitle: ''
     text: ''
