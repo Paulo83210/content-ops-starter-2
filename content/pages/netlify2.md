@@ -258,7 +258,7 @@ sections:
         iconPosition: right
         style: primary
       - type: Button
-        label: Vister le site web de Netlify
+        label: Visiter le site web de Netlify
         altText: ''
         url: '/https://www.netlify.com/'
         showIcon: false
