@@ -364,6 +364,7 @@ sections:
           - pt-1
           - pl-16
           - pr-16
+          - pb-6
       subtitle:
         textAlign: left
   - type: DividerSection
