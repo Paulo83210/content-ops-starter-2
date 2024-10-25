@@ -378,7 +378,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             textAlign: left
             justifyContent: center
