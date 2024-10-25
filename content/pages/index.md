@@ -313,7 +313,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Première migration effectuée
+        title: Premières migrations effectuées
         subtitle: ''
         text: >+
           En 2024, nous avons relevé un premier défi majeur avec la migration de
