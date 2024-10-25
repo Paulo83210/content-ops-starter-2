@@ -111,7 +111,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/GIF.gif
+          url: /images/Artboard 1 copy 7.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
