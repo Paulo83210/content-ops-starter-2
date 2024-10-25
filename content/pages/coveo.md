@@ -126,7 +126,7 @@ sections:
       - type: FeaturedItem
         title: 25%
         tagline: ''
-        subtitle: "-\_\_\_\_\_\_\_\_\_\_\_\_\_ Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée."
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
