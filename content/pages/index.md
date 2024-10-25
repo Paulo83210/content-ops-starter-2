@@ -8,26 +8,22 @@ sections:
       text: Le pouvoir du chantier ATE
       color: text-light
     subtitle: ''
-    text: >+
+    text: >
       Vous venez de vivre une expérience unique avec notre croupier virtuel en
       étant capable de vous recommander des jeux sur mesure, même avec les
       demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
-      Cette innovation est le fruit de notre collaboration avec Valtech, notre
-      partenaire stratégique sur le chantier ATE, qui nous accompagne dans cette
-      transformation.
+      \*
 
 
-      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
-      intelligemment plusieurs sources de données, nous pouvons créer des
-      expériences révolutionnaires qui réinventent l'avenir du Casino.
+      En connectant intelligemment plusieurs sources de données, nous pouvons
+      créer des expériences révolutionnaires qui réinventent l'avenir du Casino!
 
 
-
-
+      *\*produit par Valtech*
     actions: []
     media:
       type: ImageBlock
-      url: /images/00_lq humanoid.jpg
+      url: /images/tv 1.png
       altText: Fun feature preview
     colors: bg-dark-fg-light
     styles:
@@ -89,8 +85,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-            borderColor: border-primary
-            borderWidth: 2
+            borderColor: border-light
+            borderWidth: 0
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
@@ -124,14 +120,12 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
-            borderWidth: 2
+            borderWidth: 0
       - type: FeaturedItem
-        title: >-
-          Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
-          de détail et son rôle d'hospitalité. 
-        tagline: Loto-Québec prépare son avenir
+        title: Entre hospitalité et commerce de détail
+        tagline: La promesse du composable
         subtitle: ''
-        text: "Il est crucial que l'architecture soutienne ces deux stratégies. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\\*   \uFEFFExpérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus \n\n"
+        text: "Il est crucial que l'architecture soutienne ces deux dualité d'affaires. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\n\n*   Expérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus\n\n"
         image:
           type: ImageBlock
           url: /images/Artboard 1 copy 3 1.png
@@ -153,7 +147,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-            borderWidth: 2
+            borderWidth: 0
             borderColor: border-primary
       - type: FeaturedItem
         title: Flexibilité
@@ -189,7 +183,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
-            borderWidth: 2
+            borderWidth: 0
       - type: FeaturedItem
         title: Modularité
         tagline: La promesse du composable
@@ -228,7 +222,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
-            borderWidth: 2
+            borderWidth: 0
       - type: FeaturedItem
         title: ''
         tagline: ''
@@ -256,7 +250,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
-            borderWidth: 2
+            borderWidth: 0
     variant: dots-nav
     colors: bg-dark-fg-light
     styles:
@@ -302,10 +296,10 @@ sections:
         title: Premières migrations effectuées
         subtitle: ''
         text: >
-          En 2024, nous avons relevé un premier défi majeur avec la migration de
-          la section Casino et Casino en Direct. Ce projet a prouvé la
-          robustesse de notre nouvelle infrastructure et permis d'affiner nos
-          processus pour les futures étapes.
+          Un premier défi majeur réalisé avec la migration de la section Casino
+          et Casino en Direct. Ce projet a prouvé la robustesse de notre
+          nouvelle infrastructure et permis d'affiner nos processus pour les
+          futures étapes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -315,7 +309,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             textAlign: left
@@ -328,16 +322,36 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
+        title: Mise en place du nouveau CMS
+        tagline: Migration
+        subtitle: ''
+        text: >
+          Cette étape initiale nous a permis d’apprendre, de tester et de
+          construire des bases solides. Elle offre une structure fiable pour
+          mieux aborder les prochaines migrations, qu’il s’agisse des processus,
+          des outils, de la gouvernance ou des technologies.
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: medium
+            flexDirection: row
+            borderColor: border-primary
+            borderWidth: 2
+      - type: FeaturedItem
         title: Un modèle réplicable
         tagline: Migration
         subtitle: ''
         text: >
-          La première migration, réalisée avec la section Casino, a marqué le
-          début de la mise en place du nouveau CMS headless modulaire. Cette
-          étape initiale nous a permis d’apprendre, de tester et de construire
-          des bases solides. Elle offre une structure fiable pour mieux aborder
-          les prochaines migrations, qu’il s’agisse des processus, des outils,
-          de la gouvernance ou des technologies.
+          Avec cet écosystème modulaire et le design system en cours de
+          construction, nous pourrons réutiliser les composants développés. Cela
+          évitera les duplications et simplifiera la gestion des contenus. Et
+          tout cela servira pour les autres sections du site !
         actions: []
         colors: bg-dark-fg-light
         styles:
@@ -347,39 +361,13 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
-            borderColor: border-neutralAlt
-            borderWidth: 4
-      - type: FeaturedItem
-        title: 'Écosystème modulaire '
-        tagline: Migration
-        subtitle: ''
-        text: >
-          Avec le passage au nouveau CMS headless et le Design System en cours
-          de construction, nous pourrons réutiliser les composants développés.
-          Cela évitera les duplications et simplifiera la gestion des contenus.
-          Et tout cela servira pour les autres sections du site !
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            borderColor: border-neutralAlt
+            borderColor: border-primary
             borderWidth: 2
       - type: FeaturedItem
-        title: Programme de formation
-        subtitle: >-
-          Nous avons lancé un programme formation unique, co-créé avec nos
-          partenaires Valtech, Coveo, Netlify et Contentstack. Résultat : plus
-          de 80 employés formés pour gérer les futures migrations de façon
-          autonome et maîtriser les nouvelles technologies.
+        title: Programme de formations
+        subtitle: "Co-créé avec nos partenaires Valtech, Coveo, Netlify et Contentstack, un programme de formations, personnalisé et en français. \_Résultat : plus de 80 employés formés pour gérer les futures migrations de façon autonome et maîtriser les nouvelles technologies."
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
@@ -390,7 +378,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             textAlign: left
             justifyContent: center
@@ -411,7 +399,8 @@ sections:
           fluidifier nos processus et améliorer l’expérience des équipes. Elle a
           eu un impact incroyable en rassurant les employés, en développant
           leurs compétences et en créant des équipes autonomes dotées de
-          nouvelles expertises.
+          nouvelles expertises. Nous sommes maintenant en phase de "shadowing,"
+          où Valtech accompagne les équipes pour solidifier cette transition.
         actions: []
         colors: bg-dark-fg-light
         styles:
@@ -421,42 +410,9 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
-            borderColor: border-neutralAlt
-            borderWidth: 2
-      - type: FeaturedItem
-        title: Une adoption centrée sur l'humain
-        tagline: ''
-        subtitle: ''
-        text: >
-          Grâce à une approche centrée sur l'humain, le projet ATE a réussi à
-          transformer non seulement la technologie, mais aussi à favoriser
-          l’adoption de ces nouveaux outils par les équipes. Cela leur a permis
-          de s'approprier pleinement ces innovations. Nous sommes désormais en
-          mode "shadowing," avec Valtech accompagnant les équipes pour renforcer
-          cette transition.
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutralAlt
+            borderColor: border-primary
             borderWidth: 2
     actions: []
     badge:
@@ -556,7 +512,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             borderWidth: 2
             borderColor: border-primary
@@ -576,7 +532,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             borderWidth: 2
             borderColor: border-primary
@@ -594,7 +550,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             borderWidth: 2
             borderColor: border-primary
@@ -649,7 +605,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             textAlign: left
@@ -657,12 +613,8 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Cette analyse a permis d’implémenter de nouvelles pratiques pour
-          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
-          également optimisé la planification et l’estimation des efforts pour
-          les projets à venir, avec par exemple, une planification de trois mois
-          réalisée en seulement cinq jours. Ces nouvelles méthodes sont
-          appliquées à la migration INSTANT et sont en cours pour LOTERIES.
+          Les nouvelles pratiques étudiées ont notamment permis une
+          planification de trois mois réalisée en seulement cinq jours. 
         image:
           type: ImageBlock
           altText: Featured icon two
@@ -676,7 +628,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             textAlign: left
             justifyContent: center
@@ -837,8 +789,10 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
+            borderColor: border-primary
+            borderWidth: 0
       - type: FeaturedItem
         title: Valtech
         tagline: ''
@@ -871,7 +825,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
       - type: FeaturedItem
         title: Coveo
@@ -904,7 +858,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
     actions: []
     variant: two-col-grid
@@ -932,14 +886,9 @@ sections:
       Nous continuons sur notre lancée avec la migration de quatre autres
       sections clés :
 
-      LOTERIES, BINGO, POKER, et PARIS SPORTIFS. Parallèlement, nous lançons des
-
-      projets d’optimisation, y compris un suivi de performance pour mesurer
-      l'impact
-
-      des nouvelles infrastructures. Le projet est en constante évolution,
-      ouvrant la voie à de nouvelles perspectives prometteuses et à des
-      expériences toujours plus innovantes pour le casino de demain!
+      LOTERIES, BINGO, POKER, et PARIS SPORTIFS.  Le projet est en constante
+      évolution, ouvrant la voie à de nouvelles perspectives prometteuses et à
+      des expériences toujours plus innovantes pour le casino de demain!
     actions: []
     colors: bg-dark-fg-light
     styles:

@@ -246,7 +246,7 @@ sections:
           - pb-1
     media:
       type: ImageBlock
-      url: /images/Group 30 copie 2.png
+      url: /images/Group 30-2.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
