@@ -297,7 +297,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: En découvrir plus
             altText: ''
             url: >-
               /https://www.valtech.com/fr-ca/expertises/creativite-et-performance-marketing/
