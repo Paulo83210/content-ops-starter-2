@@ -27,7 +27,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/GIF.gif
+      url: /images/00_lq humanoid.jpg
       altText: Fun feature preview
     colors: bg-dark-fg-light
     styles:
@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/GIF.gif
+          url: /images/Group 31-5.png
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
@@ -111,7 +111,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/GIF.gif
+          url: /images/Artboard 1 copy 7.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -160,7 +160,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Group 31-5.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -190,7 +190,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/GIF.gif
+          url: /images/Group 31-3.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -224,7 +224,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/GIF.gif
+          url: /images/Artboard 1 copy.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -280,25 +280,6 @@ sections:
       type: TitleBlock
       text: Comprendre le chantier ATE
       color: text-light
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/test3.jpg
-      altText: Dope design preview
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        padding:
-          - pt-0
-          - pl-0
-          - pr-0
-          - pb-0
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -361,7 +342,7 @@ sections:
           les prochaines migrations, qu’il s’agisse des processus, des outils,
           de la gouvernance ou des technologies.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -381,7 +362,7 @@ sections:
           Cela évitera les duplications et simplifiera la gestion des contenus.
           Et tout cela servira pour les autres sections du site !
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -431,7 +412,7 @@ sections:
           leurs compétences et en créant des équipes autonomes dotées de
           nouvelles expertises.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -460,7 +441,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -493,6 +474,25 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/test3.jpg
+      altText: Dope design preview
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-0
+          - pl-0
+          - pr-0
+          - pb-0
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -567,6 +567,29 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderWidth: 0
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Group 30.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     elementId: ''
     variant: small-list
