@@ -117,7 +117,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Mais qu'est-ce que le chantier ATE
+      text: Les avancées majeures
       color: text-light
   - type: DividerSection
     title: Divider
