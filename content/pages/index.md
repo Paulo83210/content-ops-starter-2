@@ -302,7 +302,7 @@ sections:
     subtitle: Des avancées majeures propulsées par Valtech
     items:
       - type: FeaturedItem
-        title: ''
+        title: Premières migrations effectuées
         subtitle: Premières migrations effectuées
         text: >
           En 2024, nous avons relevé un premier défi majeur avec la migration de
