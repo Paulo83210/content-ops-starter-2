@@ -154,7 +154,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Flexibilité
         tagline: La promesse du composable
         subtitle: Be in good company
         text: >-
