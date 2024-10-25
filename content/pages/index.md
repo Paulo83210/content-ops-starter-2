@@ -566,10 +566,11 @@ sections:
         title: Analyse des processus
         subtitle: ''
         text: >
-          Implémentation de nouvelles pratiques pour fluidifier nos processus et
-          optimiser l’expérience des équipes. Ce qui a permis en autre
-          d'optimiser la planification et l'estimation des efforts des projets à
-          venir (exemple: 3 mois de travail estimé en seulement 5 jours de
+          Cette analyse a permis d'implémenter de nouvelles pratiques pour
+          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
+          notamment permis d’optimiser la planification et l’estimation des
+          efforts pour les projets à venir (par exemple : une estimation de
+          trois mois de travail réalisée en seulement cinq jours de
           planification).
         image:
           type: ImageBlock
