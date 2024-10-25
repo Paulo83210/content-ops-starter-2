@@ -731,7 +731,7 @@ sections:
             justifyContent: center
     actions: []
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
