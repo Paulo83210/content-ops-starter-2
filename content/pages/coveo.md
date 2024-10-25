@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Coveo
-      color: text-light
+      color: text-primary
     subtitle: L'intelligence artificielle au service de Loto-Québec
     text: >+
       Une expertise technologique au cœur de l'optimisation des expériences
