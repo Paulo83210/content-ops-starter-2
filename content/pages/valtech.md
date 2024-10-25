@@ -175,19 +175,19 @@ sections:
           données.
 
 
-          *   Stratégie et maturité des données
+          *   **Stratégie et maturité des données**
 
 
-          *   Fondation de données
+          *   **Fondation de données**
 
 
-          *   Analyse, rapports et insights
+          *   **Analyse, rapports et insights**
 
 
-          *   Analyses avancées et IA
+          *   **Analyses avancées et IA**
 
 
-          *   Activation et personnalisation des données
+          *   **Activation et personnalisation des données**
 
         image:
           type: ImageBlock
