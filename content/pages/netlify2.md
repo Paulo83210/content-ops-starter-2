@@ -122,7 +122,7 @@ sections:
         text: "Pas encore exploité, mais c’est un\_Data Source Layer\_qui permet d'unifier les sources de contenu et de données.\n\n\n"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: '/images/Capture d’écran, le 2024-10-25 à 14.25.28.png'
           altText: Business consulting
           elementId: ''
           styles:
