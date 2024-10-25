@@ -90,7 +90,7 @@ sections:
           - pb-16
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/iphoneLQ.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
