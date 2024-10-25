@@ -331,23 +331,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: CarouselSection
-    items: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pb-12
-          - pr-16
-          - pl-16
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
