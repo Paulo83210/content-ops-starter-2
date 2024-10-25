@@ -52,7 +52,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: 'Première migration effectuée : un modèle pour l’avenir'
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
