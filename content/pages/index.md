@@ -399,7 +399,8 @@ sections:
           fluidifier nos processus et améliorer l’expérience des équipes. Elle a
           eu un impact incroyable en rassurant les employés, en développant
           leurs compétences et en créant des équipes autonomes dotées de
-          nouvelles expertises.
+          nouvelles expertises. Nous sommes maintenant en phase de "shadowing,"
+          où Valtech accompagne les équipes pour solidifier cette transition.
         actions: []
         colors: bg-dark-fg-light
         styles:
