@@ -202,7 +202,7 @@ sections:
           décisions basées sur les données en temps réel, offrant ainsi une
           présence omnicanale cohérente et pertinente.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
