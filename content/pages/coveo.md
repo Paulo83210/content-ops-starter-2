@@ -349,7 +349,7 @@ sections:
     title:
       type: TitleBlock
       text: Social Media Management
-      color: text-dark
+      color: text-light
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
