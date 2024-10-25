@@ -246,10 +246,6 @@ sections:
           - pb-12
           - pr-12
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Des équipes autonomes et plus performantes grâce à Netlify
-      color: text-dark
     subtitle: ''
     text: >
       L'intégration fluide de Coveo dans l’infrastructure de Loto-Québec ouvre
