@@ -424,7 +424,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Une adoption centrée sur l'humain
-        tagline: Feature 2
+        tagline: ''
         subtitle: ''
         text: >
           Grâce à une approche centrée sur l'humain, le projet ATE a réussi à
