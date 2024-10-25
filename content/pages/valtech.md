@@ -344,48 +344,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Netlify Create
-        tagline: AI et innovation
-        subtitle: ''
-        text: >+
-          Nous aidons les marques à libérer tout leur potentiel pour prospérer
-          dans un monde digitalisé.
-
-
-          *   Stratégie et design de marque
-
-
-          *   Développement de campagnes
-
-
-          *   Stratégie et création de contenu
-
-
-          *   Médias digitaux et performance
-
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
+    items: []
     badge:
       type: Badge
       label: ''
