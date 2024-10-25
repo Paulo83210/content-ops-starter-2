@@ -97,7 +97,7 @@ sections:
           nous devenons plus flexibles, réactifs et mieux préparés pour les
           défis futurs !
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
