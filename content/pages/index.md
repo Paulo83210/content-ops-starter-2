@@ -35,6 +35,7 @@ sections:
         alignItems: center
         padding:
           - pt-1
+          - pl-16
   - type: DividerSection
     title: Divider
     elementId: ''
