@@ -329,7 +329,7 @@ sections:
           robustesse de notre nouvelle infrastructure et permis d'affiner nos
           processus pour les futures étapes.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
