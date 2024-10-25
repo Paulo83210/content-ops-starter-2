@@ -216,6 +216,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pl-16
   - type: DividerSection
     title: Divider
     elementId: ''
