@@ -146,6 +146,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: 'Plus de 9,1 % d''augmentation'
         tagline: ''
