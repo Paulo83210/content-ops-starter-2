@@ -196,7 +196,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
     actions: []
-    variant: two-col-grid
+    variant: small-list
     colors: bg-dark-fg-light
     styles:
       self:
