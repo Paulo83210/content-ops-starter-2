@@ -242,7 +242,7 @@ sections:
     title:
       type: TitleBlock
       text: Des réussites concrêtes
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
