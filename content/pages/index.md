@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: Casper
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: >+
           Loto Québec doit équilibrer sa stratégie numérique entre le commerce
           de détail et son rôle d'hospitalité. Il est crucial que l'architecture
