@@ -70,7 +70,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Artboard 1 copy 5 1.png
+          url: /images/Artboard 1 copy 7 1.png
           altText: Business consulting
           elementId: ''
           styles:
