@@ -130,7 +130,7 @@ sections:
           Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
           de détail et son rôle d'hospitalité. 
         tagline: Loto-Québec prépare son avenir
-        subtitle: Be in good company
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
