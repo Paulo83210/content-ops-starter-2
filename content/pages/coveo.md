@@ -288,14 +288,7 @@ sections:
 
 
 
-    actions:
-      - type: Link
-        label: Vister le site web de Netlify
-        url: '/https://www.netlify.com/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
