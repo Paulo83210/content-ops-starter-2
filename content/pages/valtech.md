@@ -319,7 +319,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: En savoir plus
             altText: ''
             url: '/https://www.valtech.com/fr-ca/expertises/experience-reimaginee/'
             showIcon: false
