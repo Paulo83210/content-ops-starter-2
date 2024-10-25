@@ -16,7 +16,7 @@ sections:
 
 
       En connectant intelligemment plusieurs sources de données, nous pouvons
-      créer des expériences révolutionnaires qui réinventent l'avenir du Casino.
+      créer des expériences révolutionnaires qui réinventent l'avenir du Casino!
 
 
       *\*produit par Valtech*
