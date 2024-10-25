@@ -223,7 +223,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: dots-nav
+    variant: next-prev-nav
     colors: bg-dark-fg-light
     styles:
       self:
