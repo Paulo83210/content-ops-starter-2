@@ -214,7 +214,7 @@ sections:
       type: Badge
       label: lA FORMATION
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
