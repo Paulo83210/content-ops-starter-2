@@ -116,7 +116,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Des réussites concr
+      text: Des réussites concrêtes
       color: text-primary
       styles:
         self:
