@@ -126,9 +126,7 @@ sections:
             borderColor: border-primary
             borderWidth: 2
       - type: FeaturedItem
-        title: >-
-          Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
-          de détail et son rôle d'hospitalité. 
+        title: Entre hospitalité et commerce de détail
         tagline: La promesse du composable
         subtitle: ''
         text: "Il est crucial que l'architecture soutienne ces deux dualité d'affaires. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\n\n*   Expérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus\n\n"
