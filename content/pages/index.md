@@ -324,7 +324,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          url: /images/Group 30.png
+          url: /images/Group 30 copie.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
