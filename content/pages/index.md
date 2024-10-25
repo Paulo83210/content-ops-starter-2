@@ -744,6 +744,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
       - type: FeaturedItem
         title: Optimisation des investissements et performance utilisateur
         subtitle: ''
