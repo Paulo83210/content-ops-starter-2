@@ -108,15 +108,13 @@ sections:
         tagline: La promesse du composable
         subtitle: ''
         text: >
-          Une architecture composable utilise des technologies spécifiques pour
-          répondre précisément aux besoins d'affaires. Elle permet de choisir
-          les meilleurs outils pour chaque fonction, assurant ainsi une
-          adaptation optimale aux exigences commerciales. En offrant une grande
-          agilité, elle permet aux entreprises de s'adapter rapidement aux
-          changements du marché, aux demandes des clients, et aux nouvelles
-          opportunités. Fini le blocage à l’innovation : nous devenons plus
-          flexibles, plus réactifs, et mieux équipés pour relever les défis de
-          demain!
+          Une architecture composable utilise des technologies adaptées pour
+          répondre aux besoins d'affaires, permettant ainsi de choisir les
+          meilleurs outils pour chaque fonction. Elle offre une agilité qui
+          permet aux entreprises de s'adapter rapidement aux changements du
+          marché et aux demandes des clients. Fini les blocages à l'innovation :
+          nous devenons plus flexibles, réactifs et mieux préparés pour les
+          défis futurs !
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
