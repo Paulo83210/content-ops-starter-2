@@ -459,6 +459,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/Humains.jpg
         actions: []
         colors: bg-light-fg-dark
         styles:
