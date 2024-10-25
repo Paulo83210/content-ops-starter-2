@@ -558,7 +558,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderWidth: 0
+            borderWidth: 2
             borderColor: border-primary
       - type: FeaturedItem
         title: >-
