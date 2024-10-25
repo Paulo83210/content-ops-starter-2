@@ -224,7 +224,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: ''
         subtitle: Be in good company
         text: >+
