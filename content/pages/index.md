@@ -83,7 +83,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/GIF.gif
+          url: /images/Group 31.png
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
