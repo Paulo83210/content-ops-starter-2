@@ -55,10 +55,18 @@ sections:
         title: Premières migrations effectuées
         tagline: Premières migrations effectuées
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          En 2024, nous avons relevé un premier défi majeur avec la migration de
+          la section Casino et Casino en Direct. Ce projet a prouvé la
+          robustesse de notre nouvelle infrastructure et permis d'affiner nos
+          processus pour les futures étapes.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
