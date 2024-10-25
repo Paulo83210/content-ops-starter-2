@@ -324,7 +324,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Des réussites concrêtes
+      text: ''
       color: text-light
       styles:
         self:
