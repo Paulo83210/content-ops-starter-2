@@ -173,7 +173,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: tendance à la hausse de 9.1% sur la période (avril - sept).
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           Les conversions (ajout au panier) sur recherche sont extrêmement
           élevées 
