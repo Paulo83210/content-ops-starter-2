@@ -89,7 +89,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
-        tagline: Feature 2
+        tagline: Qu'est-ce que le chantier ATE ?
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
