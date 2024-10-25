@@ -223,6 +223,26 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Des équipes autonomes et plus performantes grâce à Coveo
+      color: text-light
+    subtitle: ''
+    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n\n\n\n\n\n"
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Group 30 copie 2.png
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: La formation
+      color: text-primary
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Bien plus qu'un moteur de recherche
       color: text-light
     subtitle: ''
@@ -300,26 +320,6 @@ sections:
           - pr-16
           - pt-1
           - pb-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Des équipes autonomes et plus performantes grâce à Coveo
-      color: text-light
-    subtitle: ''
-    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Netlify. En plus de fournir une plateforme technique robuste, Netlify a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n\n\n\n\n\n\n\n"
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Group 30 copie 2.png
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: La formation
-      color: text-primary
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
 slug: Coveo
 seo:
   type: Seo
