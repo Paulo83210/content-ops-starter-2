@@ -339,7 +339,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            borderColor: border-neutral
+            borderColor: border-neutralAlt
             borderWidth: 2
       - type: FeaturedItem
         title: 'Écosystème modulaire '
