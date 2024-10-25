@@ -419,12 +419,11 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Grâce à une approche centrée sur l'humain, le projet ATE a réussi à
-          transformer non seulement la technologie, mais aussi à favoriser
-          l’adoption de ces nouveaux outils par les équipes. Cela leur a permis
-          de s'approprier pleinement ces innovations. Nous sommes désormais en
-          mode "shadowing," avec Valtech accompagnant les équipes pour renforcer
-          cette transition.
+          Le projet ATE a permis de transformer la technologie tout en
+          facilitant l’adoption de nouveaux outils par les équipes, leur donnant
+          ainsi l’opportunité de s'approprier pleinement ces innovations. Nous
+          sommes maintenant en phase de "shadowing," où Valtech accompagne les
+          équipes pour solidifier cette transition.
         image:
           type: ImageBlock
           altText: Business consulting
