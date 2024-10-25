@@ -257,6 +257,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /net
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Fun feature preview
