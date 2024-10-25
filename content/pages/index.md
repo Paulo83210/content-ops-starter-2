@@ -204,7 +204,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Artboard 1 copy 1.png
           altText: Business consulting
           elementId: ''
           styles:
