@@ -791,7 +791,7 @@ sections:
           web.
         image:
           type: ImageBlock
-          url: /images/Group 19.png
+          url: /images/Netlify bleue.png
           altText: Placeholder text
           styles:
             self:
