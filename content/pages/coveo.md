@@ -177,8 +177,7 @@ sections:
         subtitle: >-
           Les conversions (ajout au panier) sur recherche sont extrêmement
           élevées 
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           altText: Background alt text
