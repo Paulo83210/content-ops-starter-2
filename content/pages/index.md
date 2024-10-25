@@ -140,7 +140,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Casper
-        tagline: Feature 2
+        tagline: ''
         subtitle: ''
         text: >+
           Loto Québec doit équilibrer sa stratégie numérique entre le commerce
