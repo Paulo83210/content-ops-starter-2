@@ -41,7 +41,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://valtech.getbynder.com/l/187fd4c0e0fa24a7/'
       autoplay: true
       loop: true
       muted: true
