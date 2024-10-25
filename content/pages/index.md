@@ -34,7 +34,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - pt-1
+          - pt-12
           - pl-16
           - pr-16
           - pb-12
