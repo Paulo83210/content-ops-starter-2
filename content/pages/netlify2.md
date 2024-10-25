@@ -90,7 +90,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: "Visual Editor Layer\_:"
+        title: Visual Editor Layer
         tagline: Create
         subtitle: ''
         text: >
