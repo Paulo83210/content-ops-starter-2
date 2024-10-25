@@ -262,22 +262,7 @@ sections:
         title: Marketing et créativité
         tagline: ''
         subtitle: ''
-        text: >+
-          Nous aidons les marques à libérer tout leur potentiel pour prospérer
-          dans un monde digitalisé.
-
-
-          *   Stratégie et design de marque
-
-
-          *   Développement de campagnes
-
-
-          *   Stratégie et création de contenu
-
-
-          *   Médias digitaux et performance
-
+        text: "Nous aidons les marques à libérer leur potentiel et à prospérer dans un monde digitalisé grâce à des communications créatives et ciblées. En intégrant de manière dynamique leurs plateformes créatives avec des stratégies de données et d'automatisation, nous permettons aux marques de maximiser leur performance.\n\n*   **Stratégie et design de marque**\_\n\n*   **Développement de campagnes**\n\n*   **Stratégie et création de contenu**\n\n*   **Médias digitaux et performance**\n\n"
         image:
           type: ImageBlock
           altText: Background alt text
