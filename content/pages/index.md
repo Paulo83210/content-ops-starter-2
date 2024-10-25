@@ -129,7 +129,7 @@ sections:
         title: >-
           Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
           de détail et son rôle d'hospitalité. 
-        tagline: Loto-Québec prépare son avenir
+        tagline: La promesse du composable
         subtitle: ''
         text: "Il est crucial que l'architecture soutienne ces deux stratégies. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\\*   \uFEFFExpérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus \n\n"
         image:
