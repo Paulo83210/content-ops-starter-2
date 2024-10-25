@@ -825,7 +825,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: medium
+            borderRadius: xx-small
             flexDirection: row
       - type: FeaturedItem
         title: Valtech
