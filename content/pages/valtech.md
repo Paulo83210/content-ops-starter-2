@@ -296,7 +296,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Formations
+        title: Experience
         tagline: ''
         subtitle: ''
         text: |
