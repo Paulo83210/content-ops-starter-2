@@ -188,7 +188,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Modularité
-        tagline: Feature 2
+        tagline: La promesse du composable
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
