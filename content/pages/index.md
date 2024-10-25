@@ -34,7 +34,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - pt-1
+          - pt-12
           - pl-16
           - pr-16
           - pb-12
@@ -97,7 +97,7 @@ sections:
           nous devenons plus flexibles, réactifs et mieux préparés pour les
           défis futurs !
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -118,25 +118,25 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: ''
+        title: 'Loto-Québec veut équilibrer :'
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Sa stratégie numérique entre le commerce de détail et son rôle
+          d'hospitalité.
         text: >+
-          Loto Québec doit équilibrer sa stratégie numérique entre le commerce
-          de détail et son rôle d'hospitalité. Il est crucial que l'architecture
-          soutienne ces deux stratégies. C'est dans cette optique que le
-          chantier ATE avance, développant une infrastructure capable de
-          répondre aux exigences des deux secteurs et d'optimiser l'expérience
-          client.
+          Il est crucial que l'architecture soutienne ces deux stratégies. C'est
+          dans cette optique que le chantier ATE avance, développant une
+          infrastructure capable de répondre aux exigences des deux secteurs et
+          d'optimiser l'expérience client.
 
 
           *   Expérience client unifiée
 
 
-          *   Parcours connectés et personnalisés 
+          *   Parcours connectés et personnalisés
 
 
-          *   Faciliter la découvrabilité des jeux 
+          *   Faciliter la découvrabilité des jeux
 
 
           *   Fidélité
@@ -146,7 +146,7 @@ sections:
           simplicité des processus
 
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -158,6 +158,14 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
@@ -168,7 +176,7 @@ sections:
           flexibilité accrue et une meilleure expérience utilisateur,
           indépendamment de la plateforme. 
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -202,7 +210,7 @@ sections:
           décisions basées sur les données en temps réel, offrant ainsi une
           présence omnicanale cohérente et pertinente.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -243,7 +251,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -278,7 +286,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/GIF.gif
+      url: /images/test3.jpg
       altText: Dope design preview
     colors: bg-dark-fg-light
     styles:
@@ -287,9 +295,9 @@ sections:
         flexDirection: col
         padding:
           - pt-0
-          - pl-16
-          - pr-16
-          - pb-1
+          - pl-0
+          - pr-0
+          - pb-0
         justifyContent: center
   - type: DividerSection
     title: Divider
@@ -305,26 +313,23 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Les avancées majeures supportées par Valtech
-      color: text-dark
+      text: '2024'
+      color: text-neutral
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: Des avancées majeures propulsées par Valtech
     items:
       - type: FeaturedItem
-        title: Première migration effectuée
+        title: Premières migrations effectuées
         subtitle: ''
-        text: >+
+        text: >
           En 2024, nous avons relevé un premier défi majeur avec la migration de
-          la section Casino en ligne. Ce projet a prouvé la robustesse de notre
-          nouvelle infrastructure et permis d'affiner nos processus pour les
-          futures étapes.
-
-
-
+          la section Casino et Casino en Direct. Ce projet a prouvé la
+          robustesse de notre nouvelle infrastructure et permis d'affiner nos
+          processus pour les futures étapes.
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -356,7 +361,7 @@ sections:
           les prochaines migrations, qu’il s’agisse des processus, des outils,
           de la gouvernance ou des technologies.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -376,7 +381,7 @@ sections:
           Cela évitera les duplications et simplifiera la gestion des contenus.
           Et tout cela servira pour les autres sections du site !
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -395,7 +400,7 @@ sections:
           autonome et maîtriser les nouvelles technologies.
         text: ''
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -426,7 +431,7 @@ sections:
           leurs compétences et en créant des équipes autonomes dotées de
           nouvelles expertises.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -455,7 +460,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -470,18 +475,18 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: '2024'
-      color: text-primary
+      label: ''
+      color: text-dark
       styles:
         self:
           textAlign: center
     elementId: ''
     variant: small-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pb-1
+          - pb-16
           - pt-1
           - pl-16
           - pr-16
@@ -491,7 +496,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -503,7 +508,7 @@ sections:
     title:
       type: TitleBlock
       text: Un exemple de succès
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -565,13 +570,13 @@ sections:
     actions: []
     elementId: ''
     variant: small-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
           - pt-1
           - pl-16
-          - pb-0
+          - pb-16
           - pr-16
         justifyContent: center
       subtitle:
@@ -579,7 +584,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -591,7 +596,7 @@ sections:
     title:
       type: TitleBlock
       text: Processus et amélioration continue
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -655,7 +660,7 @@ sections:
           textAlign: center
     elementId: ''
     variant: two-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -734,7 +739,7 @@ sections:
             justifyContent: center
     actions: []
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -746,7 +751,7 @@ sections:
       subtitle:
         textAlign: center
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -759,7 +764,7 @@ sections:
     title:
       type: TitleBlock
       text: Ils ont contribué à nos réussites
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -789,7 +794,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -823,7 +828,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -856,7 +861,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -868,39 +873,28 @@ sections:
             flexDirection: row
     actions: []
     variant: two-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
           - pt-1
           - pl-8
-          - pb-1
+          - pb-16
           - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
       text: L'avenir du chantier ATE
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: left
     subtitle: ''
     text: >
-      Nous continuons sur notre lancée avec la migration de trois autres
+      Nous continuons sur notre lancée avec la migration de quatre autres
       sections clés :
 
       LOTERIES, BINGO, POKER, et PARIS SPORTIFS. Parallèlement, nous lançons des
@@ -932,7 +926,7 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row
@@ -948,7 +942,18 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -958,7 +963,7 @@ sections:
           - pr-12
   - title:
       text: Qu'avez-vous pensé de cette expérience ?
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: ''
@@ -1009,13 +1014,13 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: null
     badge:
       label: RESTONS EN CONTACT
-      color: text-dark
+      color: text-light
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
     styles:
       self:
