@@ -423,7 +423,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: x
+        title: Une adoption centrée sur l'humain
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
