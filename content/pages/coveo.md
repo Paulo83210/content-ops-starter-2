@@ -112,6 +112,7 @@ sections:
           - pt-6
           - pl-16
           - pr-16
+          - pb-6
   - type: CarouselSection
     items:
       - type: FeaturedItem
