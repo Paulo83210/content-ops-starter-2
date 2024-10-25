@@ -426,7 +426,7 @@ sections:
           leurs compétences et en créant des équipes autonomes dotées de
           nouvelles expertises.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
