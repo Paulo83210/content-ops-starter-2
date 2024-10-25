@@ -52,7 +52,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Premières migrations effectuées
+        title: La promesse du composable
         tagline: Premières migrations effectuées
         subtitle: ''
         text: >+
