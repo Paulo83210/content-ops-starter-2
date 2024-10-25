@@ -89,7 +89,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Loto-Québec prépare son avenir
-        tagline: Qu'est-ce que le chantier ATE ?
+        tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
         text: >+
           L'objectif de ce chantier est de moderniser l'infrastructure
