@@ -425,7 +425,7 @@ sections:
       - type: FeaturedItem
         title: Une adoption centrée sur l'humain
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: >
           Grâce à une approche centrée sur l'humain, le projet ATE a réussi à
           transformer non seulement la technologie, mais aussi à favoriser
