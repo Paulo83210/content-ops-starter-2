@@ -123,6 +123,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
       - type: FeaturedItem
         title: >-
           Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
