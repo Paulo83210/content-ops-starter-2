@@ -290,7 +290,7 @@ sections:
     title:
       type: TitleBlock
       text: >-
-        Netlify -un partenaire incontournable pour accompagner Loto-Québec dans
+        Netlify: un partenaire incontournable pour accompagner Loto-Québec dans
         ses futurs défis numériques.
       color: text-dark
     subtitle: ''
