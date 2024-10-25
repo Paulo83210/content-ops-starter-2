@@ -177,7 +177,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Conversions
-        tagline: Netlify Connect
+        tagline: Conversions
         subtitle: ''
         text: >+
           Les conversions (ajout au panier) sur recherche sont extrêmement
