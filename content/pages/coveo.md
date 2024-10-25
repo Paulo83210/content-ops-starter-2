@@ -85,7 +85,7 @@ sections:
         self:
           borderRadius: medium
   - type: GenericSection
-    subtitle: Pourquoi la recherche est essentielle avec ce type de données
+    subtitle: ''
     text: ''
     actions: []
     badge:
