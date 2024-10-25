@@ -260,7 +260,7 @@ sections:
       - type: Button
         label: Vister le site web de Netlify
         altText: ''
-        url: /net
+        url: '/https://www.netlify.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
