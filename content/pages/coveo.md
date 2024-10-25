@@ -8,21 +8,7 @@ sections:
       text: Coveo
       color: text-primary
     subtitle: L'intelligence artificielle au service de Loto-Québec
-    text: >+
-      Une expertise technologique au cœur de l'optimisation des expériences
-      numériques Coveo, plateforme d'intelligence artificielle spécialisée dans
-      les solutions de recherche, de recommandations et d'IA générative,
-      accompagne Loto-Québec dans sa transformation digitale. Grâce à son moteur
-      de recherche intelligent, Coveo personnalise et optimise les résultats de
-      recherche en fonction des comportements des utilisateurs, offrant ainsi
-      une expérience sur mesure à chaque visite.
-
-
-
-
-
-
-
+    text: "Une expertise technologique au cœur de l'optimisation des expériences numériques Coveo, plateforme d'intelligence artificielle spécialisée dans les solutions de recherche, de recommandations et d'IA générative, accompagne Loto-Québec dans sa transformation digitale. Grâce à son moteur de recherche intelligent, Coveo personnalise et optimise les résultats de recherche en fonction des comportements des utilisateurs, offrant ainsi une expérience sur mesure à chaque visite. \n\nD’après une étude de Salesforce,\_**76 % des consommateurs**\_s'attendent à ce que les entreprises comprennent leurs besoins et attentes. La recherche améliorée par l'IA permet à Loto Québec de répondre à ces attentes en offrant des expériences personnalisées qui stimulent l'engagement des clients et, in fine, la croissance des revenus.\n"
     actions: []
     media:
       type: ImageBlock
