@@ -250,13 +250,6 @@ sections:
     subtitle: ''
     text: "L'avenir du chantier ATE pourrait également bénéficier d’autres services offerts par Netlify, tels que la\_connectivité privée\_pour plus de sécurité, ou\_Netlify Grid, qui offre une gestion avancée des équipes à l’échelle de l’entreprise. Ces solutions représentent une opportunité pour Loto-Québec d'aller encore plus loin dans sa transformation digitale. Pour en savoir plus, n’hésitez pas à venir nous voir directement sur place ou de visiter notre site Web!\n\n\n\n\n\n\n\n"
     actions:
-      - type: Link
-        label: Vister le site web de Netlify
-        url: '/https://www.netlify.com/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
       - type: Button
         label: Visiter le site web de Netlify
         altText: ''
