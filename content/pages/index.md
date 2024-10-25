@@ -111,7 +111,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/GIF.gif
+          url: /images/Group 31-5.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
