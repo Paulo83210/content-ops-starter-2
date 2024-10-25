@@ -310,7 +310,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: '2024'
     items:
       - type: FeaturedItem
         title: Premières migrations effectuées
