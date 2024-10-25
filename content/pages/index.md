@@ -287,6 +287,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Artboard 1 copy.png
   - type: DividerSection
     title: Divider
     elementId: ''
