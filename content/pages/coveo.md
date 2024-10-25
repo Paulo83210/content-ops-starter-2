@@ -59,7 +59,7 @@ sections:
     title:
       type: TitleBlock
       text: 'Coveo pour Commerce : la recherche'
-      color: text-dark
+      color: text-light
     subtitle: ''
     text: >+
       Avec Coveo pour Commerce, Loto-Québec bénéficie de recommandations de
