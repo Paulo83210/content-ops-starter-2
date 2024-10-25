@@ -316,7 +316,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Group 30 copie 2.png
       altText: Fun feature preview
     badge:
       type: Badge
