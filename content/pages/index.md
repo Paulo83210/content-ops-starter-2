@@ -306,7 +306,7 @@ sections:
     title:
       type: TitleBlock
       text: '2024'
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center
