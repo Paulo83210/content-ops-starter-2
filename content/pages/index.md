@@ -405,12 +405,7 @@ sections:
           fluidifier nos processus et améliorer l’expérience des équipes. Elle a
           eu un impact incroyable en rassurant les employés, en développant
           leurs compétences et en créant des équipes autonomes dotées de
-          nouvelles expertises. Grâce à une approche centrée sur l'humain, le
-          projet ATE a réussi non seulement à transformer la technologie, mais
-          aussi à favoriser l’adoption de ces nouveaux outils par les équipes,
-          leur permettant de s'approprier pleinement ces innovations. Nous
-          sommes désormais en mode "shadowing," avec Valtech accompagnant les
-          équipes pour renforcer cette transition.
+          nouvelles expertises.
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
