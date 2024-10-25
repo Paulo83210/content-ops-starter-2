@@ -90,7 +90,7 @@ sections:
           - pb-16
     media:
       type: ImageBlock
-      url: /images/Content-3.png
+      url: /images/Content-4.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
