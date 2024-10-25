@@ -154,6 +154,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderWidth: 2
+            borderColor: border-primary
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
