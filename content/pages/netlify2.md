@@ -71,7 +71,7 @@ sections:
         text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
         image:
           type: ImageBlock
-          url: '/images/Capture d’écran, le 2024-10-25 à 14.01.21.png'
+          url: /images/Group 25.png
           altText: Featured item
           styles:
             self:
