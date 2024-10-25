@@ -322,7 +322,7 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: Mise en place CMS headless
+        title: Mise en place du CMS headless
         tagline: Migration
         subtitle: ''
         text: >
