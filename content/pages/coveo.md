@@ -374,7 +374,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: La formation
       color: text-primary
     colors: bg-dark-fg-light
     styles:
