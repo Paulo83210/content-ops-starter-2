@@ -118,7 +118,9 @@ sections:
             self:
               borderRadius: medium
       - type: FeaturedItem
-        title: ''
+        title: >-
+          Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
+          de détail et son rôle d'hospitalité.
         tagline: Loto-Québec prépare son avenir
         subtitle: >-
           Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
