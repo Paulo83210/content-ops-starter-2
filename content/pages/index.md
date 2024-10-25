@@ -227,10 +227,15 @@ sections:
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          > D'ici 2024, les organisations ayant adopté une approche modulaire
+          surpasseront leurs concurrents de 80% en termes de rapidité de mise en
+          œuvre de nouvelles fonctionnalités."
+
+          >
+
+          > Gartner
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
