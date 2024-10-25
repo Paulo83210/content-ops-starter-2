@@ -271,21 +271,11 @@ sections:
       text: Bien plus qu'un moteur de recherche
       color: text-light
     subtitle: ''
-    text: >+
-      En plus d'optimiser la recherche et les recommandations, Coveo offre des
-      services complémentaires qui pourraient transformer d'autres aspects de
-      l'expérience numérique de Loto-Québec. L'exploitation de la plateforme
-      Coveo pour le service à la clientèle, par exemple, pourrait permettre à
-      Loto-Québec d'améliorer le libre-service en ligne et d'aider les agents à
-      répondre plus rapidement aux demandes, réduisant ainsi les coûts tout en
-      augmentant la satisfaction client.
-
-
-
-
-
-
-
+    text: >
+      L'exploitation de la plateforme Coveo pour le service à la clientèle, par
+      exemple, pourrait permettre à Loto-Québec d'améliorer le libre-service en
+      ligne et d'aider les agents à répondre plus rapidement aux demandes,
+      réduisant ainsi les coûts tout en augmentant la satisfaction client.
     actions: []
     badge:
       type: Badge
