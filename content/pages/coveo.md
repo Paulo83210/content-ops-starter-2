@@ -119,6 +119,7 @@ sections:
               - pr-8
             borderRadius: medium
             flexDirection: row
+            borderColor: border-light
       - type: FeaturedItem
         title: '58% de taux de clics '
         tagline: ''
