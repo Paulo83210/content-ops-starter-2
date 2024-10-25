@@ -197,10 +197,8 @@ sections:
     subtitle: ''
     text: >
       L'intégration fluide de Coveo dans l’infrastructure de Loto-Québec ouvre
-      la voie à de nouvelles possibilités. En étendant cette technologie à
-      d'autres sections du site et en exploitant davantage les outils de Coveo,
-      Loto-Québec pourra continuer à enrichir et personnaliser ses expériences
-      digitales, tout en maximisant l'agilité et la performance de ses services.
+      la voie à de nouvelles possibilités et à une intégration de la recherche
+      sur le reste des sections. 
     actions: []
     colors: bg-dark-fg-light
     styles:
