@@ -68,7 +68,14 @@ sections:
         title: Front Cloud Layer
         tagline: Core
         subtitle: ''
-        text: "Une solution pour les développeurs permettant de créer et de déployer des solutions digitales pérennes grâce à des outils modernes et\_composables, compatibles avec tous les frameworks actuels.\n\n\n\n"
+        text: >
+          Une solution qui fournit aux développeurs une plateforme et un
+          workflow pour se concentrer directement sur la création de sites web
+          et d'applications, sans perdre de temps sur des opérations lourdes. Il
+          améliore la collaboration avec des aperçus de déploiement automatiques
+          pour chaque modification, permettant à l’équipe de réviser facilement
+          les mises à jour et de livrer des projets web plus rapidement et
+          efficacement.
         image:
           type: ImageBlock
           url: /images/Group 25.png
