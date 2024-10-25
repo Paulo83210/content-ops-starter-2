@@ -336,7 +336,7 @@ sections:
       type: TitleBlock
       text: >-
         Coveo, un allié stratégique dans la transformation numérique de
-        Loto-Québec
+        Loto-Québec.
       color: text-light
     subtitle: ''
     text: ''
