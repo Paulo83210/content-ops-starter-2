@@ -9,17 +9,17 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      ###### Vous venez de vivre une expérience unique avec notre croupier
+      ###### *Vous venez de vivre une expérience unique avec notre croupier
       virtuel en étant capable de vous recommander des jeux sur mesure, même
       avec les demandes les plus surprenantes. Tout ça, grâce à la magie de vos
       données ! Cette innovation est le fruit de notre collaboration avec
       **Valtech**, notre partenaire stratégique sur le chantier ATE, qui nous
-      accompagne dans cette transformation.
+      accompagne dans cette transformation.*
 
 
-      Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
+      *Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
       intelligemment plusieurs sources de données, nous pouvons créer des
-      expériences révolutionnaires qui réinventent l'avenir du Casino.
+      expériences révolutionnaires qui réinventent l'avenir du Casino.*
     actions: []
     badge:
       label: ''
