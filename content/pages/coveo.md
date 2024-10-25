@@ -117,7 +117,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 25% utilisent la recherche
-        tagline: Frontend Cloud Layer
+        tagline: ''
         subtitle: ''
         text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n\n\n\n\n\n\n\n"
         image:
