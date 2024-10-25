@@ -127,7 +127,9 @@ sections:
         title: Plus de 25% des visiteurs
         tagline: ''
         subtitle: ''
-        text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n"
+        text: >
+          Utilisent la recherche sur le site, offrant une navigation plus fluide
+          et personnalisée.
         image:
           type: ImageBlock
           altText: Background alt text
