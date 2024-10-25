@@ -245,43 +245,6 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-      - type: FeaturedItem
-        title: Conversions
-        tagline: Conversions
-        subtitle: ''
-        text: >+
-          Les conversions (ajout au panier) sur recherche sont extrêmement
-          élevées avec une tendance à la hausse de 9.1% sur la période (avril -
-
-          sept).​
-
-
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     badge:
       type: Badge
       label: ''
