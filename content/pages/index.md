@@ -289,7 +289,7 @@ sections:
           - pt-0
           - pl-16
           - pr-16
-          - pb-1
+          - pb-16
         justifyContent: center
   - type: DividerSection
     title: Divider
