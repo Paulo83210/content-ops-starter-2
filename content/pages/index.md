@@ -221,6 +221,7 @@ sections:
           - pl-16
           - pr-16
           - pt-6
+          - pb-6
       subtitle:
         textAlign: center
     title:
