@@ -266,7 +266,7 @@ sections:
       type: Badge
       label: OPPORTUNITÉS POUR L'AVENIR
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
