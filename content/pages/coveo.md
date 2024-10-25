@@ -141,7 +141,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Taux
+        title: Taux de clics
         tagline: Recommendations pertinentes
         subtitle: ''
         text: >+
