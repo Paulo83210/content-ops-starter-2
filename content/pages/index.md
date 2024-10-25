@@ -352,10 +352,10 @@ sections:
         tagline: Migration
         subtitle: ''
         text: >
-          Grâce à ce passage au nouveau CMS headless et le Design System en
-          construction, nous allons pouvoir réutiliser les composantes
-          développées; évitant ainsi la duplication et simplifiant la gestion
-          des contenus. Et ça servira pour tout le reste des sections du site!
+          Avec le passage au nouveau CMS headless et le Design System en cours
+          de construction, nous pourrons réutiliser les composants développés.
+          Cela évitera les duplications et simplifiera la gestion des contenus.
+          Et tout cela servira pour les autres sections du site !
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
