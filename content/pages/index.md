@@ -306,7 +306,7 @@ sections:
     title:
       type: TitleBlock
       text: Les avancées majeures supportées par Valtech
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
