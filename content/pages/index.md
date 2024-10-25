@@ -116,8 +116,7 @@ sections:
           changements du marché, aux demandes des clients, et aux nouvelles
           opportunités. Fini le blocage à l’innovation : nous devenons plus
           flexibles, plus réactifs, et mieux équipés pour relever les défis de
-          demain, tout en optimisant les coûts grâce à l'utilisation de
-          composants réutilisables.
+          demain!
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
