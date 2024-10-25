@@ -202,10 +202,6 @@ sections:
       Loto-Québec pourra continuer à enrichir et personnaliser ses expériences
       digitales, tout en maximisant l'agilité et la performance de ses services.
     actions: []
-    badge:
-      type: Badge
-      label: La suite
-      color: text-primary
     colors: bg-dark-fg-light
     styles:
       self:
