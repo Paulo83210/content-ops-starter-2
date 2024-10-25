@@ -323,7 +323,7 @@ sections:
       text: >-
         Coveo, un allié stratégique dans la transformation numérique de
         Loto-Québec
-      color: text-dark
+      color: text-light
     subtitle: ''
     text: >+
       Coveo accompagne Loto-Québec non seulement dans l'amélioration des
