@@ -470,7 +470,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: '2024'
+      label: ''
       color: text-dark
       styles:
         self:
