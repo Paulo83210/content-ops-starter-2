@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Group 30.png
+      url: /images/Group 30-3.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
