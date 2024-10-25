@@ -19,7 +19,7 @@ sections:
 
       Ce n’est qu’un aperçu de ce que permet le chantier ATE. En connectant
       intelligemment plusieurs sources de données, nous pouvons créer des
-      expériences révolutionnaires qui réinventent l'avenir.
+      expériences révolutionnaires qui réinventent l'avenir du Casino.
     actions: []
     badge:
       label: ''
