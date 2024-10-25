@@ -770,6 +770,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
     actions: []
     variant: toggle-list
     colors: bg-dark-fg-light
