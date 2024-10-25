@@ -124,7 +124,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: 25%
+        title: Plus de 25% des visiteurs
         tagline: ''
         subtitle: ''
         text: "Plus de\_25% des visiteurs\_utilisent la recherche sur le site, offrant une navigation plus fluide et personnalisée.\n"
