@@ -93,18 +93,14 @@ sections:
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
         subtitle: ''
-        text: >+
-          En 2024, nous avons relevé un premier défi majeur avec la migration de
-          la section Casino et Casino en Direct. Ce projet a prouvé la
-          robustesse de notre nouvelle infrastructure et permis d'affiner nos
-          processus pour les futures étapes.
-
-
-
-
-
-
-
+        text: >
+          Une architecture composable utilise des technologies adaptées pour
+          répondre aux besoins d'affaires, permettant ainsi de choisir les
+          meilleurs outils pour chaque fonction. Elle offre une agilité qui
+          permet aux entreprises de s'adapter rapidement aux changements du
+          marché et aux demandes des clients. Fini les blocages à l'innovation:
+          nous devenons plus flexibles, réactifs et mieux préparés pour les
+          défis futurs!
         image:
           type: ImageBlock
           url: /images/Group 30 copie.png
