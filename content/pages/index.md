@@ -361,6 +361,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutral
       - type: FeaturedItem
         title: Programme de formation
         subtitle: >-
