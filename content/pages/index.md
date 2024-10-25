@@ -27,7 +27,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/GIF.gif
+      url: /images/00_lq humanoid.jpg
       altText: Fun feature preview
     colors: bg-dark-fg-light
     styles:
