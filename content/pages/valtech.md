@@ -214,12 +214,19 @@ sections:
           stratégie e-commerce pour répondre à la croissance des canaux de
           commerce. Grâce à notre expertise, nous aidons nos clients à être plus
           intégrés, à garantir la cohérence des données et à rendre leurs
-          technologies plus flexibles.
+          technologies plus flexibles. 
 
 
-          *   *   **Commerce et stratégie omnicanal***   **Gestion de
-          l'expérience produit***   *   *   **Optimisation et performance***  
-          **CRM et fidélisation**
+          *   **Commerce et stratégie omnicanal**
+
+
+          *   **Gestion de l'expérience produit**
+
+
+          *   **Optimisation et performance**
+
+
+          *   **CRM et fidélisation**
 
         image:
           type: ImageBlock
