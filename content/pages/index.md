@@ -89,6 +89,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
@@ -121,13 +123,15 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: >-
           Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
           de détail et son rôle d'hospitalité. 
         tagline: Loto-Québec prépare son avenir
         subtitle: ''
-        text: "\n\n\n\n| Il est crucial que l'architecture soutienne ces deux stratégies. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.*   \uFEFFExpérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n\n\n\n\n\n\n\n"
+        text: "Il est crucial que l'architecture soutienne ces deux stratégies. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\\*   \uFEFFExpérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus \n\n"
         image:
           type: ImageBlock
           url: /images/Artboard 1 copy 3 1.png
@@ -149,6 +153,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderWidth: 2
+            borderColor: border-primary
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
@@ -182,6 +188,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: Modularité
         tagline: La promesse du composable
@@ -219,6 +227,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: ''
         tagline: ''
@@ -245,7 +255,9 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: next-prev-nav
+            borderColor: border-primary
+            borderWidth: 2
+    variant: dots-nav
     colors: bg-dark-fg-light
     styles:
       self:
@@ -327,7 +339,7 @@ sections:
           les prochaines migrations, qu’il s’agisse des processus, des outils,
           de la gouvernance ou des technologies.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -337,6 +349,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutralAlt
+            borderWidth: 4
       - type: FeaturedItem
         title: 'Écosystème modulaire '
         tagline: Migration
@@ -347,7 +361,7 @@ sections:
           Cela évitera les duplications et simplifiera la gestion des contenus.
           Et tout cela servira pour les autres sections du site !
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -357,6 +371,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutralAlt
+            borderWidth: 2
       - type: FeaturedItem
         title: Programme de formation
         subtitle: >-
@@ -397,7 +413,7 @@ sections:
           leurs compétences et en créant des équipes autonomes dotées de
           nouvelles expertises.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -407,6 +423,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-neutralAlt
+            borderWidth: 2
       - type: FeaturedItem
         title: Une adoption centrée sur l'humain
         tagline: ''
@@ -426,7 +444,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -438,6 +456,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-neutralAlt
+            borderWidth: 2
     actions: []
     badge:
       type: Badge
