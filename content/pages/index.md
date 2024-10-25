@@ -446,6 +446,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-neutralAlt
     actions: []
     badge:
       type: Badge
