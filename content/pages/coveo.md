@@ -110,6 +110,7 @@ sections:
         alignItems: center
         padding:
           - pt-6
+          - pl-16
   - type: CarouselSection
     items:
       - type: FeaturedItem
