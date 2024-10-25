@@ -305,7 +305,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: gLes avancées majeures supportées par Valtech
+      text: Les avancées majeures supportées par Valtech
       color: text-light
       styles:
         self:
