@@ -189,6 +189,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
+            borderWidth: 2
       - type: FeaturedItem
         title: Modularité
         tagline: La promesse du composable
