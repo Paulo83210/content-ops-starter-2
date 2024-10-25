@@ -174,7 +174,9 @@ sections:
       - type: FeaturedItem
         title: tendance à la hausse de 9.1% sur la période (avril - sept).
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Les conversions (ajout au panier) sur recherche sont extrêmement
+          élevées 
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
