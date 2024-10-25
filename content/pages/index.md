@@ -126,7 +126,9 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: >-
+          Loto-Québec veut équilibrer sa stratégie numérique entre le commerce
+          de détail et son rôle d'hospitalité. 
         tagline: Loto-Québec prépare son avenir
         subtitle: Be in good company
         text: >-
