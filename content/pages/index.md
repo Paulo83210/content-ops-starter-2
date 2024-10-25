@@ -414,6 +414,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderColor: border-neutralAlt
+            borderWidth: 2
       - type: FeaturedItem
         title: Une adoption centrée sur l'humain
         tagline: ''
