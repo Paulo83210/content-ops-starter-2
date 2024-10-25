@@ -204,7 +204,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Une des
+      text: Des réussites concrêtes
       color: text-dark
   - type: GenericSection
     subtitle: ''
