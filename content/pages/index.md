@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Première migration effectuée : un modèle pour l’avenir'
-        tagline: Feature 1
+        tagline: Premières migrations effectuées
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
