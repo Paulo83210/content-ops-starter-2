@@ -1125,10 +1125,6 @@ sections:
       type: ImageBlock
       url: /images/GIF.gif
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-dark-fg-light
     styles:
       self:
