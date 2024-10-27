@@ -36,7 +36,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-1
+          - pb-12
           - pr-16
     media:
       type: VideoBlock
