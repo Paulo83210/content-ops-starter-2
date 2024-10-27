@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Le pouvoir du chantier ATE
-      color: text-light
+      color: text-neutral
     subtitle: ''
     text: >
       Vous venez de vivre une expérience unique avec notre croupier virtuel en
@@ -34,6 +34,10 @@ sections:
           - pl-16
           - pr-16
           - pb-12
+    badge:
+      type: Badge
+      label: Découvrir
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -42,9 +46,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -259,8 +263,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-6
-          - pb-6
+          - pt-12
+          - pb-12
       subtitle:
         textAlign: center
     title:
@@ -279,14 +283,14 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: '2024'
-      color: text-neutral
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -428,8 +432,8 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-1
+          - pb-12
+          - pt-12
           - pl-16
           - pr-16
         justifyContent: center
@@ -442,17 +446,17 @@ sections:
     media:
       type: ImageBlock
       url: /images/test3.jpg
-      altText: Dope design preview
+      altText: humans
     colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: col
         padding:
-          - pt-0
-          - pl-0
-          - pr-0
-          - pb-0
+          - pt-12
+          - pl-16
+          - pr-16
+          - pb-12
         justifyContent: center
   - type: DividerSection
     title: Divider
@@ -561,13 +565,20 @@ sections:
     styles:
       self:
         padding:
-          - pt-1
+          - pt-12
           - pl-16
-          - pb-16
+          - pb-12
           - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: '2024'
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -647,8 +658,8 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-1
+          - pb-12
+          - pt-12
           - pl-16
           - pr-16
         justifyContent: center
@@ -731,7 +742,7 @@ sections:
       self:
         padding:
           - pb-12
-          - pt-1
+          - pt-12
           - pl-3
           - pr-3
         justifyContent: center
@@ -866,13 +877,24 @@ sections:
     styles:
       self:
         padding:
-          - pt-1
-          - pl-8
-          - pb-16
-          - pr-8
+          - pt-12
+          - pl-16
+          - pb-12
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-16
+          - pb-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -898,8 +920,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-1
-          - pb-1
+          - pt-12
+          - pb-12
         alignItems: center
       subtitle:
         textAlign: left
