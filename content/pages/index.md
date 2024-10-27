@@ -468,7 +468,7 @@ sections:
           - pt-12
           - pl-16
           - pb-12
-          - pr-14
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
