@@ -44,7 +44,7 @@ sections:
           - pt-12
           - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: CarouselSection
     items:
       - type: FeaturedItem
