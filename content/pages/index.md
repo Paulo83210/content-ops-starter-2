@@ -442,7 +442,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/test3.jpg
-      altText: Dope design preview
+      altText: humans
     colors: bg-dark-fg-light
     styles:
       self:
