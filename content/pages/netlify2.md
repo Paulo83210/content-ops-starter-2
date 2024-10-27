@@ -171,6 +171,7 @@ sections:
           - pb-12
           - pr-16
           - pl-16
+          - pt-7
       subtitle:
         textAlign: center
     badge:
