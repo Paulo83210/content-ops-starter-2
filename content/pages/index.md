@@ -259,7 +259,7 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-6
+          - pt-12
           - pb-6
       subtitle:
         textAlign: center
