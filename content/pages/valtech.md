@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Valtech
-      color: text-dark
+      color: text-primary
     subtitle: Un partenaire stratégique pour Loto-Québec
     text: >
       Valtech, expert en stratégie digitale et en technologies de pointe,
