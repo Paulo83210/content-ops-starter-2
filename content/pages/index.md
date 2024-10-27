@@ -452,7 +452,7 @@ sections:
           - pt-12
           - pl-16
           - pr-16
-          - pb-0
+          - pb-12
         justifyContent: center
   - type: DividerSection
     title: Divider
