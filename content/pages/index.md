@@ -572,6 +572,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: '2024'
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
