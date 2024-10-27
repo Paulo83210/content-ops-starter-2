@@ -36,7 +36,7 @@ sections:
           - pb-12
     badge:
       type: Badge
-      label: Découvrir
+      label: ''
       color: text-primary
   - type: DividerSection
     title: Divider
