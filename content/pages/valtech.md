@@ -88,7 +88,7 @@ sections:
         padding:
           - pr-16
           - pl-16
-          - pt-1
+          - pt-12
           - pb-16
   - type: GenericSection
     subtitle: ''
