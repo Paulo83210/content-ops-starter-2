@@ -34,6 +34,10 @@ sections:
           - pl-16
           - pr-16
           - pb-12
+    badge:
+      type: Badge
+      label: Découvrir
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
