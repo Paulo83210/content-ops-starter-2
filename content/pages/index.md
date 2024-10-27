@@ -866,7 +866,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-1
+          - pt-12
           - pl-16
           - pb-16
           - pr-16
