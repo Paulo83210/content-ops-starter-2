@@ -756,7 +756,7 @@ sections:
           - pt-12
           - pl-16
           - pb-12
-          - pr-7
+          - pr-16
     type: DividerSection
   - type: FeaturedItemsSection
     title:
