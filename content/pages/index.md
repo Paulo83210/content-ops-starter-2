@@ -576,6 +576,9 @@ sections:
       type: Badge
       label: '2024'
       color: text-primary
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
