@@ -331,7 +331,7 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-1
+          - pt-12
           - pb-16
 slug: /Netlify2
 seo:
