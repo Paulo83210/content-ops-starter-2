@@ -89,7 +89,7 @@ sections:
           - pr-16
           - pl-16
           - pt-12
-          - pb-16
+          - pb-12
   - type: GenericSection
     subtitle: ''
     text: ''
