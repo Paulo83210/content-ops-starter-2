@@ -921,7 +921,7 @@ sections:
           - pl-16
           - pr-16
           - pt-12
-          - pb-12
+          - pb-0
         alignItems: center
       subtitle:
         textAlign: left
