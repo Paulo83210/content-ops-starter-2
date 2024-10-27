@@ -102,7 +102,7 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pb-1
+          - pb-12
           - pt-12
       subtitle:
         textAlign: left
