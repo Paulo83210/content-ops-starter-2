@@ -754,7 +754,7 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-7
+          - pl-16
           - pb-12
           - pr-7
     type: DividerSection
