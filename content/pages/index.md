@@ -449,7 +449,7 @@ sections:
         alignItems: center
         flexDirection: col
         padding:
-          - pt-0
+          - pt-12
           - pl-16
           - pr-16
           - pb-0
