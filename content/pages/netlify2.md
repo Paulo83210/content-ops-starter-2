@@ -332,7 +332,7 @@ sections:
           - pl-16
           - pr-16
           - pt-12
-          - pb-16
+          - pb-12
 slug: /Netlify2
 seo:
   type: Seo
