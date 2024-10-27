@@ -289,7 +289,7 @@ sections:
           - pt-12
           - pl-16
           - pb-12
-          - pr-8
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
