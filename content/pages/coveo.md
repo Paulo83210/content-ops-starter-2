@@ -26,9 +26,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-12
           - pl-16
-          - pb-1
+          - pb-12
           - pr-16
   - type: DividerSection
     title: Divider
@@ -38,9 +38,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -64,8 +64,8 @@ sections:
         padding:
           - pr-16
           - pl-16
-          - pt-1
-          - pb-1
+          - pt-12
+          - pb-12
     media:
       type: ImageBlock
       url: /images/Content-4.png
@@ -81,9 +81,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-12
+          - pt-16
           - pl-12
-          - pb-12
+          - pb-16
           - pr-12
   - type: FeaturedItemsSection
     title:
@@ -179,9 +179,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-12
           - pl-16
-          - pb-8
+          - pb-12
           - pr-16
         justifyContent: center
       subtitle:
@@ -210,9 +210,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -236,8 +236,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-1
-          - pb-1
+          - pt-12
+          - pb-12
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -246,9 +246,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -273,7 +273,7 @@ sections:
         padding:
           - pr-16
           - pl-16
-          - pt-1
+          - pt-12
           - pb-12
     media:
       type: VideoBlock

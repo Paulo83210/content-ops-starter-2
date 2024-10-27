@@ -26,9 +26,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-12
           - pl-16
-          - pb-1
+          - pb-12
           - pr-16
   - type: DividerSection
     title: Divider
@@ -38,9 +38,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -60,8 +60,8 @@ sections:
         padding:
           - pr-16
           - pl-16
-          - pt-1
-          - pb-16
+          - pt-12
+          - pb-12
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -93,7 +93,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             borderWidth: 2
@@ -123,7 +123,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
@@ -157,7 +157,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             borderColor: border-primary
@@ -171,6 +171,7 @@ sections:
           - pb-12
           - pr-16
           - pl-16
+          - pt-7
       subtitle:
         textAlign: center
     badge:
@@ -209,7 +210,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pb-1
+          - pb-12
+          - pt-12
       subtitle:
         textAlign: left
   - type: DividerSection
@@ -220,9 +222,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -242,8 +244,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-1
-          - pb-1
+          - pt-12
+          - pb-12
     media:
       type: ImageBlock
       url: /images/Group 30-2.png
@@ -260,9 +262,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -294,8 +296,8 @@ sections:
         padding:
           - pr-16
           - pl-16
-          - pt-1
-          - pb-1
+          - pt-12
+          - pb-12
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -304,9 +306,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -329,8 +331,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-1
-          - pb-16
+          - pt-12
+          - pb-12
 slug: /Netlify2
 seo:
   type: Seo

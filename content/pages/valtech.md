@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Valtech
-      color: text-dark
+      color: text-primary
     subtitle: Un partenaire stratégique pour Loto-Québec
     text: >
       Valtech, expert en stratégie digitale et en technologies de pointe,
@@ -28,15 +28,15 @@ sections:
       label: ''
       color: text-primary
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-12
           - pl-16
-          - pb-1
+          - pb-12
           - pr-16
     media:
       type: VideoBlock
@@ -61,19 +61,19 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
       text: 'Valtech : Un leader mondial dans l''architecture composable'
-      color: text-dark
+      color: text-primary
     subtitle: Valtech est cofondateur de MACH alliance
     text: "Avec plus de 5 ans d'expérience dans le domaine composable, Valtech s'est imposé comme un acteur incontournable de cette transformation technologique. Valtech a accompagné certaines des plus grandes marques mondiales dans leur transition vers une architecture composable, en collaborant avec les principaux partenaires de solutions technologiques.\n\n*   200+\_implémentations dans le monde\n\n*   50+\_clients globaux\n\n*   400+\_certifications techniques\n\n*   500+\_spécialistes à disposition\n\nGrâce à cette expertise, Valtech permet à ses clients de créer des expériences digitales innovantes, de maximiser l'agilité et de rester compétitifs dans un environnement en constante évolution.\n\n"
     actions: []
@@ -81,20 +81,20 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         padding:
           - pr-16
           - pl-16
-          - pt-1
-          - pb-16
+          - pt-12
+          - pb-12
   - type: GenericSection
     subtitle: ''
     text: ''
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row
@@ -102,7 +102,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pb-1
+          - pb-12
+          - pt-12
       subtitle:
         textAlign: left
     media:
@@ -116,19 +117,19 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
       text: Le CMS headless au cœur de Loto-Québec
-      color: text-dark
+      color: text-light
     subtitle: ''
     text: "Plus de 6 ans de collaboration pour créer des expériences digitales rapides et fluides.\n\nEn partenariat avec Contentstack, Valtech aide Loto-Québec à moderniser son infrastructure de gestion de contenu via une solution DXP (Digital Experience Platform) composable. Cette collaboration permet à Loto-Québec de créer des expériences digitales captivantes, tout en accélérant la mise en ligne des contenus et en connectant facilement les audiences.\n\n\_\n\n> \"Valtech orchestre une symphonie d’expériences digitales qui captivent et connectent les audiences mondiales, et nous sommes extrêmement satisfaits de leur expertise et de leur passion.\"  Ramon Weterings, VP EMEA & APAC\_\n\n"
     actions: []
@@ -144,26 +145,26 @@ sections:
       type: Badge
       label: Valtech & Contentstack
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         padding:
           - pl-16
           - pr-16
-          - pt-1
-          - pb-1
+          - pt-12
+          - pb-12
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -281,14 +282,14 @@ sections:
             flexDirection: row
     actions: []
     variant: two-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
+          - pt-12
+          - pl-16
+          - pb-12
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
@@ -367,14 +368,14 @@ sections:
             flexDirection: row
     actions: []
     variant: two-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
+          - pt-12
+          - pl-16
+          - pb-12
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
@@ -402,29 +403,29 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-1
+          - pt-12
           - pl-16
           - pr-16
-          - pb-6
+          - pb-12
       subtitle:
         textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
@@ -441,7 +442,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -449,8 +450,8 @@ sections:
         padding:
           - pl-16
           - pr-16
-          - pt-1
-          - pb-16
+          - pt-12
+          - pb-12
 slug: /Valtech
 seo:
   type: Seo
