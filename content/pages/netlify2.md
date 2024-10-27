@@ -297,7 +297,7 @@ sections:
           - pr-16
           - pl-16
           - pt-12
-          - pb-1
+          - pb-12
   - type: DividerSection
     title: Divider
     elementId: ''
