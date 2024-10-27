@@ -93,7 +93,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             borderWidth: 2
