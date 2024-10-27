@@ -145,7 +145,7 @@ sections:
       type: Badge
       label: Valtech & Contentstack
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
