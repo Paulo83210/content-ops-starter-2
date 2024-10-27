@@ -245,7 +245,7 @@ sections:
           - pl-16
           - pr-16
           - pt-12
-          - pb-1
+          - pb-12
     media:
       type: ImageBlock
       url: /images/Group 30-2.png
