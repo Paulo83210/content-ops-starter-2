@@ -587,7 +587,7 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
           - pr-12
   - type: FeaturedItemsSection
