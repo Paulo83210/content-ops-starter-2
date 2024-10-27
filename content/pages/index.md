@@ -450,7 +450,7 @@ sections:
         flexDirection: col
         padding:
           - pt-0
-          - pl-0
+          - pl-16
           - pr-0
           - pb-0
         justifyContent: center
