@@ -36,7 +36,7 @@ sections:
           - pb-12
     badge:
       type: Badge
-      label: Découvrir
+      label: ''
       color: text-primary
   - type: DividerSection
     title: Divider
@@ -466,9 +466,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -587,9 +587,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-12
+          - pl-16
           - pb-12
-          - pr-12
+          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -743,8 +743,8 @@ sections:
         padding:
           - pb-12
           - pt-12
-          - pl-3
-          - pr-3
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
@@ -754,9 +754,9 @@ sections:
       self:
         padding:
           - pt-12
-          - pl-7
+          - pl-16
           - pb-12
-          - pr-7
+          - pr-16
     type: DividerSection
   - type: FeaturedItemsSection
     title:
@@ -921,7 +921,7 @@ sections:
           - pl-16
           - pr-16
           - pt-12
-          - pb-12
+          - pb-0
         alignItems: center
       subtitle:
         textAlign: left
