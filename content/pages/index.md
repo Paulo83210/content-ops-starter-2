@@ -869,7 +869,7 @@ sections:
           - pt-1
           - pl-16
           - pb-16
-          - pr-8
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
