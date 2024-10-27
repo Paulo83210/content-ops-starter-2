@@ -412,7 +412,7 @@ sections:
           - pt-12
           - pl-16
           - pr-16
-          - pb-6
+          - pb-12
       subtitle:
         textAlign: left
   - type: DividerSection
