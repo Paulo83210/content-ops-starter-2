@@ -260,7 +260,7 @@ sections:
           - pl-16
           - pr-16
           - pt-12
-          - pb-6
+          - pb-12
       subtitle:
         textAlign: center
     title:
