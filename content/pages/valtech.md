@@ -409,7 +409,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-1
+          - pt-12
           - pl-16
           - pr-16
           - pb-6
