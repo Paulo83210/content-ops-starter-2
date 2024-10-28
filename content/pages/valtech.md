@@ -411,7 +411,11 @@ sections:
     subtitle: >-
       Présent dans 20 pays avec plus de 8000 experts dans le monde, Valtech est
       un leader mondial de la transformation numérique.
-    text: ''
+    text: >
+      Avec une telle diversité de projets en cours et une maîtrise du
+      composable, Valtech continue de jouer un rôle clé dans l'évolution
+      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
+      dans la transformation technologique.
     actions:
       - type: Link
         label: visiter le site
