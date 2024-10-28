@@ -9,11 +9,9 @@ sections:
       color: text-primary
     subtitle: Un partenaire stratégique pour Loto-Québec
     text: >
-      Valtech, expert en stratégie numérique et en technologies avancées,
-      accompagne Loto-Québec dans une transformation ambitieuse. Chef de file en
-      intégration technologique, Valtech soutient le passage d’une architecture
-      monolithique à une infrastructure composable, offrant à Loto-Québec plus
-      d’agilité et de flexibilité.
+      Chef de file en intégration technologique, Valtech soutient le passage
+      d’une architecture monolithique à une infrastructure composable, offrant à
+      Loto-Québec plus d’agilité et de flexibilité.
 
 
       Avec son équipe multidisciplinaire d'experts — développeurs back et
@@ -21,7 +19,7 @@ sections:
       agit comme une extension des équipes de Loto-Québec, assurant une
       transition fluide et efficace vers cette nouvelle ère numérique; tout en
       assurant de la formation en continue et de l'accompagnement aux équipes de
-      Loto-Québec. 
+      Loto-Québec.
     actions: []
     badge:
       type: Badge
