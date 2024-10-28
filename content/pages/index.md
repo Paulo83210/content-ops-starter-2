@@ -327,7 +327,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Mise en place du nouveau CMS
-        tagline: Migration
+        tagline: Premières migrations effectuées
         subtitle: ''
         text: >
           Cette étape initiale nous a permis d’apprendre, de tester et de
