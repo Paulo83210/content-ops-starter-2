@@ -425,7 +425,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/map.png
+      url: /images/map3.png
       styles:
         self:
           borderRadius: medium
