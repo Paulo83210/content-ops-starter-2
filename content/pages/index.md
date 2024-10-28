@@ -618,7 +618,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: ''
+        title: Nouvelles pratiques et optimisations des processus de travail
         subtitle: ''
         text: >
           Cette analyse a permis une planification trimestrielle en seulement
