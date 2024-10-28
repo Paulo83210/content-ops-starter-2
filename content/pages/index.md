@@ -9,17 +9,18 @@ sections:
       color: text-neutral
     subtitle: ''
     text: >
-      Vous venez de vivre une expérience unique avec notre croupier virtuel en
-      étant capable de vous recommander des jeux sur mesure, même avec les
-      demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
-      \* 
+      Vous venez de vivre une expérience unique avec notre croupier virtuel,
+      capable de recommander des jeux sur mesure, même face aux demandes les
+      plus surprenantes. Tout cela rendu possible grâce à la puissance d'un
+      écosystème technologique moderne et agile, qui connecte intelligemment les
+      données pour créer des expériences révolutionnaires. 
 
 
-      En connectant intelligemment plusieurs sources de données, nous pouvons
-      créer des expériences révolutionnaires qui réinventent l'avenir du Casino!
+      Ensemble, nous réinventons l'avenir du Casino !
 
 
-      *\*produit par Valtech*
+
+      *Produit par Valtech*
     actions: []
     media:
       type: ImageBlock
@@ -52,25 +53,13 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Qu'est-ce que le chantier ATE ?
-        tagline: Loto-Québec prépare son avenir
-        subtitle: ATE (Architecture Technologique et Expérientielle)
-        text: >+
-          L'objectif de ce chantier est de moderniser l'infrastructure
-          technologique en adoptant une architecture composable et modulaire,
-          avec en particulier la mise en place d'un CMS headless. Cela permettra
-          de créer des expériences plus humaines, personnalisées et pertinentes,
-          tout en garantissant une flexibilité et une évolutivité accrues.
-
-
-
-
-
-
-
+        title: Entre hospitalité et commerce de détail
+        tagline: La promesse du composable
+        subtitle: ''
+        text: "Il est crucial que l'architecture soutienne ces deux dualité d'affaires. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\n\n*   Expérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus\n\n"
         image:
           type: ImageBlock
-          url: /images/Artboard 1 copy 7 1.png
+          url: /images/Artboard 1 copy 3 1.png
           altText: Business consulting
           elementId: ''
           styles:
@@ -89,8 +78,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-            borderColor: border-light
             borderWidth: 0
+            borderColor: border-primary
       - type: FeaturedItem
         title: Répondre à des besoins d'affaires
         tagline: La promesse du composable
@@ -126,13 +115,22 @@ sections:
             borderColor: border-primary
             borderWidth: 0
       - type: FeaturedItem
-        title: Entre hospitalité et commerce de détail
-        tagline: La promesse du composable
-        subtitle: ''
-        text: "Il est crucial que l'architecture soutienne ces deux dualité d'affaires. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\n\n*   Expérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus\n\n"
+        title: Qu'est-ce que le chantier ATE ?
+        tagline: Loto-Québec prépare son avenir
+        subtitle: ATE (Architecture Technologique et Expérientielle)
+        text: >
+          L'objectif de ce chantier est de moderniser l'infrastructure
+          technologique en adoptant une architecture composable et modulaire,
+          notamment avec un CMS headless. Cela permettra de créer des
+          **expériences plus humaines et personnalisées**, tout en augmentant la
+          **vélocité opérationnelle** pour livrer des projets plus rapidement.
+          Cette approche améliore également la **performance technique et la
+          stabilité des services (API)**, comme la réduction des temps de
+          chargement, tout en assurant une flexibilité et une évolutivité
+          accrues.
         image:
           type: ImageBlock
-          url: /images/Artboard 1 copy 3 1.png
+          url: /images/Artboard 1 copy 7 1.png
           altText: Business consulting
           elementId: ''
           styles:
@@ -151,8 +149,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-light
             borderWidth: 0
-            borderColor: border-primary
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
@@ -192,18 +190,13 @@ sections:
         title: Modularité
         tagline: La promesse du composable
         subtitle: ''
-        text: >+
+        text: >
           Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour, les intégrations,
-          et l'évolution rapide des systèmes. Elle permet une évolution rapide
-          et efficace, réduisant les délais de mise sur le marché. Cette
-          approche modulaire réduit les délais de mise sur le marché tout en
-          permettant une personnalisation des expériences client et des
-          décisions basées sur les données en temps réel, offrant ainsi une
-          présence omnicanale cohérente et pertinente.
-
-
-
+          offre une modularité qui facilite les mises à jour, les intégrations
+          et l'évolution rapide des systèmes. Elle réduit les délais de mise sur
+          le marché tout en permettant une personnalisation des expériences
+          client et des décisions basées sur les données en temps réel, assurant
+          une présence omnicanale cohérente et pertinente.
         image:
           type: ImageBlock
           url: /images/Artboard 1 copy 1.png
@@ -234,11 +227,7 @@ sections:
         text: >+
           > D'ici 2024, les organisations ayant adopté une approche modulaire
           surpasseront leurs concurrents de 80% en termes de rapidité de mise en
-          œuvre de nouvelles fonctionnalités."
-
-          >
-
-          > Gartner
+          œuvre de nouvelles fonctionnalités.
 
         actions: []
         colors: bg-dark-fg-light
@@ -255,6 +244,14 @@ sections:
             justifyContent: center
             borderColor: border-primary
             borderWidth: 0
+        image:
+          type: ImageBlock
+          url: /images/Gartner logo.png
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     variant: dots-nav
     colors: bg-dark-fg-light
     styles:
@@ -399,12 +396,12 @@ sections:
         tagline: Programme de formations
         subtitle: ''
         text: >
-          Cette analyse a permis d'implémenter de nouvelles pratiques pour
-          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
-          eu un impact incroyable en rassurant les employés, en développant
-          leurs compétences et en créant des équipes autonomes dotées de
-          nouvelles expertises. Nous sommes maintenant en phase de "shadowing,"
-          où Valtech accompagne les équipes pour solidifier cette transition.
+          Ce programme de formation a permis d’introduire de nouvelles
+          pratiques, renforçant les compétences des équipes et leur autonomie.
+          Il a eu un impact incroyable en rassurant les employés et en
+          développant de nouvelles expertises. Nous sommes maintenant en phase
+          de 'shadowing,' où Valtech accompagne les équipes de manière continue
+          pour solidifier cette transition.
         actions: []
         colors: bg-dark-fg-light
         styles:
@@ -604,9 +601,13 @@ sections:
         title: Rétrospective collaborative
         subtitle: avec plus de 50 collaborateurs
         text: >
-          Cette analyse faites auprès des équipes Loto Québec et Valtech sur les
-          deux dernières années, a permis d’identifier 6 chantiers prioritaires
-          pour continuer à améliorer nos méthodes de travail. 
+          Cette rétrospective menée auprès des équipes de Loto Québec et Valtech
+          sur les deux dernières années a permis d'explorer divers aspects de la
+          collaboration : processus, outils et communication. Elle a mis en
+          lumière ce qui fonctionnait bien et les points d'amélioration dans un
+          contexte d'équipe hybride, aboutissant à l’identification de six
+          chantiers prioritaires pour établir de meilleures fondations et
+          renforcer la collaboration entre les équipes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -621,11 +622,16 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Analyse des processus
+        title: Nouvelles pratiques et optimisations des processus de travail
         subtitle: ''
         text: >
-          Les nouvelles pratiques étudiées ont notamment permis une
-          planification de trois mois réalisée en seulement cinq jours. 
+          Cette analyse a permis une planification trimestrielle en seulement
+          cinq jours, offrant une visibilité claire sur le déroulement, les
+          risques et les dépendances pour la migration de la section LOTERIES.
+          En revoyant les fondations des méthodes de travail et de
+          communication, nous avons pu améliorer l’engagement de livraison et
+          garantir une gestion efficace, aboutissant à une livraison dans les
+          délais.
         image:
           type: ImageBlock
           altText: Featured icon two
