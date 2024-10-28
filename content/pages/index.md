@@ -618,7 +618,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Ways of working et optim
+        title: Ways of working et optimisation des processus
         subtitle: ''
         text: >
           Les nouvelles pratiques étudiées ont notamment permis une
