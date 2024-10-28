@@ -232,10 +232,6 @@ sections:
           surpasseront leurs concurrents de 80% en termes de rapidité de mise en
           œuvre de nouvelles fonctionnalités."
 
-          >
-
-          > Gartner
-
         actions: []
         colors: bg-dark-fg-light
         styles:
