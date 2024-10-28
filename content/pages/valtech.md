@@ -432,7 +432,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
