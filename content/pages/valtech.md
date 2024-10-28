@@ -123,7 +123,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Group 35.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -425,6 +425,10 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/map.png
+      styles:
+        self:
+          borderRadius: medium
     badge:
       type: Badge
       label: ''
