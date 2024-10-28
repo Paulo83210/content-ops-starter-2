@@ -336,7 +336,7 @@ sections:
           - type: Button
             label: En savoir plus
             altText: ''
-            url: '/https://www.valtech.com/fr-ca/expertises/experience-reimaginee/'
+            url: 'https://www.valtech.com/fr-ca/expertises/experience-reimaginee/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
