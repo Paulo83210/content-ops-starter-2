@@ -425,6 +425,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/mao.png
     badge:
       type: Badge
       label: ''
