@@ -349,7 +349,7 @@ sections:
             borderWidth: 2
       - type: FeaturedItem
         title: Un modèle réplicable
-        tagline: Migration
+        tagline: Premières migrations effectuées
         subtitle: ''
         text: >
           Avec cet écosystème modulaire et le design system en cours de
