@@ -415,7 +415,7 @@ sections:
     actions:
       - type: Link
         label: visiter le site
-        url: /
+        url: /valtech.com
         showIcon: true
         icon: arrowRight
         iconPosition: right
