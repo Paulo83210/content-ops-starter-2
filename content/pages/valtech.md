@@ -408,7 +408,7 @@ sections:
       type: TitleBlock
       text: Valtech
       color: text-light
-    subtitle: Présent dans 20 pays avec plus de 8000 experts dans le monde
+    subtitle: Une agence présente dans 20 pays avec plus de 8000 experts dans le monde!
     text: >
       Avec une telle diversité de projets en cours et une maîtrise du
       composable, Valtech continue de jouer un rôle clé dans l'évolution
