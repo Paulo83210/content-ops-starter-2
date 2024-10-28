@@ -193,18 +193,13 @@ sections:
         title: Modularité
         tagline: La promesse du composable
         subtitle: ''
-        text: >+
+        text: >
           Contrairement à un système monolithique, une architecture composable
-          offre une modularité qui simplifie les mises à jour, les intégrations,
-          et l'évolution rapide des systèmes. Elle permet une évolution rapide
-          et efficace, réduisant les délais de mise sur le marché. Cette
-          approche modulaire réduit les délais de mise sur le marché tout en
-          permettant une personnalisation des expériences client et des
-          décisions basées sur les données en temps réel, offrant ainsi une
-          présence omnicanale cohérente et pertinente.
-
-
-
+          offre une modularité qui facilite les mises à jour, les intégrations
+          et l'évolution rapide des systèmes. Elle réduit les délais de mise sur
+          le marché tout en permettant une personnalisation des expériences
+          client et des décisions basées sur les données en temps réel, assurant
+          une présence omnicanale cohérente et pertinente.
         image:
           type: ImageBlock
           url: /images/Artboard 1 copy 1.png
