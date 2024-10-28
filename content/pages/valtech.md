@@ -201,7 +201,7 @@ sections:
           - type: Button
             label: En savoir plus
             altText: ''
-            url: '/https://www.valtech.com/fr-ca/expertises/croissance-par-la-data/'
+            url: 'https://www.valtech.com/fr-ca/expertises/croissance-par-la-data/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -250,7 +250,7 @@ sections:
           - type: Button
             label: En découvrir plus
             altText: ''
-            url: '/https://www.valtech.com/fr-ca/expertises/commerce-accelere/'
+            url: 'https://www.valtech.com/fr-ca/expertises/commerce-accelere/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -305,7 +305,7 @@ sections:
             label: En découvrir plus
             altText: ''
             url: >-
-              /https://www.valtech.com/fr-ca/expertises/creativite-et-performance-marketing/
+              https://www.valtech.com/fr-ca/expertises/creativite-et-performance-marketing/
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -336,7 +336,7 @@ sections:
           - type: Button
             label: En savoir plus
             altText: ''
-            url: '/https://www.valtech.com/fr-ca/expertises/experience-reimaginee/'
+            url: 'https://www.valtech.com/fr-ca/expertises/experience-reimaginee/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -415,7 +415,7 @@ sections:
     actions:
       - type: Link
         label: visiter le site
-        url: '/https://www.valtech.com/fr-ca/'
+        url: 'https://www.valtech.com/fr-ca/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
