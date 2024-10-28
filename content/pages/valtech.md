@@ -42,7 +42,7 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: >-
-        https://videos.valtech.com/81555344.ihtml/player.html?token=40b5d54a286906e029d789b4b390ba91&source=embed&photo%5fid=105778777&autoPlay=0&endOn=
+        https://videos.valtech.com/secret/105778777/40b5d54a286906e029d789b4b390ba91
       autoplay: true
       loop: true
       muted: true
