@@ -201,7 +201,7 @@ sections:
           - type: Button
             label: En savoir plus
             altText: ''
-            url: '/https://www.valtech.com/fr-ca/expertises/croissance-par-la-data/'
+            url: 'https://www.valtech.com/fr-ca/expertises/croissance-par-la-data/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
