@@ -300,8 +300,8 @@ sections:
         title: Premières migrations effectuées
         subtitle: ''
         text: >
-          Un premier défi majeur réalisé avec la migration de la section Casino,
-          Casino en Direct et Instants. Ce projet a prouvé la robustesse de
+          Un premier défi majeur réalisé avec la migration de la section CASINO,
+          CASINO EN DIRECT et INSTANTS. Ce projet a prouvé la robustesse de
           notre nouvelle infrastructure et permis d'affiner nos processus pour
           les futures étapes.
         actions: []
