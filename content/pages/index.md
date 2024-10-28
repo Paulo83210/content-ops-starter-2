@@ -294,7 +294,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Des avancées majeures propulsées par Valtech
+    subtitle: Des avancées majeures propulsées
     items:
       - type: FeaturedItem
         title: Premières migrations effectuées
