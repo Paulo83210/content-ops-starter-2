@@ -396,7 +396,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Une transformation humaine et durable
-        tagline: 80 personnes formées
+        tagline: Programme de formations
         subtitle: ''
         text: >
           Cette analyse a permis d'implémenter de nouvelles pratiques pour
