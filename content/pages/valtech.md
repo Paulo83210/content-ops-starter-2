@@ -403,29 +403,29 @@ sections:
           - pb-12
       subtitle:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-16
-          - pb-12
-          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
+      text: Valtech
+      color: text-light
+    subtitle: Une agence présente dans 20 pays avec plus de 8000 experts dans le monde!
     text: >
       Avec une telle diversité de projets en cours et une maîtrise du
       composable, Valtech continue de jouer un rôle clé dans l'évolution
-      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
+      numérique de Loto-Québec, tout en renforçant son statut de leader mondial
       dans la transformation technologique.
-    actions: []
+    actions:
+      - type: Link
+        label: visiter le site
+        url: '/https://www.valtech.com/fr-ca/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
     badge:
       type: Badge
       label: ''
@@ -434,12 +434,11 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
         padding:
-          - pl-16
-          - pr-16
           - pt-12
           - pb-12
+          - pl-16
+          - pr-16
 slug: /Valtech
 seo:
   type: Seo
