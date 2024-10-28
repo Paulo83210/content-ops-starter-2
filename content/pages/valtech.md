@@ -373,7 +373,7 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=-v7FHfKa70g'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
