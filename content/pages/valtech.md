@@ -450,32 +450,6 @@ sections:
           - pl-16
           - pb-12
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: >
-      Avec une telle diversité de projets en cours et une maîtrise du
-      composable, Valtech continue de jouer un rôle clé dans l'évolution
-      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
-      dans la transformation technologique.
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pl-16
-          - pr-16
-          - pt-12
-          - pb-12
 slug: /Valtech
 seo:
   type: Seo
