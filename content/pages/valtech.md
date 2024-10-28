@@ -414,7 +414,7 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: See Tutorials
+        label: visiter le site
         url: /
         showIcon: true
         icon: arrowRight
