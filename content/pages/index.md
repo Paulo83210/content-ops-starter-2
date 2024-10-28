@@ -255,6 +255,14 @@ sections:
             justifyContent: center
             borderColor: border-primary
             borderWidth: 0
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     variant: dots-nav
     colors: bg-dark-fg-light
     styles:
