@@ -8,7 +8,7 @@ sections:
       text: Coveo
       color: text-primary
     subtitle: L'intelligence artificielle au service de Loto-Québec
-    text: "Coveo, une plateforme d'intelligence artificielle spécialisée dans la recherche, aide Loto-Québec dans sa transformation digitale.\_D'après une étude de Salesforce, 76 % des consommateurs attendent des entreprises qu'elles comprennent leurs besoins. Grâce à l'IA, Loto-Québec répond à ces attentes avec des expériences personnalisées qui renforcent l'engagement client et favorisent la croissance des revenus.\n"
+    text: "Coveo, une plateforme d'intelligence artificielle spécialisée dans la recherche, aide Loto-Québec dans sa transformation digitale.\_Grâce à l'IA, Loto-Québec\_comprend mieux les besoins des consommateurs et offre\_des expériences personnalisées qui renforcent l'engagement client et favorisent la croissance des revenus.\n"
     actions: []
     media:
       type: ImageBlock
@@ -189,9 +189,9 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >
-      L'intégration fluide de Coveo dans l’infrastructure de Loto-Québec ouvre
-      la voie à de nouvelles possibilités et à une intégration de la recherche
-      sur le reste des sections. 
+      L'intégration de Coveo dans l’infrastructure de Loto-Québec ouvre la voie
+      à de nouvelles possibilités et à une intégration de la recherche dans
+      toutes les sections.
     actions: []
     colors: bg-dark-fg-light
     styles:
@@ -219,7 +219,7 @@ sections:
       text: Des équipes autonomes et plus performantes grâce à Coveo
       color: text-light
     subtitle: ''
-    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Covéo En plus de fournir une plateforme technique robuste, Covéo a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n"
+    text: "L’un des piliers du succès du chantier ATE a été l'autonomisation des équipes grâce à Coveo. En plus de fournir une plateforme technique robuste, Coveo a joué un rôle clé dans la\_formation des équipes\_avec des tutoriels personnalisés et adaptés en français. Résultat : les équipes sont désormais capables de gérer elles-mêmes les futures migrations et la maintenance des sites, réduisant ainsi les délais et optimisant les ressources internes.\n"
     actions: []
     media:
       type: ImageBlock

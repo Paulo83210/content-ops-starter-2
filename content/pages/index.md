@@ -12,7 +12,7 @@ sections:
       Vous venez de vivre une expérience unique avec notre croupier virtuel en
       étant capable de vous recommander des jeux sur mesure, même avec les
       demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
-      \*
+      \* 
 
 
       En connectant intelligemment plusieurs sources de données, nous pouvons
@@ -294,16 +294,16 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Des avancées majeures propulsées par Valtech
+    subtitle: Des avancées majeures propulsées
     items:
       - type: FeaturedItem
         title: Premières migrations effectuées
         subtitle: ''
         text: >
-          Un premier défi majeur réalisé avec la migration de la section Casino
-          et Casino en Direct. Ce projet a prouvé la robustesse de notre
-          nouvelle infrastructure et permis d'affiner nos processus pour les
-          futures étapes.
+          Un premier défi majeur réalisé avec la migration de la section CASINO,
+          CASINO EN DIRECT et INSTANTS. Ce projet a prouvé la robustesse de
+          notre nouvelle infrastructure et permis d'affiner nos processus pour
+          les futures étapes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -327,7 +327,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Mise en place du nouveau CMS
-        tagline: Migration
+        tagline: Premières migrations effectuées
         subtitle: ''
         text: >
           Cette étape initiale nous a permis d’apprendre, de tester et de
@@ -349,7 +349,7 @@ sections:
             borderWidth: 2
       - type: FeaturedItem
         title: Un modèle réplicable
-        tagline: Migration
+        tagline: Premières migrations effectuées
         subtitle: ''
         text: >
           Avec cet écosystème modulaire et le design system en cours de
@@ -396,7 +396,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Une transformation humaine et durable
-        tagline: 80 personnes formées
+        tagline: Programme de formations
         subtitle: ''
         text: >
           Cette analyse a permis d'implémenter de nouvelles pratiques pour
@@ -694,32 +694,6 @@ sections:
           *   Préconisation de nouvelles organisations internes, avec des rôles
           et responsabilités adaptés.
 
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-primary
-            borderWidth: 2
-      - type: FeaturedItem
-        title: Optimisation des investissements et performance utilisateur
-        subtitle: ''
-        text: >
-          Valtech travaille main dans la main avec Loto-Québec sur
-          l'optimisation des performances liées à l’expérience utilisateur. Ce
-          projet vise à résoudre les défis liés à la gestion des données, à la
-          performance des systèmes et à la sécurité. Valtech, fort de son
-          expertise dans l’analyse des données et des innovations, aide
-          Loto-Québec à maximiser l’utilisation de ces informations pour
-          améliorer et capitaliser sur les expériences utilisateurs.
         actions: []
         colors: bg-dark-fg-light
         styles:
