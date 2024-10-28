@@ -9,17 +9,18 @@ sections:
       color: text-neutral
     subtitle: ''
     text: >
-      Vous venez de vivre une expérience unique avec notre croupier virtuel en
-      étant capable de vous recommander des jeux sur mesure, même avec les
-      demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
-      \* 
+      Vous venez de vivre une expérience unique avec notre croupier virtuel,
+      capable de recommander des jeux sur mesure, même face aux demandes les
+      plus surprenantes. Tout cela rendu possible grâce à la puissance d'un
+      écosystème technologique moderne et agile, qui connecte intelligemment les
+      données pour créer des expériences révolutionnaires. 
 
 
-      En connectant intelligemment plusieurs sources de données, nous pouvons
-      créer des expériences révolutionnaires qui réinventent l'avenir du Casino!
+      Ensemble, nous réinventons l'avenir du Casino !
 
 
-      *\*produit par Valtech*
+
+      *Produit par Valtech*
     actions: []
     media:
       type: ImageBlock
