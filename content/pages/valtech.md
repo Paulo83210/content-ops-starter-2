@@ -96,7 +96,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/tsk-2441-mach-three-blog-lp-header.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
