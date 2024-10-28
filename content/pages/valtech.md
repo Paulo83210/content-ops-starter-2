@@ -250,7 +250,7 @@ sections:
           - type: Button
             label: En découvrir plus
             altText: ''
-            url: '/https://www.valtech.com/fr-ca/expertises/commerce-accelere/'
+            url: 'https://www.valtech.com/fr-ca/expertises/commerce-accelere/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
