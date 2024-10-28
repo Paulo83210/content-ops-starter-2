@@ -189,9 +189,9 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >
-      L'intégration fluide de Coveo dans l’infrastructure de Loto-Québec ouvre
-      la voie à de nouvelles possibilités et à une intégration de la recherche
-      sur le reste des sections. 
+      L'intégration de Coveo dans l’infrastructure de Loto-Québec ouvre la voie
+      à de nouvelles possibilités et à une intégration de la recherche dans
+      toutes les sections.
     actions: []
     colors: bg-dark-fg-light
     styles:
