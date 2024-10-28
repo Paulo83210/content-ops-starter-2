@@ -425,7 +425,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/mao.png
+      url: /images/map.png
       styles:
         self:
           borderRadius: medium
