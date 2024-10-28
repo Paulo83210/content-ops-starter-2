@@ -414,7 +414,7 @@ sections:
     text: >
       Avec une telle diversité de projets en cours et une maîtrise du
       composable, Valtech continue de jouer un rôle clé dans l'évolution
-      digitale de Loto-Québec, tout en renforçant son statut de leader mondial
+      numérique de Loto-Québec, tout en renforçant son statut de leader mondial
       dans la transformation technologique.
     actions:
       - type: Link
