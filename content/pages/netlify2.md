@@ -276,7 +276,7 @@ sections:
       - type: Button
         label: 'En savoir plus '
         altText: ''
-        url: '/https://www.netlify.com/'
+        url: 'https://www.netlify.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
