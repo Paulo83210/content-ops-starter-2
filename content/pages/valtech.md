@@ -439,17 +439,6 @@ sections:
           - pb-12
           - pl-16
           - pr-16
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-16
-          - pb-12
-          - pr-16
 slug: /Valtech
 seo:
   type: Seo
