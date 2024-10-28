@@ -415,7 +415,7 @@ sections:
     actions:
       - type: Link
         label: visiter le site
-        url: '/https://www.valtech.com/fr-ca/'
+        url: 'https://www.valtech.com/fr-ca/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
