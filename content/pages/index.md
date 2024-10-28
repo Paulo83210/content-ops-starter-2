@@ -12,7 +12,7 @@ sections:
       Vous venez de vivre une expérience unique avec notre croupier virtuel en
       étant capable de vous recommander des jeux sur mesure, même avec les
       demandes les plus surprenantes. Tout ça, grâce à la magie de vos données !
-      \*
+      \* 
 
 
       En connectant intelligemment plusieurs sources de données, nous pouvons
