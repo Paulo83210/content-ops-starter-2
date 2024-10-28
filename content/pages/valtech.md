@@ -411,9 +411,7 @@ sections:
     subtitle: >-
       Présent dans 20 pays avec plus de 8000 experts dans le monde, Valtech est
       un leader mondial de la transformation numérique.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - type: Button
         label: Get started
