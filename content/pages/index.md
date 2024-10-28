@@ -621,8 +621,12 @@ sections:
         title: Ways of working et optimisation des processus
         subtitle: ''
         text: >
-          Les nouvelles pratiques étudiées ont notamment permis une
-          planification de trois mois réalisée en seulement cinq jours. 
+          Cette analyse a permis une planification trimestrielle en seulement
+          cinq jours, offrant une visibilité claire sur le déroulement, les
+          risques et les dépendances du projet. En revoyant les fondations des
+          méthodes de travail et de communication, nous avons pu améliorer
+          l’engagement de livraison et garantir une gestion efficace,
+          aboutissant à une livraison dans les délais.
         image:
           type: ImageBlock
           altText: Featured icon two
