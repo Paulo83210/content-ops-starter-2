@@ -32,66 +32,6 @@ export default function DefaultBaseLayout(props) {
                 {props.children}
                 {site.footer && <Footer {...site.footer} enableAnnotations={enableAnnotations} />}
             </div>
-        </div>
-        <div id="avatar-chat-bubble">
-<div id="avatar-chat-icon">
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="white" viewBox="0 0 24 24">
-<path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/>
-</svg>
-</div>
-</div>
- 
-<div id="avatar-chat-window">
-<iframe 
-    src="https://astro-avatar-app-4rgdkhl6vq-uc.a.run.app/?hideCanvas=true" 
-    style="width:100%;height:100%;border:none;"
-    title="aV_atar Chat">
-</iframe>
-</div>
- 
-<script>
-  (function() {
-    const chatIcon = document.getElementById('avatar-chat-icon');
-    const chatWindow = document.getElementById('avatar-chat-window');
-    let isOpen = false;
- 
-    function toggleChat() {
-      isOpen = !isOpen;
-      chatWindow.style.display = isOpen ? 'block' : 'none';
-      if (isOpen) {
-        chatWindow.style.opacity = '0';
-        chatWindow.style.transform = 'translateY(20px)';
-        chatWindow.style.transition = 'opacity 0.3s, transform 0.3s';
-        setTimeout(() => {
-          chatWindow.style.opacity = '1';
-          chatWindow.style.transform = 'translateY(0)';
-        }, 50);
-      }
-    }
- 
-    chatIcon.addEventListener('click', toggleChat);
- 
-    // Fermer en cliquant en dehors
-    document.addEventListener('click', (event) => {
-      if (isOpen && 
-          !chatWindow.contains(event.target) && 
-          !chatIcon.contains(event.target)) {
-        toggleChat();
-      }
-    });
- 
-    // Gestion responsive
-    function handleResize() {
-      if (window.innerWidth <= 480) {
-        chatWindow.style.height = window.innerHeight + 'px';
-      } else {
-        chatWindow.style.height = '600px';
-      }
-    }
- 
-    window.addEventListener('resize', handleResize);
-    handleResize();
-  })();
-</script>
-    );
+        </div> 
+  };
 }
