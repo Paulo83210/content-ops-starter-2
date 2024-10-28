@@ -413,12 +413,6 @@ sections:
       un leader mondial de la transformation numérique.
     text: ''
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
