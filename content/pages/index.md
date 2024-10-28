@@ -396,12 +396,12 @@ sections:
         tagline: Programme de formations
         subtitle: ''
         text: >
-          Cette analyse a permis d'implémenter de nouvelles pratiques pour
-          fluidifier nos processus et améliorer l’expérience des équipes. Elle a
-          eu un impact incroyable en rassurant les employés, en développant
-          leurs compétences et en créant des équipes autonomes dotées de
-          nouvelles expertises. Nous sommes maintenant en phase de "shadowing,"
-          où Valtech accompagne les équipes pour solidifier cette transition.
+          Ce programme de formation a permis d’introduire de nouvelles
+          pratiques, renforçant les compétences des équipes et leur autonomie.
+          Il a eu un impact incroyable en rassurant les employés et en
+          développant de nouvelles expertises. Nous sommes maintenant en phase
+          de 'shadowing,' où Valtech accompagne les équipes de manière continue
+          pour solidifier cette transition.
         actions: []
         colors: bg-dark-fg-light
         styles:
