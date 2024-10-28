@@ -408,7 +408,9 @@ sections:
       type: TitleBlock
       text: Valtech
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      Présent dans 20 pays avec plus de 8000 experts dans le monde, Valtech est
+      un leader mondial de la transformation numérique.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
