@@ -41,7 +41,8 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://valtech.getbynder.com/l/187fd4c0e0fa24a7/'
+      url: >-
+        https://videos.valtech.com/81555344.ihtml/player.html?token=40b5d54a286906e029d789b4b390ba91&source=embed&photo%5fid=105778777&autoPlay=0&endOn=
       autoplay: true
       loop: true
       muted: true
