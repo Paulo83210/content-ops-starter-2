@@ -618,7 +618,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Analyse des processus
+        title: Ways of working et optim
         subtitle: ''
         text: >
           Les nouvelles pratiques étudiées ont notamment permis une
