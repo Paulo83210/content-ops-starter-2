@@ -253,7 +253,7 @@ sections:
             borderWidth: 0
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Gartner logo.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
