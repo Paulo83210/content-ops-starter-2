@@ -618,7 +618,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Ways of working et optimisation des processus
+        title: ''
         subtitle: ''
         text: >
           Cette analyse a permis une planification trimestrielle en seulement
