@@ -305,7 +305,7 @@ sections:
             label: En découvrir plus
             altText: ''
             url: >-
-              /https://www.valtech.com/fr-ca/expertises/creativite-et-performance-marketing/
+              https://www.valtech.com/fr-ca/expertises/creativite-et-performance-marketing/
             showIcon: false
             icon: arrowRight
             iconPosition: right
