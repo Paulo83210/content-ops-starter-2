@@ -52,6 +52,34 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
+        title: Entre hospitalité et commerce de détail
+        tagline: La promesse du composable
+        subtitle: ''
+        text: "Il est crucial que l'architecture soutienne ces deux dualité d'affaires. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\n\n*   Expérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus\n\n"
+        image:
+          type: ImageBlock
+          url: /images/Artboard 1 copy 3 1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderWidth: 0
+            borderColor: border-primary
+      - type: FeaturedItem
         title: Qu'est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
@@ -125,34 +153,6 @@ sections:
             justifyContent: center
             borderColor: border-primary
             borderWidth: 0
-      - type: FeaturedItem
-        title: Entre hospitalité et commerce de détail
-        tagline: La promesse du composable
-        subtitle: ''
-        text: "Il est crucial que l'architecture soutienne ces deux dualité d'affaires. C'est dans cette optique que le chantier ATE avance, développant une infrastructure capable de répondre aux exigences des deux secteurs et d'optimiser l'expérience client.\n\n*   Expérience client unifiée\n\n*   Parcours connectés et personnalisés\n\n*   Faciliter la découvrabilité des jeux\n\n*   \uFEFF\uFEFFFidélité\n\n*   Améliorer l'efficacité marketing grâce à l'agilité et à la simplicité des processus\n\n"
-        image:
-          type: ImageBlock
-          url: /images/Artboard 1 copy 3 1.png
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            borderWidth: 0
-            borderColor: border-primary
       - type: FeaturedItem
         title: Flexibilité
         tagline: La promesse du composable
