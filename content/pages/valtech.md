@@ -407,7 +407,7 @@ sections:
     title:
       type: TitleBlock
       text: Valtech
-      color: text-dark
+      color: text-light
     subtitle: >-
       Présent dans 20 pays avec plus de 8000 experts dans le monde, Valtech est
       un leader mondial de la transformation numérique.
