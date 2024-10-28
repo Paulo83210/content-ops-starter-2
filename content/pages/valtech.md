@@ -9,19 +9,17 @@ sections:
       color: text-primary
     subtitle: Un partenaire stratégique pour Loto-Québec
     text: >
-      Valtech, expert en stratégie digitale et en technologies de pointe,
-      accompagne Loto-Québec dans sa transformation.
+      Chef de file en intégration technologique, Valtech soutient le passage
+      d’une architecture monolithique à une infrastructure composable, offrant à
+      Loto-Québec plus d’agilité et de flexibilité.
 
 
-      En tant que leader et chef d’orchestre, Valtech construit les fondations
-      du passage d’une architecture monolithique à une infrastructure composable
-      pour Loto Québec.
-
-
-      Avec une équipe d'experts multidisciplinaires composée de développeurs
-      back et front, d’ingénieurs DevOps, d’architectes, de QA et de Scrum
-      Masters, Valtech a agit comme une extension des ressources internes de
-      Loto-Québec, facilitant cette transition critique. 
+      Avec son équipe multidisciplinaire d'experts — développeurs back et
+      front-end, ingénieurs DevOps, architectes, QA et Scrum Masters — Valtech a
+      agit comme une extension des équipes de Loto-Québec, assurant une
+      transition fluide et efficace vers cette nouvelle ère numérique; tout en
+      assurant de la formation en continue et de l'accompagnement aux équipes de
+      Loto-Québec.
     actions: []
     badge:
       type: Badge
@@ -119,7 +117,7 @@ sections:
       text: Le CMS headless au cœur de Loto-Québec
       color: text-light
     subtitle: ''
-    text: "Plus de 6 ans de collaboration pour créer des expériences digitales rapides et fluides.\n\nEn partenariat avec Contentstack, Valtech aide Loto-Québec à moderniser son infrastructure de gestion de contenu via une solution DXP (Digital Experience Platform) composable. Cette collaboration permet à Loto-Québec de créer des expériences digitales captivantes, tout en accélérant la mise en ligne des contenus et en connectant facilement les audiences.\n\n\_\n\n> \"Valtech orchestre une symphonie d’expériences digitales qui captivent et connectent les audiences mondiales, et nous sommes extrêmement satisfaits de leur expertise et de leur passion.\"  Ramon Weterings, VP EMEA & APAC\_\n\n"
+    text: "Avec plus de six ans de collaboration avec Contentstack, Valtech aide Loto-Québec à moderniser son infrastructure de gestion de contenu à travers une solution DXP (Digital Experience Platform) composable et un CMS headless. \n\nEn construisant un nouveau modèle de données sur cette plateforme, Valtech offre à Loto-Québec la flexibilité et la rapidité nécessaires pour accélérer la mise en ligne de ses contenus, créer des expériences digitales engageantes et connecter efficacement ses audiences.\n\n\_\n\n> \"Valtech orchestre une symphonie d’expériences digitales qui captivent et connectent les audiences mondiales, et nous sommes extrêmement satisfaits de leur expertise et de leur passion.\"  Ramon Weterings, VP EMEA & APAC\_\n\n"
     actions: []
     media:
       type: ImageBlock
@@ -425,7 +423,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/map.png
+      url: /images/map3.png
       styles:
         self:
           borderRadius: medium
