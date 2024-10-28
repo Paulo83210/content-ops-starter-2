@@ -122,11 +122,12 @@ sections:
           L'objectif de ce chantier est de moderniser l'infrastructure
           technologique en adoptant une architecture composable et modulaire,
           notamment avec un CMS headless. Cela permettra de créer des
-          expériences plus humaines et personnalisées, tout en augmentant la
-          vélocité opérationnelle pour livrer des projets plus rapidement. Cette
-          approche améliore également la performance technique et la stabilité
-          des services (API), comme la réduction des temps de chargement, tout
-          en assurant une flexibilité et une évolutivité accrues.
+          **expériences plus humaines et personnalisées**, tout en augmentant la
+          **vélocité opérationnelle** pour livrer des projets plus rapidement.
+          Cette approche améliore également la **performance technique et la
+          stabilité des services (API)**, comme la réduction des temps de
+          chargement, tout en assurant une flexibilité et une évolutivité
+          accrues.
         image:
           type: ImageBlock
           url: /images/Artboard 1 copy 7 1.png
