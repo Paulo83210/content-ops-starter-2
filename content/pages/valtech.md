@@ -439,7 +439,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-14
+          - pl-16
   - type: DividerSection
     title: Divider
     elementId: ''
