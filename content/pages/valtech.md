@@ -39,25 +39,13 @@ sections:
           - pb-12
           - pr-16
     media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://valtech.getbynder.com/l/187fd4c0e0fa24a7/'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
+      type: ImageBlock
+      url: /images/diversity--inclusion-image4-valtech.webp
+      altText: Image alt text placeholder
+      elementId: ''
       styles:
         self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+          borderRadius: medium
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -108,7 +96,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/tsk-2441-mach-three-blog-lp-header.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -386,7 +374,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=-v7FHfKa70g'
       autoplay: true
       loop: true
       muted: true
