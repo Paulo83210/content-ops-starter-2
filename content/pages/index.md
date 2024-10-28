@@ -80,6 +80,40 @@ sections:
             borderWidth: 0
             borderColor: border-primary
       - type: FeaturedItem
+        title: Répondre à des besoins d'affaires
+        tagline: La promesse du composable
+        subtitle: ''
+        text: >
+          Une architecture composable utilise des technologies adaptées pour
+          répondre aux besoins d'affaires, permettant ainsi de choisir les
+          meilleurs outils pour chaque fonction. Elle offre une agilité qui
+          permet aux entreprises de s'adapter rapidement aux changements du
+          marché et aux demandes des clients. Fini les blocages à l'innovation:
+          nous devenons plus flexibles, réactifs et mieux préparés pour les
+          défis futurs!
+        image:
+          type: ImageBlock
+          url: /images/Group 30 copie.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderColor: border-primary
+            borderWidth: 0
+      - type: FeaturedItem
         title: Qu'est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
@@ -118,40 +152,6 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-light
-            borderWidth: 0
-      - type: FeaturedItem
-        title: Répondre à des besoins d'affaires
-        tagline: La promesse du composable
-        subtitle: ''
-        text: >
-          Une architecture composable utilise des technologies adaptées pour
-          répondre aux besoins d'affaires, permettant ainsi de choisir les
-          meilleurs outils pour chaque fonction. Elle offre une agilité qui
-          permet aux entreprises de s'adapter rapidement aux changements du
-          marché et aux demandes des clients. Fini les blocages à l'innovation:
-          nous devenons plus flexibles, réactifs et mieux préparés pour les
-          défis futurs!
-        image:
-          type: ImageBlock
-          url: /images/Group 30 copie.png
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-primary
             borderWidth: 0
       - type: FeaturedItem
         title: Flexibilité
