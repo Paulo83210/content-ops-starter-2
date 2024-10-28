@@ -118,19 +118,15 @@ sections:
         title: Qu'est-ce que le chantier ATE ?
         tagline: Loto-Québec prépare son avenir
         subtitle: ATE (Architecture Technologique et Expérientielle)
-        text: >+
+        text: >
           L'objectif de ce chantier est de moderniser l'infrastructure
           technologique en adoptant une architecture composable et modulaire,
-          avec en particulier la mise en place d'un CMS headless. Cela permettra
-          de créer des expériences plus humaines, personnalisées et pertinentes,
-          tout en garantissant une flexibilité et une évolutivité accrues.
-
-
-
-
-
-
-
+          notamment avec un CMS headless. Cela permettra de créer des
+          expériences plus humaines et personnalisées, tout en augmentant la
+          vélocité opérationnelle pour livrer des projets plus rapidement. Cette
+          approche améliore également la performance technique et la stabilité
+          des services (API), comme la réduction des temps de chargement, tout
+          en assurant une flexibilité et une évolutivité accrues.
         image:
           type: ImageBlock
           url: /images/Artboard 1 copy 7 1.png
