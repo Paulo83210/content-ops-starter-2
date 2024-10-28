@@ -483,7 +483,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Group 30.png
+          url: /images/Group 30 copie.png
           altText: Placeholder text
           styles:
             self:
