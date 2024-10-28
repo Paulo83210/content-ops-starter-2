@@ -33,5 +33,5 @@ export default function DefaultBaseLayout(props) {
                 {site.footer && <Footer {...site.footer} enableAnnotations={enableAnnotations} />}
             </div>
         </div> 
-    );
+    )
 }
