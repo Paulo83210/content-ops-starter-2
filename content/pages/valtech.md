@@ -40,7 +40,7 @@ sections:
           - pr-16
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/diversity--inclusion-image4-valtech.webp
       altText: Image alt text placeholder
       elementId: ''
       styles:
