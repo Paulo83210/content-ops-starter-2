@@ -72,7 +72,7 @@ function ChatBubble() {
 
             <div id="avatar-chat-window">
                 <iframe 
-                    src="https://astro-avatar-app-4rgdkhl6vq-uc.a.run.app/?hideCanvas=true" 
+                    src="https://astro-app-4rgdkhl6vq-uc.a.run.app/?hideCanvas=true" 
                     style={{width:'100%', height:'100%', border:'none'}}
                     title="aV_atar Chat"
                 />
