@@ -423,7 +423,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/mao.png
+      url: /images/map3.png
       styles:
         self:
           borderRadius: medium
